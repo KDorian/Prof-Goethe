@@ -17,4 +17,27 @@
     <string name="title_activity_a22">A2.2.</string>
     <string name="title_activity_b11">B1.1</string>
     <string name="title_activity_b12">B1.2.</string>
+
+    <string-array name="sliding_drawer_array_a11">
+        <item>Kapitel 01</item>
+        <item>Kapitel 02</item>
+        <item>Kapitel 03</item>
+        <item>Kapitel 04</item>
+        <item>Kapitel 05</item>
+        <item>Kapitel 06</item>
+        <item>Kapitel 07</item>
+        <item>Kapitel 08</item>
+        <item>Kapitel 09</item>
+        <item>Kapitel 10</item>
+        <item>Kapitel 11</item>
+        <item>Kapitel 12</item>
+    </string-array>
+
+    <string name="drawer_open">Otwórz panel nawigacji</string>
+    <string name="drawer_close">Zamknij panel nawigacji</string>
+
+    <string name="red_fragment">To jest CZERWONY fragment</string>
+    <string name="yelloe_fragment">To jest ŹÓŁTY fragment</string>
+    <string name="green_fragment">To jest ZIELONY fragment</string>
+    <string name="blue_fragment">To jest NIEBIESKI fragment</string>
 </resources>
