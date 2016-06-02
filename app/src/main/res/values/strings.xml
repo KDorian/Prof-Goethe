@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">Prof Goethe</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string-array name="choices_array">
+        <item>A1.1.</item>
+        <item>A1.2.</item>
+        <item>A2.1.</item>
+        <item>A2.2.</item>
+        <item>B1.1</item>
+        <item>B1.2</item>
+    </string-array>
+
+    <string name="title_activity_a11">A1.1.</string>
+    <string name="title_activity_a12">A1.2.</string>
+    <string name="title_activity_a21">A2.1</string>
+    <string name="title_activity_a22">A2.2.</string>
+    <string name="title_activity_b11">B1.1</string>
+    <string name="title_activity_b12">B1.2.</string>
 </resources>
