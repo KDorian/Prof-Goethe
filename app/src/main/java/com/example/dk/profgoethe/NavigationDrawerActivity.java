@@ -1,21 +1,26 @@
-/*
 package com.example.dk.profgoethe;
 
-        import android.app.FragmentManager;
-        import android.content.res.Configuration;
-        import android.content.res.Resources;
-        import android.os.Bundle;
-        import android.support.v4.view.GravityCompat;
-        import android.support.v7.app.*;
-        import android.view.Menu;
-        import android.view.MenuItem;
-        import android.support.v4.widget.DrawerLayout;
-        import android.view.View;
-        import android.widget.AdapterView;
-        import android.widget.ArrayAdapter;
-        import android.widget.ListView;
-        import android.widget.RelativeLayout;
-        import android.app.Fragment;
+/**
+ * Created by DK on 2016-06-03.
+ */
+
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.content.res.Configuration;
+import android.content.res.Resources;
+import android.os.Bundle;
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.ActionBarDrawerToggle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.RelativeLayout;
+
 
 
 public class NavigationDrawerActivity extends ActionBarActivity {
@@ -36,18 +41,10 @@ public class NavigationDrawerActivity extends ActionBarActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
         mDrawerToggle = new ActionBarDrawerToggle(
-                this,                  */
-/* host Activity *//*
-
-                mDrawerLayout,         */
-/* DrawerLayout object *//*
-
-                R.string.drawer_open,  */
-/* "open drawer" description for accessibility *//*
-
-                R.string.drawer_close  */
-/* "close drawer" description for accessibility *//*
-
+                this,                  /* host Activity */
+                mDrawerLayout,         /* DrawerLayout object */
+                R.string.drawer_open,  /* "open drawer" description for accessibility */
+                R.string.drawer_close  /* "close drawer" description for accessibility */
         );
 
         mDrawerLayout.setDrawerListener(mDrawerToggle);
@@ -68,8 +65,7 @@ public class NavigationDrawerActivity extends ActionBarActivity {
                     case 0:  //RED
                         fragment = new RedFragment();
                         break;
-                    */
-/*case 1: //GREEN
+                    /*case 1: //GREEN
                         fragment = new GreenFragment();
                         break;
                     case 2: //BLUE
@@ -77,8 +73,7 @@ public class NavigationDrawerActivity extends ActionBarActivity {
                         break;
                     case 3:  // YELLOW
                         fragment = new YellowFragment();
-                        break;*//*
-
+                        break;*/
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
                 setTitle(mDrawerOptionLabels[position]);
@@ -128,4 +123,4 @@ public class NavigationDrawerActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 }
-*/
+

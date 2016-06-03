@@ -19,8 +19,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".A11Activity"
-            android:label="@string/title_activity_a11" >
+            android:name=".NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppThemeAppCompat" >
+            >
         </activity>
     </application>
 
