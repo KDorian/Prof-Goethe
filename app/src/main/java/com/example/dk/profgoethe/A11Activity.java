@@ -35,7 +35,9 @@ public class A11Activity extends AppCompatActivity {
         mDrawerListView = (ListView) findViewById(R.id.left_drawer);
         mDrawerRelativeLayout = (RelativeLayout) findViewById(R.id.left_drawer_layout);
         mDrawerLayout.setDrawerShadow(R.drawable.drawer_shadow, GravityCompat.START);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        if(getSupportActionBar() != null){
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        }
         getSupportActionBar().setHomeButtonEnabled(true);
         mDrawerToggle = new ActionBarDrawerToggle(
                 this,                  /* host Activity */
