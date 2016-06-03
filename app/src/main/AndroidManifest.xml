@@ -19,8 +19,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".NavigationDrawerActivity"
-            android:label="@string/title_activity_navigation_drawer"
+        android:name=".NavigationDrawerActivity"
+        android:label="@string/title_activity_navigation_drawer"
+        android:theme="@style/AppThemeAppCompat" >
+        >
+    </activity>
+        <activity
+            android:name=".A11Activity"
+            android:label="@string/title_activity_navigation_drawer_a11"
             android:theme="@style/AppThemeAppCompat" >
             >
         </activity>

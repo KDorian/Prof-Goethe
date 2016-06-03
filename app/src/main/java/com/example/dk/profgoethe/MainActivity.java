@@ -31,6 +31,9 @@ public class MainActivity extends Activity {
                     case 0:
                         startActivity(new Intent(MainActivity.this, NavigationDrawerActivity.class));
                         break;
+                    case 1:
+                        startActivity(new Intent(MainActivity.this, A11Activity.class));
+                        break;
                 }
 
             }

@@ -34,6 +34,7 @@
     </string-array>
 
     <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="title_activity_navigation_drawer_a11">A11</string>
 
     <string name="drawer_open">Otwórz panel nawigacji</string>
     <string name="drawer_close">Zamknij panel nawigacji</string>
@@ -42,4 +43,5 @@
     <string name="yelloe_fragment">To jest ŹÓŁTY fragment</string>
     <string name="green_fragment">To jest ZIELONY fragment</string>
     <string name="blue_fragment">To jest NIEBIESKI fragment</string>
+    <string name="a11_fragment">A11</string>
 </resources>

@@ -1,4 +1,3 @@
-/*
 package com.example.dk.profgoethe;
 
         import android.app.FragmentManager;
@@ -18,7 +17,7 @@ package com.example.dk.profgoethe;
         import android.app.Fragment;
 
 
-public class NavigationDrawerActivity extends ActionBarActivity {
+public class A11Activity extends ActionBarActivity {
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerListView;
     private RelativeLayout mDrawerRelativeLayout;
@@ -35,19 +34,12 @@ public class NavigationDrawerActivity extends ActionBarActivity {
         mDrawerLayout.setDrawerShadow(R.drawable.drawer_shadow, GravityCompat.START);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setHomeButtonEnabled(true);
         mDrawerToggle = new ActionBarDrawerToggle(
-                this,                  */
-/* host Activity *//*
-
-                mDrawerLayout,         */
-/* DrawerLayout object *//*
-
-                R.string.drawer_open,  */
-/* "open drawer" description for accessibility *//*
-
-                R.string.drawer_close  */
-/* "close drawer" description for accessibility *//*
-
+                this,                  /* host Activity */
+                mDrawerLayout,         /* DrawerLayout object */
+                R.string.drawer_open,  /* "open drawer" description for accessibility */
+                R.string.drawer_close  /* "close drawer" description for accessibility */
         );
 
         mDrawerLayout.setDrawerListener(mDrawerToggle);
@@ -63,13 +55,12 @@ public class NavigationDrawerActivity extends ActionBarActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 FragmentManager fragmentManager = getFragmentManager();
-                Fragment fragment = new RedFragment();
+                Fragment fragment = new A11Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
                     case 0:  //RED
-                        fragment = new RedFragment();
+                        fragment = new A11Fragment();
                         break;
-                    */
-/*case 1: //GREEN
+                    /*case 1: //GREEN
                         fragment = new GreenFragment();
                         break;
                     case 2: //BLUE
@@ -77,7 +68,7 @@ public class NavigationDrawerActivity extends ActionBarActivity {
                         break;
                     case 3:  // YELLOW
                         fragment = new YellowFragment();
-                        break;*//*
+                        break;*/
 
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
@@ -89,8 +80,8 @@ public class NavigationDrawerActivity extends ActionBarActivity {
 
         if (savedInstanceState == null) {
             FragmentManager fragmentManager = getFragmentManager();
-            Fragment fragment = new RedFragment();
-            fragment = new RedFragment();
+            Fragment fragment = new A11Fragment();
+            fragment = new A11Fragment();
             fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
             setTitle(mDrawerOptionLabels[0]);
         }
@@ -128,4 +119,3 @@ public class NavigationDrawerActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 }
-*/
