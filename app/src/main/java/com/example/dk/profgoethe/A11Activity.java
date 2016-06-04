@@ -55,15 +55,15 @@ public class A11Activity extends ActionBarActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 FragmentManager fragmentManager = getFragmentManager();
-                Fragment fragment = new A11Fragment();
+                Fragment fragment = new A11Kap01Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
                     case 0:  //RED
+                        fragment = new A11Kap01Fragment();
+                        break;
+                    case 1: //GREEN
                         fragment = new A11Fragment();
                         break;
-                    /*case 1: //GREEN
-                        fragment = new GreenFragment();
-                        break;
-                    case 2: //BLUE
+                    /*case 2: //BLUE
                         fragment = new BlueFragment();
                         break;
                     case 3:  // YELLOW
