@@ -45,4 +45,32 @@
     <string name="green_fragment">To jest ZIELONY fragment</string>
     <string name="blue_fragment">To jest NIEBIESKI fragment</string>
     <string name="a11_fragment">A11</string>
+
+    <string name="poziom_jezykowy_sluchanie">Słuchanie</string>
+    <string name="poziom_jezykowy_czytanie">Czytanie</string>
+    <string name="poziom_jezykowy_porozumiewanie">Porozumiewanie się</string>
+    <string name="poziom_jezykowy_wypowiadanie">Samodzielne wypowiadanie się</string>
+    <string name="poziom_jezykowy_pisanie">Pisanie</string>
+
+    <string name="a1_sluchanie">Potrafię zrozumieć znane mi słowa i bardzo podstawowe wyrażenia
+        dotyczące mnie osobiście, mojej rodziny i bezpośredniego otoczenia, gdy tempo wypowiedzi
+        jest wolne a wymowa wyraźna.</string>
+
+    <string name="a1_czytanie">Rozumiem znane nazwy, słowa i bardzo proste zdania, np.: na
+        tablicach informacyjnych i plakatach lub w katalogach.</string>
+
+    <string name="a1_porozumiewanie">Potrafię brać udział w rozmowie pod warunkiem, że rozmówca
+        jest gotów powtarzać lub inaczej formułować swoje myśli, mówiąc wolniej oraz pomagając mi
+        ująć w słowa to, co usiłuję opowiedzieć. Potrafię formułować proste pytania dotyczące
+        najlepiej mi znanych tematów lub najpotrzebniejszych spraw – i odpowiadać na tego typu
+        pytania.</string>
+
+    <string name="a1_wypowiadanie">Potrafię używać prostych wyrażeń i zdań, aby opisać miejsce,
+        gdzie mieszkam oraz ludzi, których znam.</string>
+
+    <string name="a1_pisanie">Potrafię napisać krótki, prosty tekst na widokówce, np. z
+        pozdrowieniami z wakacji. Potrafię wypełniać formularze (np. w hotelu) z danymi osobowymi,
+        takimi jak nazwisko, adres, obywatelstwo. </string>
+
+
 </resources>
