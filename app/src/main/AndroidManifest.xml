@@ -10,8 +10,8 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:label="@string/app_name">
+            <!--android:theme="@style/AppTheme.NoActionBar"-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,14 +21,14 @@
         <activity
         android:name=".NavigationDrawerActivity"
         android:label="@string/title_activity_navigation_drawer"
-        android:theme="@style/AppThemeAppCompat" >
-        >
+        android:theme="@style/AppThemeAppCompat">
+
     </activity>
         <activity
             android:name=".A11Activity"
             android:label="@string/title_activity_navigation_drawer_a11"
-            android:theme="@style/AppThemeAppCompat" >
-            >
+            android:theme="@style/AppThemeAppCompat">
+
         </activity>
     </application>
 

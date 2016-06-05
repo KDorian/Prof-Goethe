@@ -29,10 +29,10 @@ public class MainActivity extends Activity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch (position) {
                     case 0:
-                        startActivity(new Intent(MainActivity.this, NavigationDrawerActivity.class));
+                        startActivity(new Intent(MainActivity.this, A11Activity.class));
                         break;
                     case 1:
-                        startActivity(new Intent(MainActivity.this, A11Activity.class));
+                        startActivity(new Intent(MainActivity.this, NavigationDrawerActivity.class));
                         break;
                 }
 
