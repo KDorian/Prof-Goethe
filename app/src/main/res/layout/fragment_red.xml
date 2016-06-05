@@ -3,15 +3,41 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ffff0000"
     tools:context="com.example.dk.profgoethe">
+    <!--android:background="#ffff0000"-->
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="@string/red_fragment"
-        android:textColor="#ffffff" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:stretchColumns="*">
+
+        <TableRow android:layout_margin="1dp">
+
+            <TextView
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:text="first column" />
+
+            <TextView
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:text="second column" />
+        </TableRow>
+        <TableRow android:layout_margin="1dp">
+
+            <TextView
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:text="first column" />
+
+            <TextView
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:text="second column" />
+        </TableRow>
+
+    </TableLayout>
 
 </FrameLayout>
