@@ -19,6 +19,7 @@
     <string name="title_activity_b12">B1.2.</string>
 
     <string-array name="sliding_drawer_array_a11">
+        <item>A1.1.</item>
         <item>Kapitel 01</item>
         <item>Kapitel 02</item>
         <!--<item>Kapitel 03</item>-->
