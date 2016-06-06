@@ -76,13 +76,13 @@
     <string name="punkt">&#8226;</string>
     <string name="komunikacja">KOMMUNIKATION</string>
 
-    <string name="kap01_gram_tem1">Verb: Konjugation</string>
+    <string name="kap01_gram_tem1">- Verb: Konjugation</string>
     <string name="kap01_gram_tem1_rz1" />
     <string name="kap01_gram_tem1_rz2">kommen</string>
     <string name="kap01_gram_tem1_rz3">hei&#223;en</string>
     <string name="kap01_gram_tem1_rz4">sein</string>
 
-    <string name="kap01_kom_tem1">Name</string>
+    <string name="kap01_kom_tem1">- Name</string>
     <string name="kap01_kom_tem1_rz1">Wie hei&#223;en Sie? / Wie hei&#223;t du?</string>
     <string name="kap01_gram_tem1_rz5">ich</string>
     <string name="kap01_gram_tem1_rz6">komme</string>
@@ -100,28 +100,28 @@
     <string name="kap01_gram_tem1_rz18">kommt</string>
     <string name="kap01_gram_tem1_rz19">hei&#223;t</string>
     <string name="kap01_gram_tem1_rz20">ist</string>
-    <string name="kap01_gram_tem2">W-Frage: wer, wie, woher</string>
+    <string name="kap01_gram_tem2">- W-Frage: wer, wie, woher</string>
     <string name="kap01_gram_tem2_rz1">Wer ist das?</string>
     <string name="kap01_gram_tem2_rz2">Wie hei&#223;en Sie?</string>
     <string name="kap01_gram_tem2_rz3">Woher kommst du?</string>
-    <string name="kap01_gram_tem3">Aussage</string>
+    <string name="kap01_gram_tem3">- Aussage</string>
     <string name="kap01_gram_tem3_rz1">Ich hei&#223;e Paco.</string>
     <string name="kap01_gram_tem3_rz2">Ich komme aus &#214;sterreich.</string>
     <string name="kap01_gram_tem3_rz3">Mein Name ist Valerie.</string>
     <string name="kap01_kom_tem1_rz2">Wer sind Sie? / Wer bist du?</string>
     <string name="kap01_kom_tem1_rz3">Ich bin / hei&#223;e Nicole.</string>
     <string name="kap01_kom_tem1_rz4">Mein Name ist Paco.</string>
-    <string name="kap01_kom_tem2">Herkunft</string>
+    <string name="kap01_kom_tem2">- Herkunft</string>
     <string name="kap01_kom_tem2_rz1">Woher kommen Sie? / Woher kommst du?</string>
     <string name="kap01_kom_tem2_rz2">(Ich komme) Aus Mexico.</string>
-    <string name="kap01_kom_tem3">sich und andere vorstellen</string>
+    <string name="kap01_kom_tem3">- sich und andere vorstellen</string>
     <string name="kap01_kom_tem3_rz1">Das ist Paco / Frau Walter. Er / Sie kommt aus Mexico.</string>
-    <string name="kap01_kom_tem4">nach dem Befinden fragen</string>
+    <string name="kap01_kom_tem4">- nach dem Befinden fragen</string>
     <string name="kap01_kom_tem4_rz1">Wie geht es Ihnen? / Wie geht\'s? / Wie geht es dir?</string>
     <string name="kap01_kom_tem4_rz2">Sehr gut. / Gut, danke. / Es geht. / Nicht so gut.</string>
     <string name="kap01_kom_tem4_rz3">Gut, danke. Und Ihnen?</string>
     <string name="kap01_kom_tem4_rz4">Auch gut.</string>
-    <string name="kap01_kom_tem5">um Wiederholung bitten</string>
+    <string name="kap01_kom_tem5">- um Wiederholung bitten</string>
     <string name="kap01_kom_tem5_rz1">Wie bitte?</string>
 
 
