@@ -19,6 +19,7 @@
             android:id="@+id/textView90"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
             android:layout_marginTop="0dp"
             android:text="@string/gramatyka"
             android:textAppearance="?android:attr/textAppearanceLarge" />
@@ -35,6 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
+            android:layout_margin="10dp"
             android:background="#000000"
             android:stretchColumns="*">
 
@@ -59,6 +61,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -70,6 +73,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -81,6 +85,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
@@ -95,6 +100,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -106,6 +112,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -117,6 +124,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz7"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -128,6 +136,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz8"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
@@ -142,6 +151,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz9"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -153,6 +163,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz10"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -164,6 +175,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz11"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -175,6 +187,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz12"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -190,6 +203,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz13"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -201,6 +215,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz14"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -212,6 +227,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz15"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -223,6 +239,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz16"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -238,6 +255,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz17"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -249,6 +267,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz18"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -260,6 +279,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz19"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -271,6 +291,7 @@
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
+                    android:gravity="center"
                     android:text="@string/kap01_gram_tem1_rz20"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -288,8 +309,9 @@
         <TableLayout
             android:id="@+id/tableLayout2"
             android:layout_width="match_parent"
-
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -298,6 +320,7 @@
                 <TextView
                     android:id="@+id/textView93"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -317,6 +340,7 @@
                 <TextView
                     android:id="@+id/textView95"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -336,6 +360,7 @@
                 <TextView
                     android:id="@+id/textView97"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -362,8 +387,9 @@
         <TableLayout
             android:id="@+id/tableLayout3"
             android:layout_width="match_parent"
-
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -372,6 +398,7 @@
                 <TextView
                     android:id="@+id/textView100"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -391,6 +418,7 @@
                 <TextView
                     android:id="@+id/textView102"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -410,6 +438,7 @@
                 <TextView
                     android:id="@+id/textView104"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -427,6 +456,8 @@
             android:id="@+id/textView106"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
             android:text="@string/komunikacja"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -440,8 +471,9 @@
         <TableLayout
             android:id="@+id/tableLayout4"
             android:layout_width="match_parent"
-
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -450,6 +482,7 @@
                 <TextView
                     android:id="@+id/textView108"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -469,6 +502,7 @@
                 <TextView
                     android:id="@+id/textView110"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -488,6 +522,7 @@
                 <TextView
                     android:id="@+id/textView112"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -507,6 +542,7 @@
                 <TextView
                     android:id="@+id/textView114"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -530,8 +566,9 @@
         <TableLayout
             android:id="@+id/tableLayout5"
             android:layout_width="match_parent"
-
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -540,6 +577,7 @@
                 <TextView
                     android:id="@+id/textView117"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -554,11 +592,13 @@
 
             <TableRow
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp">
 
                 <TextView
                     android:id="@+id/textView119"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -582,7 +622,9 @@
         <TableLayout
             android:id="@+id/tableLayout6"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -591,6 +633,7 @@
                 <TextView
                     android:id="@+id/textView122"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -610,6 +653,7 @@
                 <TextView
                     android:id="@+id/textView124"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -629,6 +673,7 @@
                 <TextView
                     android:id="@+id/textView126"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -648,6 +693,7 @@
                 <TextView
                     android:id="@+id/textView127"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -670,7 +716,9 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -679,6 +727,7 @@
                 <TextView
                     android:id="@+id/textView131"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -701,7 +750,9 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -712,6 +763,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
+                    android:gravity="center"
                     android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
