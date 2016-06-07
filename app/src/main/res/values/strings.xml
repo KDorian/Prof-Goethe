@@ -158,7 +158,7 @@
     <string name="kap02_gram_tem1_rz26">sind</string>
     <string name="kap02_gram_tem1_rz27">seid</string>
     <string name="kap02_gram_tem1_rz28">sind</string>
-    <string name="kap02_gram_tem1_rz29">auch so: wohnen, leben...</string>
+    <string name="kap02_gram_tem1_rz29">auch so: wohnen, leben&#8230;</string>
     <string name="kap02_gram_tem1">- Verb: Konjugation</string>
     <string name="kap02_gram_tem2">- Pr&#228;positionen als, bei, in</string>
     <string name="kap02_gram_tem2_rz1">als</string>
@@ -171,25 +171,25 @@
     <string name="kap02_gram_tem3_rz1">der Journalist</string>
     <string name="kap02_gram_tem3_rz2">der Arzt</string>
     <string name="kap02_gram_tem3_rz3">die Journalistin</string>
-    <string name="kap02_gram_tem3_rz4">die Aerztin</string>
+    <string name="kap02_gram_tem3_rz4">die &#196;rztin</string>
     <string name="kap02_gram_tem4">- Negation mit nicht</string>
     <string name="kap02_gram_tem4_rz1">Wir leben nicht zusammen.</string>
     <string name="kap02_gram_tem4_rz2">Sie wohnt nicht in K&#246;ln.</string>
     <string name="kap02_kom_tem1">- &#252;ber den Beruf sprechen</string>
     <string name="kap02_kom_tem1_rz1">Was sind Sie / bist du von Beruf?</string>
     <string name="kap02_kom_tem1_rz2">Was machen Sie / machst du beruflich?</string>
-    <string name="kap02_kom_tem1_rz3">Ich bin / arbeite als ... bei ... .</string>
+    <string name="kap02_kom_tem1_rz3">Ich bin / arbeite als &#8230; bei &#8230; .</string>
     <string name="kap02_kom_tem1_rz4">Ich bin Student / Schuelerin.</string>
-    <string name="kap02_kom_tem1_rz5">Ich habe einen Job als ... .</string>
-    <string name="kap02_kom_tem1_rz6">Ich mache eine Ausbildung als ... / ein Praktikum bei ... .</string>
+    <string name="kap02_kom_tem1_rz5">Ich habe einen Job als &#8230; .</string>
+    <string name="kap02_kom_tem1_rz6">Ich mache eine Ausbildung als &#8230; / ein Praktikum bei &#8230; .</string>
     <string name="kap02_kom_tem2">- &#252;ber Persoenliches sprechen</string>
     <string name="kap02_kom_tem2_rz1">Wo wohnen Sie / wohnst du?</string>
-    <string name="kap02_kom_tem2_rz2">Ich wohne / lebe in ... .</string>
+    <string name="kap02_kom_tem2_rz2">Ich wohne / lebe in &#8230; .</string>
     <string name="kap02_kom_tem2_rz3">Ich bin verheiratet / geschieden / Single.</string>
     <string name="kap02_kom_tem2_rz4">Wir leben zusammen / nicht zusammen.</string>
-    <string name="kap02_kom_tem2_rz5">Ich habe ein Kind /\n zwei, drei ... Kinder /\n keine Kinder.</string>
+    <string name="kap02_kom_tem2_rz5">Ich habe ein Kind / zwei, drei &#8230; Kinder / keine Kinder.</string>
     <string name="kap02_kom_tem2_rz6">Wie alt sind Sie / bist du?</string>
-    <string name="kap02_kom_tem2_rz7">Ich bin ... Jahre alt.</string>
+    <string name="kap02_kom_tem2_rz7">Ich bin &#8230; Jahre alt.</string>
 
 
 </resources>

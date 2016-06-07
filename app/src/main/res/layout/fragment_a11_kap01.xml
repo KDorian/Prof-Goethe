@@ -307,7 +307,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_gram_tem2"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:id="@+id/tableLayout2"
@@ -412,7 +413,7 @@
             android:text="@string/kap01_gram_tem3"
             android:textAppearance="?android:attr/textAppearanceMedium"
 
-            />
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:id="@+id/tableLayout3"
@@ -486,7 +487,7 @@
             android:id="@+id/textView106"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
+            android:layout_marginBottom="5dp"
             android:layout_marginLeft="10dp"
             android:text="@string/komunikacja"
             android:textAppearance="?android:attr/textAppearanceLarge" />
@@ -496,7 +497,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_kom_tem1"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:id="@+id/tableLayout4"
@@ -591,7 +593,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_kom_tem2"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:id="@+id/tableLayout5"
@@ -647,7 +650,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_kom_tem4"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:id="@+id/tableLayout6"
@@ -742,7 +746,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_kom_tem3"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
@@ -776,7 +781,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap01_kom_tem5"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
