@@ -12,10 +12,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
-/**
- * Created by DK on 2016-06-02.
- */
 public class A11Kap01Fragment extends Fragment {
 
 

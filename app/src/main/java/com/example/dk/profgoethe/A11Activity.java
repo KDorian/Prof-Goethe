@@ -63,10 +63,10 @@ public class A11Activity extends ActionBarActivity {
                     case 1: //A1.1. Kapitel 01
                         fragment = new A11Kap01Fragment();
                         break;
-                    /*case 2: //BLUE
-                        fragment = new BlueFragment();
+                    case 2: //A1.1. Kapitel02
+                        fragment = new A11Kap02Fragment();
                         break;
-                    case 3:  // YELLOW
+                    /*case 3:  // YELLOW
                         fragment = new YellowFragment();
                         break;*/
 
