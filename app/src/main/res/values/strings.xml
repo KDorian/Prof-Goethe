@@ -101,9 +101,9 @@
     <string name="kap01_gram_tem1_rz19">hei&#223;t</string>
     <string name="kap01_gram_tem1_rz20">ist</string>
     <string name="kap01_gram_tem2">- W-Frage: wer, wie, woher</string>
-    <string name="kap01_gram_tem2_rz1">Wer ist das?</string>
-    <string name="kap01_gram_tem2_rz2">Wie hei&#223;en Sie?</string>
-    <string name="kap01_gram_tem2_rz3">Woher kommst du?</string>
+    <string name="kap01_gram_tem2_rz1">er ist das?</string>
+    <string name="kap01_gram_tem2_rz2">ie hei&#223;en Sie?</string>
+    <string name="kap01_gram_tem2_rz3">oher kommst du?</string>
     <string name="kap01_gram_tem3">- Aussage</string>
     <string name="kap01_gram_tem3_rz1">Ich hei&#223;e Paco.</string>
     <string name="kap01_gram_tem3_rz2">Ich komme aus &#214;sterreich.</string>
@@ -123,6 +123,7 @@
     <string name="kap01_kom_tem4_rz4">Auch gut.</string>
     <string name="kap01_kom_tem5">- um Wiederholung bitten</string>
     <string name="kap01_kom_tem5_rz1">Wie bitte?</string>
+    <string name="w">W</string>
 
 
 </resources>
