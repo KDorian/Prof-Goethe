@@ -190,6 +190,16 @@
     <string name="kap02_kom_tem2_rz5">Ich habe ein Kind / zwei, drei &#8230; Kinder / keine Kinder.</string>
     <string name="kap02_kom_tem2_rz6">Wie alt sind Sie / bist du?</string>
     <string name="kap02_kom_tem2_rz7">Ich bin &#8230; Jahre alt.</string>
+    <string name="maskulin">maskulin</string>
+    <string name="feminin">feminin</string>
+    <string name="plural">Plural</string>
+    <string name="kap03_gram_tem1">- Possessivartikel mein / dein</string>
+    <string name="kap03_gram_tem1_rz1">mein Bruder</string>
+    <string name="kap03_gram_tem1_rz">dein Bruder</string>
+    <string name="kap03_gram_tem1_rz3">meine Schwester</string>
+    <string name="kap03_gram_tem1_rz4">deine Schwester</string>
+    <string name="kap03_gram_tem1_rz5">meine Eltern</string>
+    <string name="kap03_gram_tem1_rz6">deine Eltern</string>
 
 
 </resources>

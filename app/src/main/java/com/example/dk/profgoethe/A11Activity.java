@@ -66,9 +66,9 @@ public class A11Activity extends ActionBarActivity {
                     case 2: //A1.1. Kapitel02
                         fragment = new A11Kap02Fragment();
                         break;
-                    /*case 3:  // YELLOW
-                        fragment = new YellowFragment();
-                        break;*/
+                    case 3: //A1.1. Kapitel02
+                        fragment = new A11Kap03Fragment();
+                        break;
 
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
