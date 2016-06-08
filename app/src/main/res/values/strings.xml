@@ -200,7 +200,7 @@
     <string name="kap03_gram_tem1_rz4">deine Schwester</string>
     <string name="kap03_gram_tem1_rz5">meine Eltern</string>
     <string name="kap03_gram_tem1_rz6">deine Eltern</string>
-    <string name="kap03_gram_tem2">- Ja- / Nein- Frage und Aussage</string>
+    <string name="kap03_gram_tem2">- Ja- / Nein Frage und Aussage</string>
     <string name="kap03_gram_tem2_rz1">Ja-/Nein Frage</string>
     <string name="kap03_gram_tem2_rz2">W-Frage</string>
     <string name="kap03_gram_tem2_rz3">Aussage</string>
@@ -213,7 +213,7 @@
     <string name="kap03_gram_tem3_rz3">Ja, (das ist meine Frau).</string>
     <string name="kap03_gram_tem3_rz4">Nein, (das ist nicht meine Frau).</string>
     <string name="kap03_gram_tem3_rz5">Doch, (das ist meine Frau).</string>
-    <string name="kap03_gram_tem4">- Verb sprechen: Konjugation mit Vokalwechsel</string>
+    <string name="kap03_gram_tem4"> Verb sprechen: Konjugation mit Vokalwechsel</string>
     <string name="kap03_gram_tem4_rz1">spreche</string>
     <string name="kap03_gram_tem4_rz2">sprichst</string>
     <string name="kap03_gram_tem4_rz3">spricht</string>
@@ -226,6 +226,7 @@
     <string name="kap03_kom_tem2">- Sprachkenntnisse</string>
     <string name="kap03_kom_tem2_rz1">Welche Sprachen sprechen Sie / sprichst du?</string>
     <string name="kap03_kom_tem2_rz2">Ich spreche (sehr gut / gut / ein bisschen) Deutsch und Englisch.</string>
+    <string name="mys">-</string>
 
 
 </resources>
