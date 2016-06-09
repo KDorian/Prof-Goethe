@@ -227,6 +227,31 @@
     <string name="kap03_kom_tem2_rz1">Welche Sprachen sprechen Sie / sprichst du?</string>
     <string name="kap03_kom_tem2_rz2">Ich spreche (sehr gut / gut / ein bisschen) Deutsch und Englisch.</string>
     <string name="mys">-</string>
+    <string name="kap04_gram_tem1">- definiter Artikel der / das /die</string>
+    <string name="kap04_gram_tem1_rz1">Nominativ Singular</string>
+    <string name="kap04_gram_tem1_rz2">definiter Artikel</string>
+    <string name="neutral">neutral</string>
+    <string name="kap04_gram_tem1_rz3">der Tisch</string>
+    <string name="kap04_gram_tem1_rz4">das Bett</string>
+    <string name="kap04_gram_tem1_rz5">die Lampe</string>
+    <string name="kap04_gram_tem2">- Personalpronomen er / sie / es</string>
+    <string name="kap04_gram_tem2_rz1">der Tisch:</string>
+    <string name="kap04_gram_tem2_rz2">Er kostet ...</string>
+    <string name="kap04_gram_tem2_rz3">das Bett:</string>
+    <string name="kap04_gram_tem2_rz4">Es kostet ...</string>
+    <string name="kap04_gram_tem2_rz5">die Lampe:</string>
+    <string name="kap04_gram_tem2_rz6">Sie kostet ...</string>
+    <string name="kap04_kom_tem1">- Beratungsgespraeche</string>
+    <string name="kap04_kom_tem1_rz1">Brauchen Sie Hilfe?</string>
+    <string name="kap04_kom_tem1_rz2">Ja, bitte.</string>
+    <string name="kap04_kom_tem1_rz3">Wie viel / Was kostet (denn) die Lampe?</string>
+    <string name="kap04_kom_tem1_rz4">Die Lampe kostet (nur) 119 Euro. Das ist ein Sonderangebot.</string>
+    <string name="kap04_kom_tem2">- etwas bewerten</string>
+    <string name="kap04_kom_tem2_rz1">Das ist (sehr / zu / aber) teuer / guenstig / billig.</string>
+    <string name="kap04_kom_tem2_rz2">Der Tisch ist zu gross / zu klein.</string>
+    <string name="kap04_kom_tem2_rz3">Ich finde die Lampe (wirklich) sehr schoen.</string>
+    <string name="kap04_kom_tem2_rz4">Das finde ich auch. / Das finde ich nicht.</string>
+    <string name="kap04_kom_tem2_rz5">Finden Sie? / Findest du?</string>
 
 
 </resources>
