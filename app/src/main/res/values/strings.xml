@@ -23,7 +23,7 @@
         <item>Kapitel 01</item>
         <item>Kapitel 02</item>
         <item>Kapitel 03</item>
-        <!--<item>Kapitel 04</item>
+        <item>Kapitel 04</item>
         <item>Kapitel 05</item>
         <item>Kapitel 06</item>
         <item>Kapitel 07</item>
@@ -31,7 +31,7 @@
         <item>Kapitel 09</item>
         <item>Kapitel 10</item>
         <item>Kapitel 11</item>
-        <item>Kapitel 12</item>-->
+        <item>Kapitel 12</item>
     </string-array>
 
     <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
@@ -235,12 +235,12 @@
     <string name="kap04_gram_tem1_rz4">das Bett</string>
     <string name="kap04_gram_tem1_rz5">die Lampe</string>
     <string name="kap04_gram_tem2">- Personalpronomen er / sie / es</string>
-    <string name="kap04_gram_tem2_rz1">der Tisch:</string>
-    <string name="kap04_gram_tem2_rz2">Er kostet ...</string>
-    <string name="kap04_gram_tem2_rz3">das Bett:</string>
-    <string name="kap04_gram_tem2_rz4">Es kostet ...</string>
-    <string name="kap04_gram_tem2_rz5">die Lampe:</string>
-    <string name="kap04_gram_tem2_rz6">Sie kostet ...</string>
+    <string name="kap04_gram_tem2_rz1">der Tisch</string>
+    <string name="kap04_gram_tem2_rz2">Er kostet &#8230;</string>
+    <string name="kap04_gram_tem2_rz3">das Bett</string>
+    <string name="kap04_gram_tem2_rz4">Es kostet &#8230;</string>
+    <string name="kap04_gram_tem2_rz5">die Lampe</string>
+    <string name="kap04_gram_tem2_rz6">Sie kostet &#8230;</string>
     <string name="kap04_kom_tem1">- Beratungsgespraeche</string>
     <string name="kap04_kom_tem1_rz1">Brauchen Sie Hilfe?</string>
     <string name="kap04_kom_tem1_rz2">Ja, bitte.</string>
