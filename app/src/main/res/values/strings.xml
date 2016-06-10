@@ -251,7 +251,7 @@
     <string name="kap04_kom_tem2">- etwas bewerten</string>
     <string name="kap04_kom_tem2_rz1">Das ist (sehr / zu / aber) teuer / g&#252;nstig / billig.</string>
     <string name="kap04_kom_tem2_rz2">Der Tisch ist zu gro&#223; / zu klein.</string>
-    <string name="kap04_kom_tem2_rz3">Ich finde die Lampe (wirklich) sehr sch&#240;n.</string>
+    <string name="kap04_kom_tem2_rz3">Ich finde die Lampe (wirklich) sehr sch&#246;n.</string>
     <string name="kap04_kom_tem2_rz4">Das finde ich auch. / Das finde ich nicht.</string>
     <string name="kap04_kom_tem2_rz5">Finden Sie? / Findest du?</string>
 
@@ -260,13 +260,13 @@
     <string name="kap05_gram_tem1_rz1">Das ist</string>
     <string name="kap05_gram_tem1_rz2">indefiniter Artikel</string>
     <string name="kap05_gram_tem1_rz3">Negativartikel</string>
-    <string name="kap05_gram_tem1_rz4">ein Shluessel</string>
+    <string name="kap05_gram_tem1_rz4">ein Shl&#252;ssel</string>
     <string name="kap05_gram_tem1_rz5">ein Buch</string>
     <string name="kap05_gram_tem1_rz6">eine Brille</string>
-    <string name="kap05_gram_tem1_rz7">kein Schluessel</string>
+    <string name="kap05_gram_tem1_rz7">kein Schl&#252;ssel</string>
     <string name="kap05_gram_tem1_rz8">kein Buch</string>
     <string name="kap05_gram_tem1_rz9">keine Brille</string>
-    <string name="kap05_kom_tem1">- nach W&#240;rtern fragen / W&#240;rter nennen</string>
+    <string name="kap05_kom_tem1">- nach W&#246;rtern fragen / W&#246;rter nennen</string>
     <string name="kap05_kom_tem1_rz1">Entschuldigung, wie hei&#223;t das auf Deutsch?</string>
     <string name="kap05_kom_tem1_rz2">Wie schreibt man &#8230; ?</string>
     <string name="kap05_kom_tem1_rz3">Das ist ein / eine &#8230;</string>
@@ -275,7 +275,7 @@
     <string name="kap05_kom_tem2_rz2">Wie bitte?</string>
     <string name="kap05_kom_tem3">- sich bedanken und darauf reagieren</string>
     <string name="kap05_kom_tem3_rz1">Danke.</string>
-    <string name="kap05_kom_tem3_rz2">Bitte Sch&#240;n. / Bitte. (Gern) / Kein Problem.</string>
+    <string name="kap05_kom_tem3_rz2">Bitte Sch&#246;n. / Bitte. (Gern) / Kein Problem.</string>
     <string name="kap05_kom_tem4">- einen Gegenstand beschreiben</string>
     <string name="kap05_kom_tem4_rz1">Die Brille ist aus Kunststoff / &#8230;</string>
     <string name="kap05_kom_tem4_rz2">Die Brille ist rund / eckig / &#8230; , rot / braun / &#8230; und modern &#8230;</string>
