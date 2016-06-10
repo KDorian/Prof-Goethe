@@ -283,29 +283,29 @@
 
 
     <string name="kap06_gram_tem1">- Artikel im Singular und Plural</string>
-    <string name="kap06_gram_tem1_rz1">der / ein / kein Schluessel</string>
+    <string name="kap06_gram_tem1_rz1">der / ein / kein Schl&#252;ssel</string>
     <string name="kap06_gram_tem1_rz2">das / ein / kein Formular</string>
     <string name="kap06_gram_tem1_rz3">die / eine / keine Briefmarke</string>
-    <string name="kap06_gram_tem1_rz4">die / - / keine Schluessel</string>
+    <string name="kap06_gram_tem1_rz4">die / - / keine Schl&#252;ssel</string>
     <string name="kap06_gram_tem1_rz5">die / - / keine Formulare</string>
     <string name="kap06_gram_tem1_rz6">die / - / keine Briefmarken</string>
     <string name="kap06_gram_tem2">- Nomen: Singular und Plural</string>
-    <string name="kap06_gram_tem2_rz1">-e / -ee</string>
+    <string name="kap06_gram_tem2_rz1">-e / -&#235;</string>
     <string name="kap06_gram_tem2_rz2">- (e)n</string>
     <string name="kap06_gram_tem2_rz3">- s</string>
-    <string name="kap06_gram_tem2_rz4">- er / -:er</string>
-    <string name="kap06_gram_tem2_rz5">- / :-</string>
+    <string name="kap06_gram_tem2_rz4">- er / -&#168;er</string>
+    <string name="kap06_gram_tem2_rz5">- / &#168;-</string>
     <string name="kap06_gram_tem2_rz6">der Stift \nder Schrank</string>
     <string name="kap06_gram_tem2_rz7">die Briefmarke \ndie Rechnung</string>
     <string name="kap06_gram_tem2_rz8">das Sofa</string>
     <string name="kap06_gram_tem2_rz9">das Bild \ndas Notizbuch</string>
     <string name="kap06_gram_tem2_rz10">der Kalender</string>
-    <string name="kap06_gram_tem2_rz11">die Stifte \ndie Schraenke</string>
+    <string name="kap06_gram_tem2_rz11">die Stifte \ndie Schr&#228;nke</string>
     <string name="kap06_gram_tem2_rz12">die Briefmarken \ndie Rechnungen</string>
     <string name="kap06_gram_tem2_rz13">die Sofas</string>
-    <string name="kap06_gram_tem2_rz14">die Bilder \ndie Notizbuecher</string>
+    <string name="kap06_gram_tem2_rz14">die Bilder \ndie Notizb&#252;cher</string>
     <string name="kap06_gram_tem2_rz15">die Kalender</string>
-    <string name="kap06_gram_tem3">Akkusativ nach haben, brauchen, suchen, ...</string>
+    <string name="kap06_gram_tem3">Akkusativ nach haben, brauchen, suchen, &#8230;</string>
     <string name="kap06_gram_tem3_rz1">Sie hat</string>
     <string name="kap06_gram_tem3_rz2">definiter Artikel</string>
     <string name="den">den</string>
@@ -319,16 +319,16 @@
     <string name="keinen">keinen</string>
     <string name="kein">kein</string>
     <string name="keine">keine</string>
-    <string name="kap06_gram_tem3_rz5">Schluessel.</string>
-    <string name="kap06_gram_tem3_rz6">Formular.</string>
-    <string name="kap06_gram_tem3_rz7">Briefmarke.</string>
-    <string name="kap06_gram_tem3_rz8">Stifte.</string>
-    <string name="kap06_kom_tem1">- Telefongespraeche</string>
-    <string name="kap06_kom_tem1_rz1">Brenner IT-Consulting. Guten Tag. Hier ist ... .</string>
+    <string name="kap06_gram_tem3_rz5">Schl&#252;ssel</string>
+    <string name="kap06_gram_tem3_rz6">Formular</string>
+    <string name="kap06_gram_tem3_rz7">Briefmarke</string>
+    <string name="kap06_gram_tem3_rz8">Stifte</string>
+    <string name="kap06_kom_tem1">- Telefongespr&#228;che</string>
+    <string name="kap06_kom_tem1_rz1">Brenner IT-Consulting. Guten Tag. Hier ist &#8230; .</string>
     <string name="kap06_kom_tem1_rz2">Christian Schmidt. / Schmidt.</string>
-    <string name="kap06_kom_tem1_rz3">Guten Tag. / Hallo. Hier ist ... .</string>
-    <string name="kap06_kom_tem1_rz4">... hier.</string>
-    <string name="kap06_kom_tem1_rz5">Tschues. / Auf Wiederhoeren. / Auf Wiedersehen.</string>
+    <string name="kap06_kom_tem1_rz3">Guten Tag. / Hallo. Hier ist &#8230; .</string>
+    <string name="kap06_kom_tem1_rz4">&#8230; hier.</string>
+    <string name="kap06_kom_tem1_rz5">Tschues. / Auf Wiederh&#246;ren. / Auf Wiedersehen.</string>
 
 
 </resources>
