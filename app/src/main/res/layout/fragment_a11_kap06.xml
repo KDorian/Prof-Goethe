@@ -46,9 +46,10 @@
                     android:layout_height="match_parent"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
+                    android:layout_weight="1"
+
                     android:text="@string/singular"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
