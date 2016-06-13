@@ -331,39 +331,39 @@
     <string name="kap06_kom_tem1_rz5">Tschues. / Auf Wiederh&#246;ren. / Auf Wiedersehen.</string>
 
 
-    <string name="kap07_gram_tem1">- Modalverb koennen: Konjugation</string>
+    <string name="kap07_gram_tem1">- Modalverb k&#246;nnen: Konjugation</string>
     <string name="kap07_gram_tem1_rz1">kann</string>
     <string name="kap07_gram_tem1_rz2">kannst</string>
     <string name="kap07_gram_tem1_rz3">kann</string>
-    <string name="kap07_gram_tem1_rz4">koennen</string>
-    <string name="kap07_gram_tem1_rz5">koennt</string>
-    <string name="kap07_gram_tem1_rz6">koennen</string>
+    <string name="kap07_gram_tem1_rz4">k&#246;nnen</string>
+    <string name="kap07_gram_tem1_rz5">k&#246;nnt</string>
+    <string name="kap07_gram_tem1_rz6">k&#246;nnen</string>
     <string name="kap07_gram_tem2">- Modalverebn: Satzklammer</string>
     <string name="kap07_gram_tem2_rz1">Aussage</string>
     <string name="kap07_gram_tem2_rz2">Frage / Bitte</string>
     <string name="kap07_gram_tem2_rz3">Du kannst wirklich super Gitarre spielen.</string>
     <string name="kap07_gram_tem2_rz4">Kannst du das noch einmal sagen?</string>
-    <string name="kap07_kom_tem1">- Komplimente machen und sich bedanken</string>
-    <string name="kap07_kom_tem1_rz1">Sie koennen ja / wirklich / aber / toll / super / sehr gut tanzen.</string>
-    <string name="kap07_kom_tem1_rz2">Vielen Dank! / Oh, danke! / Danke sehr! / Herzlichen Dank.</string>
-    <string name="kap07_kom_tem2">- Faehigkeiten</string>
-    <string name="kap07_kom_tem2_rz1">ich kann (gar) nicht / nicht so gut / ein bisschen / (sehr) gut singen.</string>
-    <string name="kap07_kom_tem3">- ueber Hobbys sprechen</string>
+    <string name="kap07_kom_tem1">Komplimente machen und sich bedanken</string>
+    <string name="kap07_kom_tem1_rz1">Sie k&#246;nnen ja / wirklich / aber / toll / super / sehr gut tanzen.</string>
+    <string name="kap07_kom_tem1_rz2">Vielen Dank! / Oh, danke! / Danke sehr! / \nHerzlichen Dank.</string>
+    <string name="kap07_kom_tem2">- F&#228;higkeiten</string>
+    <string name="kap07_kom_tem2_rz1">Ich kann (gar) nicht / nicht so gut / ein bisschen / (sehr) gut singen.</string>
+    <string name="kap07_kom_tem3">- &#252;ber Hobbys sprechen</string>
     <string name="kap07_kom_tem3_rz1">Was sind deine Hobbys?</string>
-    <string name="kap07_kom_tem3_rz2">Meine Hobbys sind ... und ... .</string>
-    <string name="kap07_kom_tem3_rz3">Mein Hobby ist ... .</string>
+    <string name="kap07_kom_tem3_rz2">Meine Hobbys sind &#8230; und &#8230; .</string>
+    <string name="kap07_kom_tem3_rz3">Mein Hobby ist &#8230; .</string>
     <string name="kap07_kom_tem3_rz4">Was machst du in der Freizeit?</string>
-    <string name="kap07_kom_tem3_rz5">Ich ... gern. Das macht Spass.</string>
-    <string name="kap07_kom_tem3_rz6">Ich liebe ... .</string>
-    <string name="kap07_kom_tem3_rz7">Faehrst du gern Ski / Rad / ... ?</string>
-    <string name="kap07_kom_tem3_rz8">Nein, ich kann nicht Ski / Rad / ... fahren.</string>
-    <string name="kap07_kom_tem3_rz9">Nein, ich fahre nicht gern Ski / Rad / ... .</string>
+    <string name="kap07_kom_tem3_rz5">Ich &#8230; gern. Das macht Spa&#223;.</string>
+    <string name="kap07_kom_tem3_rz6">Ich liebe &#8230; .</string>
+    <string name="kap07_kom_tem3_rz7">F&#228;hrst du gern Ski / Rad / &#8230; ?</string>
+    <string name="kap07_kom_tem3_rz8">Nein, ich kann nicht Ski / Rad / &#8230; fahren.</string>
+    <string name="kap07_kom_tem3_rz9">Nein, ich fahre nicht gern Ski / Rad / &#8230; .</string>
     <string name="kap07_kom_tem3_rz10">Ich lese gern und treffe Freunde.</string>
     <string name="kap07_kom_tem3_rz11">Wie oft gehst du ins Kino?</string>
     <string name="kap07_kom_tem3_rz12">Ich gehe oft / manchmal / nie ins Kino.</string>
-    <string name="kap07_kom_tem3_rz13">Mein Lieblingsfilm / Lieblings- ... ist ... .</string>
+    <string name="kap07_kom_tem3_rz13">Mein Lieblingsfilm / Lieblings- &#8230; ist &#8230; .</string>
     <string name="kap07_kom_tem4">- um etwas bitten</string>
-    <string name="kap07_kom_tem4_rz1">Kan ich mal telefonieren / hier rauchen?</string>
+    <string name="kap07_kom_tem4_rz1">Kann ich mal telefonieren / hier rauchen?</string>
 
 
 </resources>
