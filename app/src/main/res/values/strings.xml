@@ -366,4 +366,35 @@
     <string name="kap07_kom_tem4_rz1">Kann ich mal telefonieren / hier rauchen?</string>
 
 
+    <string name="kap08_gram_tem1">- temporale Praepositionen am, um</string>
+    <string name="kap08_gram_tem1_rz1">am + Wochentage / Tageszeiten</string>
+    <string name="kap08_gram_tem1_rz2">um + Uhrzeiten</string>
+    <string name="kap08_gram_tem1_rz3">am Dienstag / am Abend</string>
+    <string name="kap08_gram_tem1_rz4">um drei Uhr</string>
+    <string name="kap08_gram_tem1_rz5">! in der Nacht</string>
+    <string name="kap08_gram_tem2">- Verbposition im Satz</string>
+    <string name="kap08_gram_tem2_rz1">Leider habe ich doch keine Zeit.</string>
+    <string name="kap08_gram_tem2_rz2">Ich habe leider doch keine Zeit.</string>
+    <string name="kap08_kom_tem1">- sich verabreden</string>
+    <string name="kap08_kom_tem1_rz1">Hast du heute Abend / am ... Ziet? / Kannst du heute Abend / am ... ?</string>
+    <string name="kap08_kom_tem1_rz2">Ja, klar. / Das weiss ich noch nicht. / Vielleicht.</string>
+    <string name="kap08_kom_tem1_rz3">Heute Abend / Am ... habe ich leider keine Zeit.</string>
+    <string name="kap08_kom_tem2">- einen Vorschlag machen und darauf reagieren</string>
+    <string name="kap08_kom_tem2_rz1">Gehen wir ins Kino / ... ?</string>
+    <string name="kap08_kom_tem2_rz2">Lust auf Schwimmbad?</string>
+    <string name="kap08_kom_tem2_rz3">Vielleicht koennen wir morgen Abend in(s) ... gehen?</string>
+    <string name="kap08_kom_tem2_rz4">Nein, leider nicht. Ich habe keine Zeit.</string>
+    <string name="kap08_kom_tem2_rz5">Tut mir leid, ich habe keine Lust.</string>
+    <string name="kap08_kom_tem2_rz6">Ich kann leider nicht. Ich gehe ... .</string>
+    <string name="kap08_kom_tem3">- Verabredungen absagen</string>
+    <string name="kap08_kom_tem3_rz1">Ich kann leider doch nicht kommen.</string>
+    <string name="kap08_kom_tem4">- einen Zeitpunkt angeben</string>
+    <string name="kap08_kom_tem4_rz1">Wann denn?</string>
+    <string name="kap08_kom_tem4_rz2">Am Dienstag / Abend / Mittwochabend / ... um ... Uhr.</string>
+    <string name="kap08_kom_tem4_rz3">Um drei / halb vier.</string>
+    <string name="kap08_kom_tem5_rz1">Wie spaet ist es? Wie viel Uhr ist es?</string>
+    <string name="kap08_kom_tem5">- Uhrzeit</string>
+    <string name="kap08_kom_tem5_rz2">Es ist Viertel vor drei / halb sechs.</string>
+
+
 </resources>
