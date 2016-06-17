@@ -398,43 +398,43 @@
 
 
     <string name="kap09_gram_tem1">Verb: Konjugation</string>
-    <string name="kap09_gram_tem1_rz1">moegen</string>
+    <string name="kap09_gram_tem1_rz1">m&#246;gen</string>
     <string name="kap09_gram_tem1_rz2">mag</string>
     <string name="kap09_gram_tem1_rz3">magst</string>
     <string name="kap09_gram_tem1_rz4">mag</string>
-    <string name="kap09_gram_tem1_rz5">moegen</string>
-    <string name="kap09_gram_tem1_rz6">moegt</string>
-    <string name="kap09_gram_tem1_rz7">moegen</string>
-    <string name="kap09_gram_tem1_rz8">moechten</string>
-    <string name="kap09_gram_tem1_rz9">moechte</string>
-    <string name="kap09_gram_tem1_rz10">moechtest</string>
-    <string name="kap09_gram_tem1_rz11">moechte</string>
-    <string name="kap09_gram_tem1_rz12">moechten</string>
-    <string name="kap09_gram_tem1_rz13">moechtet</string>
-    <string name="kap09_gram_tem1_rz14">moechten</string>
-    <string name="kap09_gram_tem2">- mochte im Satz</string>
-    <string name="kap09_gram_tem2_rz1">Ich moechte etwas essen.</string>
+    <string name="kap09_gram_tem1_rz5">m&#246;gen</string>
+    <string name="kap09_gram_tem1_rz6">m&#246;gt</string>
+    <string name="kap09_gram_tem1_rz7">m&#246;gen</string>
+    <string name="kap09_gram_tem1_rz8">m&#246;chten</string>
+    <string name="kap09_gram_tem1_rz9">m&#246;chte</string>
+    <string name="kap09_gram_tem1_rz10">m&#246;chtest</string>
+    <string name="kap09_gram_tem1_rz11">m&#246;chte</string>
+    <string name="kap09_gram_tem1_rz12">m&#246;chten</string>
+    <string name="kap09_gram_tem1_rz13">m&#246;chtet</string>
+    <string name="kap09_gram_tem1_rz14">m&#246;chten</string>
+    <string name="kap09_gram_tem2">- "m&#246;chte" im Satz</string>
+    <string name="kap09_gram_tem2_rz1">Ich m&#246;chte etwas essen.</string>
     <string name="kap09_gram_tem3">- Wortbildung: Nomen + Nomen</string>
     <string name="kap09_gram_tem3_rz1">der Schokoladenkuchen</string>
     <string name="kap09_gram_tem3_rz2">die Fischsuppe</string>
     <string name="kap09_gram_tem3_rz3">die Schokolade + der Kuchen</string>
     <string name="kap09_gram_tem3_rz4">der Fisch + die Suppe</string>
-    <string name="kap09_kom_tem1">- ueber Essen / Essgewohnheiten sprechen</string>
-    <string name="kap09_kom_tem1_rz1">Was isst du gern zum Fruehstueck?</string>
-    <string name="kap09_kom_tem1_rz2">Ich esse gern Kaesebroetchen / ... zum Fruehstueck. Und du?</string>
-    <string name="kap09_kom_tem1_rz3">Ich mag keinen Kaese / ... , aber Muesli / ... esse ich gern.</string>
-    <string name="kap09_kom_tem1_rz4">Wann fruehstuckst du?</string>
-    <string name="kap09_kom_tem1_rz5">In der Woche fruehstuecke ich oft erst um sechs Uhr. Am Wochenende / Sonntag fruehstuecke ich oft erst um elf Uhr.</string>
+    <string name="kap09_kom_tem1">- &#252;ber Essen / Essgewohnheiten sprechen</string>
+    <string name="kap09_kom_tem1_rz1">Was isst du gern zum Fr&#252;hst&#252;ck?</string>
+    <string name="kap09_kom_tem1_rz2">Ich esse gern K&#228;sebroetchen / &#8230; zum Fr&#252;hst&#252;ck. Und du?</string>
+    <string name="kap09_kom_tem1_rz3">Ich mag keinen K&#228;se / &#8230; , aber M&#252;sli / &#8230; esse ich gern.</string>
+    <string name="kap09_kom_tem1_rz4">Wann fr&#252;hst&#252;ckst du?</string>
+    <string name="kap09_kom_tem1_rz5">In der Woche fr&#252;hst&#252;cke ich oft erst um sechs Uhr. Am Wochenende / Sonntag fr&#252;hst&#252;cke ich oft erst um elf Uhr.</string>
     <string name="kap09_kom_tem1_rz6">Was essen wir als Vorspeise / Hauptgericht / Dessert?</string>
     <string name="kap09_kom_tem1_rz7">Als Vorspeise essen wir Suppe.</string>
     <string name="kap09_kom_tem2">- beim Essen</string>
-    <string name="kap09_kom_tem2_rz1">Moechten Sie einen Kaffee / ... ?</string>
+    <string name="kap09_kom_tem2_rz1">M&#246;chten Sie einen Kaffee / &#8230; ?</string>
     <string name="kap09_kom_tem2_rz2">Oh ja! Bitte. / Ja. Gern.</string>
-    <string name="kap09_kom_tem2_rz3">Moechten Sie noch etwas Suppe / ... ?</string>
+    <string name="kap09_kom_tem2_rz3">M&#246;chten Sie noch etwas Suppe / &#8230; ?</string>
     <string name="kap09_kom_tem2_rz4">Nein, danke!</string>
     <string name="kap09_kom_tem2_rz5">Guten Appetit!</string>
     <string name="kap09_kom_tem2_rz6">Danke, ebenfalls / gleichfalls.</string>
-    <string name="kap09_kom_tem2_rz7">... schmeckt sehr gut.</string>
+    <string name="kap09_kom_tem2_rz7">&#8230; schmeckt sehr gut.</string>
 
 
 </resources>
