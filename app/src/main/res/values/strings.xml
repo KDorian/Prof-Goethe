@@ -437,4 +437,39 @@
     <string name="kap09_kom_tem2_rz7">&#8230; schmeckt sehr gut.</string>
 
 
+
+    <string name="kap10_gram_tem1">- trennbare Verben</string>
+    <string name="kap10_gram_tem1_rz1">anrufen</string>
+    <string name="kap10_gram_tem1_rz2">einkaufen</string>
+    <string name="kap10_gram_tem1_rz3">Ich rufe dich an.</string>
+    <string name="kap10_gram_tem1_rz4">Vielleicht kaufe ich noch was ein.</string>
+    <string name="kap10_gram_tem2">- trennbare Verben in der Frage</string>
+    <string name="kap10_gram_tem2_rz1">W-Frage</string>
+    <string name="kap10_gram_tem2_rz2">Ja- / Nein- Frage</string>
+    <string name="kap10_gram_tem2_rz3">Wann rufst du mich an?</string>
+    <string name="kap10_gram_tem2_rz4">Rufst du mich heute an?</string>
+
+    <string name="kap10_kom_tem1">- Durchsagen</string>
+    <string name="kap10_kom_tem1_rz1">Am Bahnsteig zwei faehrt die U2 ein.</string>
+    <string name="kap10_kom_tem1_rz2">Bitte Vorsicht!</string>
+    <string name="kap10_kom_tem1_rz3">Naechster Halt: Innsbrucker Ring.</string>
+    <string name="kap10_kom_tem1_rz4">Achtung! Bitte zueruckbleiben.</string>
+    <string name="kap10_kom_tem2">- am Bahnhof: sich informieren</string>
+    <string name="kap10_kom_tem2_rz1">Wo faehrt der Zug nach ... ab?</string>
+    <string name="kap10_kom_tem2_rz2">Auf Gleis ...</string>
+    <string name="kap10_kom_tem2_rz3">Wann kommst du / kommt der Zug aus ... an?</string>
+    <string name="kap10_kom_tem2_rz4">Um ... Uhr.</string>
+    <string name="kap10_kom_tem2_rz5">Wo steigen wir aus?</string>
+    <string name="kap10_kom_tem2_rz6">Am Bahnhof / ...</string>
+    <string name="kap10_kom_tem2_rz7">Wo steigt du ein?</string>
+    <string name="kap10_kom_tem2_rz8">Auf Gleis ...</string>
+    <string name="kap10_kom_tem2_rz9">Holst du mich (am Bahnhof / ... ) ab?</string>
+    <string name="kap10_kom_tem2_rz10">Ja, gern. Wann kommst du an?</string>
+    <string name="kap10_kom_tem3">- ein Telefonat beenden</string>
+    <string name="kap10_kom_tem3_rz1">Gut, dann ... / Also dann ...</string>
+    <string name="kap10_kom_tem3_rz2">Bis morgen. / Bis bald.</string>
+    <string name="kap10_kom_tem3_rz3">Mach\'s gut! / Pass auf dich auf!</string>
+    <string name="kap10_kom_tem3_rz4">Auf Wiedersehen! / Tschues!</string>
+
+
 </resources>
