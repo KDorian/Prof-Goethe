@@ -472,28 +472,28 @@
     <string name="kap10_kom_tem3_rz4">Auf Wiedersehen! / Tsch&#252;s!</string>
 
 
-    <string name="kap11_kom_tem1">- temporale Praepositionen von ... bis, ab</string>
+    <string name="kap11_kom_tem1">- temporale Pr&#228;positionen von &#8230; bis, ab</string>
     <string name="kap11_kom_tem1_rz1">Wann?</string>
     <string name="kap11_kom_tem1_rz2">Von 9 Uhr</string>
     <string name="kap11_kom_tem1_rz3">jetzt</string>
     <string name="kap11_kom_tem1_rz4">bis 10 Uhr</string>
     <string name="kap11_kom_tem1_rz5">Ab 9 Uhr</string>
     <string name="kap11_kom_tem2">- Perfekt mit haben</string>
-    <string name="kap11_kom_tem2_rz1">regelmaessig</string>
-    <string name="kap11_kom_tem2_rz2">unregelmaessig</string>
+    <string name="kap11_kom_tem2_rz1">regelm&#228;&#223;ig</string>
+    <string name="kap11_kom_tem2_rz2">unregelm&#228;&#223;ig</string>
     <string name="kap11_kom_tem2_rz3">trennbar</string>
     <string name="kap11_kom_tem2_rz4">Verben auf -ieren</string>
     <string name="kap11_kom_tem2_rz5">Verb</string>
     <string name="kap11_kom_tem2_rz6">machen</string>
     <string name="kap11_kom_tem2_rz7">schreiben</string>
-    <string name="kap11_kom_tem2_rz8">aufraeumen</string>
+    <string name="kap11_kom_tem2_rz8">aufr&#228;umen</string>
     <string name="kap11_kom_tem2_rz9">telefonieren</string>
     <string name="kap11_kom_tem2_rz10">haben +</string>
     <string name="kap11_kom_tem2_rz11">er / sie hat</string>
-    <string name="kap11_kom_tem2_rz12">Partizip ...-t/en</string>
+    <string name="kap11_kom_tem2_rz12">Partizip &#8230;-t/en</string>
     <string name="kap11_kom_tem2_rz13">gemacht</string>
     <string name="kap11_kom_tem2_rz14">geschreiben</string>
-    <string name="kap11_kom_tem2_rz15">aufgeraeumt</string>
+    <string name="kap11_kom_tem2_rz15">aufger&#228;umt</string>
     <string name="kap11_kom_tem2_rz16">telefoniert</string>
     <string name="kap11_kom_tem3">- Perfekt im Satz</string>
     <string name="kap11_kom_tem3_rz1">Aussage</string>
@@ -502,8 +502,8 @@
     <string name="kap11_kom_tem3_rz4">Ab 9 Uhr habe ich gearbeitet.</string>
     <string name="kap11_kom_tem3_rz5">Was hast du sonst noch gemacht?</string>
     <string name="kap11_kom_tem3_rz6">Hast du Frau Dr. Weber angerufen?</string>
-    <string name="kap11_gram_tem1">- ueber Vergangenes sprechen</string>
-    <string name="kap11_gram_tem1_rz1">Was hast du heute / gestern / letzten Montag / letzte Woche / ...</string>
+    <string name="kap11_gram_tem1">- &#252;ber Vergangenes sprechen</string>
+    <string name="kap11_gram_tem1_rz1">Was hast du heute / gestern / letzten Montag / letzte Woche / &#8230;</string>
     <string name="kap11_gram_tem1_rz2">Von neun bis eins habe ich gearbeitet.</string>
     <string name="kap11_gram_tem1_rz3">Ich habe eine E-Mail geschrieben.</string>
 
