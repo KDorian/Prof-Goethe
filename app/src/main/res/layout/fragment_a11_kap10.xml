@@ -199,9 +199,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/punkt"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -209,9 +206,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
                     android:text="@string/kap10_kom_tem1_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
