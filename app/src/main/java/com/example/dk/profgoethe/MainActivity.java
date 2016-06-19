@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
                         startActivity(new Intent(MainActivity.this, A11Activity.class));
                         break;
                     case 1:
-                        startActivity(new Intent(MainActivity.this, NavigationDrawerActivity.class));
+                        startActivity(new Intent(MainActivity.this, A12Activity.class));
                         break;
                 }
 

@@ -34,8 +34,25 @@
         <item>Kapitel 12</item>
     </string-array>
 
+    <string-array name="sliding_drawer_array_a12">
+        <item>A1 Poziom podstawowy</item>
+        <item>Kapitel 13</item>
+        <item>Kapitel 14</item>
+        <item>Kapitel 15</item>
+        <item>Kapitel 16</item>
+        <item>Kapitel 17</item>
+        <item>Kapitel 18</item>
+        <item>Kapitel 19</item>
+        <item>Kapitel 20</item>
+        <item>Kapitel 21</item>
+        <item>Kapitel 22</item>
+        <item>Kapitel 23</item>
+        <item>Kapitel 24</item>
+    </string-array>
+
     <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
-    <string name="title_activity_navigation_drawer_a11">A11</string>
+    <string name="title_activity_navigation_drawer_a11">A1.1.</string>
+    <string name="title_activity_navigation_drawer_a12">A1.2.</string>
 
     <string name="drawer_open">Otwórz panel nawigacji</string>
     <string name="drawer_close">Zamknij panel nawigacji</string>
