@@ -448,7 +448,6 @@
     <string name="kap10_gram_tem2_rz2">Ja- / Nein- Frage</string>
     <string name="kap10_gram_tem2_rz3">Wann rufst du mich an?</string>
     <string name="kap10_gram_tem2_rz4">Rufst du mich heute an?</string>
-
     <string name="kap10_kom_tem1">- Durchsagen</string>
     <string name="kap10_kom_tem1_rz1">Am Bahnsteig zwei f&#228;hrt die U2 ein.</string>
     <string name="kap10_kom_tem1_rz2">Bitte Vorsicht!</string>
@@ -506,6 +505,27 @@
     <string name="kap11_gram_tem1_rz1">Was hast du heute / gestern / letzten Montag / letzte Woche / &#8230;</string>
     <string name="kap11_gram_tem1_rz2">Von neun bis eins habe ich gearbeitet.</string>
     <string name="kap11_gram_tem1_rz3">Ich habe eine E-Mail geschrieben.</string>
+
+
+    <string name="kap12_gram_tem1">- temporale Praepositionen im</string>
+    <string name="kap12_gram_tem1_rz1">im + Monat / Jahreszeiten: im Oktober / Herbst</string>
+    <string name="kap12_gram_tem2">- Perfekt mit sein</string>
+    <string name="kap12_gram_tem2_rz1">unregelmaessig</string>
+    <string name="kap12_gram_tem2_rz2">trennbar</string>
+    <string name="kap12_gram_tem2_rz3">Verben</string>
+    <string name="kap12_gram_tem2_rz4">gehen</string>
+    <string name="kap12_gram_tem2_rz5">ankommen</string>
+    <string name="kap12_gram_tem2_rz6">sein +</string>
+    <string name="kap12_gram_tem2_rz7">er / sie ist</string>
+    <string name="kap12_gram_tem2_rz8">Partizip ...-en</string>
+    <string name="kap12_gram_tem2_rz9">gegangen</string>
+    <string name="kap12_gram_tem2_rz10">angekommen</string>
+    <string name="kap12_kom_tem1">- ueber Reisen sprechen (Vergangenheit)</string>
+    <string name="kap12_kom_tem1_rz1">Henry ist vor drei Monaten nach Deutschland / Hamburg gekommen.</string>
+    <string name="kap12_kom_tem1_rz2">Letztes Jahr ist er nach Muenchen / in die Schweiz geflogen.</string>
+    <string name="kap12_kom_tem2">- ueber die Feste sprechen</string>
+    <string name="kap12_kom_tem2_rz1">Das Fest heisst ... / ist in ... / hat ... Besucher / dauert ... / gibt es seit ...</string>
+    <string name="kap12_kom_tem2_rz2">Wir haben Musik gehoert, getanzt und viele nette Leute getroffen.</string>
 
 
 </resources>
