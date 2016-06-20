@@ -543,6 +543,27 @@
     <string name="kap12_kom_tem2">- &#252;ber die Feste sprechen</string>
     <string name="kap12_kom_tem2_rz1">Das Fest hei&#223;t &#8230; / ist in &#8230; / hat &#8230; Besucher / dauert &#8230; / gibt es seit &#8230;</string>
     <string name="kap12_kom_tem2_rz2">Wir haben Musik geh&#246;rt, getanzt und viele nette Leute getroffen.</string>
+    <string name="kap13_gram_tem1">- Wo? Lokale Praepositionen mit Dativ</string>
+    <string name="kap13_gram_tem1_rz1">Wo ist das Hotel?</string>
+    <string name="nominativ">Nominativ</string>
+    <string name="kap13_gram_tem1_rz2">der / ein Dom</string>
+    <string name="kap13_gram_tem1_rz3">das / ein Cafe\'</string>
+    <string name="kap13_gram_tem1_rz4">die / eine Post</string>
+    <string name="kap13_gram_tem1_rz5">die / - Banken</string>
+    <string name="dativ">Dativ</string>
+    <string name="kap13_gram_tem1_rz6">Es ist neben</string>
+    <string name="defart">definiter Artikel</string>
+    <string name="kap13_gram_tem1_rz7">dem Dom</string>
+    <string name="kap13_gram_tem1_rz8">dem Cafe\'</string>
+    <string name="kap13_gram_tem1_rz9">der Post</string>
+    <string name="kap13_gram_tem1_rz10">den Banken</string>
+    <string name="indefart">indefiniter Artikel</string>
+    <string name="kap13_gram_tem1_rz11">einem Dom</string>
+    <string name="kap13_gram_tem1_rz12">einem Cafe\'</string>
+    <string name="kap13_gram_tem1_rz13">einer Post</string>
+    <string name="kap13_gram_tem1_rz14">- Banken</string>
+    <string name="kap13_gram_tem1_rz15">auch so: auf, an, vor, hinter, zwischen, ueber, unter, in</string>
+    <string name="kap13_gram_tem1_rz16">! in dem = im ; an dem = am</string>
 
 
 </resources>
