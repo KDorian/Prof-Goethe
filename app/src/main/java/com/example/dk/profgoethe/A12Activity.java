@@ -60,45 +60,12 @@ public class A12Activity extends ActionBarActivity {
                 FragmentManager fragmentManager = getFragmentManager();
                 Fragment fragment = new A11Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
-                    case 0:  //A1.1.
+                    case 0:  //A1.2.
                         fragment = new A11Fragment();
                         break;
-                    /*case 1: //A1.1. Kapitel 01
-                        fragment = new A11Kap01Fragment();
+                    case 1: //A1.2. Kapitel 13
+                        fragment = new A12Kap13Fragment();
                         break;
-                    case 2: //A1.1. Kapitel02
-                        fragment = new A11Kap02Fragment();
-                        break;
-                    case 3: //A1.1. Kapitel03
-                        fragment = new A11Kap03Fragment();
-                        break;
-                    case 4: //A1.1. Kapitel04
-                        fragment = new A11Kap04Fragment();
-                        break;
-                    case 5: //A1.1. Kapitel05
-                        fragment = new A11Kap05Fragment();
-                        break;
-                    case 6: //A1.1. Kapitel06
-                        fragment = new A11Kap06Fragment();
-                        break;
-                    case 7: //A1.1. Kapitel07
-                        fragment = new A11Kap07Fragment();
-                        break;
-                    case 8: //A1.1. Kapitel08
-                        fragment = new A11Kap08Fragment();
-                        break;
-                    case 9: //A1.1. Kapitel09
-                        fragment = new A11Kap09Fragment();
-                        break;
-                    case 10: //A1.1. Kapitel10
-                        fragment = new A11Kap10Fragment();
-                        break;
-                    case 11: //A1.1. Kapitel11
-                        fragment = new A11Kap11Fragment();
-                        break;
-                    case 12: //A1.1. Kapitel12
-                        fragment = new A11Kap12Fragment();
-                        break;*/
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
                 setTitle(mDrawerOptionLabels[position]);
