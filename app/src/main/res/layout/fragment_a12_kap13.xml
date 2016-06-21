@@ -18,25 +18,32 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/gramatyka"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/textView660"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_gram_tem1"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/textView661"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_gram_tem1_rz1"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="0dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="#000000"
+            android:stretchColumns="*">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -45,32 +52,50 @@
                 <TextView
                     android:id="@+id/textView662"
                     android:layout_column="0"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:text="@string/nominativ"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView667"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:text="@string/dativ"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView672"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="2"
                     android:text="@string/defart"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView677"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="3"
                     android:text="@string/indefart"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -79,35 +104,51 @@
 
                 <TextView
                     android:id="@+id/textView663"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:text="@string/kap13_gram_tem1_rz2"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView668"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:text="@string/kap13_gram_tem1_rz6"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView673"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="2"
                     android:text="@string/kap13_gram_tem1_rz7"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView678"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="3"
                     android:text="@string/kap13_gram_tem1_rz11"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -116,35 +157,51 @@
 
                 <TextView
                     android:id="@+id/textView664"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:text="@string/kap13_gram_tem1_rz3"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView669"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:text="@string/kap13_gram_tem1_rz6"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView674"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="2"
                     android:text="@string/kap13_gram_tem1_rz8"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView679"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="3"
                     android:text="@string/kap13_gram_tem1_rz12"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -153,35 +210,51 @@
 
                 <TextView
                     android:id="@+id/textView665"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:text="@string/kap13_gram_tem1_rz4"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView670"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:text="@string/kap13_gram_tem1_rz6"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView675"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="2"
                     android:text="@string/kap13_gram_tem1_rz9"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView680"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="3"
                     android:text="@string/kap13_gram_tem1_rz13"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -190,35 +263,51 @@
 
                 <TextView
                     android:id="@+id/textView666"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:text="@string/kap13_gram_tem1_rz5"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView671"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:text="@string/kap13_gram_tem1_rz6"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView676"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="2"
                     android:text="@string/kap13_gram_tem1_rz10"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
 
                 <TextView
                     android:id="@+id/textView681"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="3"
                     android:text="@string/kap13_gram_tem1_rz14"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:layout_margin="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="1" />
             </TableRow>
         </TableLayout>
 
@@ -227,32 +316,40 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_gram_tem1_rz15"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/textView683"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_gram_tem1_rz16"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp" />
 
         <TextView
             android:id="@+id/textView684"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/komunikacja"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/textView685"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_kom_tem1"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -384,11 +481,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_kom_tem2"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -436,11 +536,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_kom_tem3"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -551,11 +654,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_kom_tem4"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -729,11 +835,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kap13_kom_tem5"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
