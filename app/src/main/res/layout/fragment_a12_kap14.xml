@@ -67,11 +67,10 @@
 
                 <TextView
                     android:id="@+id/textView743"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/nominativ"
@@ -79,11 +78,10 @@
 
                 <TextView
                     android:id="@+id/textView748"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/pusty"
@@ -91,11 +89,10 @@
 
                 <TextView
                     android:id="@+id/textView753"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="2"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/akkus"
@@ -103,11 +100,10 @@
 
                 <TextView
                     android:id="@+id/textView758"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="3"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/pusty"
@@ -115,11 +111,10 @@
 
                 <TextView
                     android:id="@+id/textView763"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="4"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/pusty"
@@ -132,11 +127,10 @@
 
                 <TextView
                     android:id="@+id/textView744"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz1"
@@ -144,11 +138,10 @@
 
                 <TextView
                     android:id="@+id/textView749"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz5"
@@ -156,11 +149,10 @@
 
                 <TextView
                     android:id="@+id/textView754"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="2"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz9"
@@ -168,11 +160,10 @@
 
                 <TextView
                     android:id="@+id/textView759"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="3"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz13"
@@ -180,11 +171,10 @@
 
                 <TextView
                     android:id="@+id/textView764"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="4"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz17"
@@ -197,11 +187,10 @@
 
                 <TextView
                     android:id="@+id/textView745"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz2"
@@ -209,11 +198,10 @@
 
                 <TextView
                     android:id="@+id/textView750"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz6"
@@ -221,11 +209,10 @@
 
                 <TextView
                     android:id="@+id/textView755"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="2"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz10"
@@ -233,11 +220,10 @@
 
                 <TextView
                     android:id="@+id/textView760"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="3"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz14"
@@ -245,11 +231,10 @@
 
                 <TextView
                     android:id="@+id/textView765"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="4"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz18"
@@ -262,11 +247,10 @@
 
                 <TextView
                     android:id="@+id/textView746"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz3"
@@ -274,11 +258,10 @@
 
                 <TextView
                     android:id="@+id/textView751"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz7"
@@ -286,11 +269,10 @@
 
                 <TextView
                     android:id="@+id/textView756"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="2"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz11"
@@ -298,11 +280,10 @@
 
                 <TextView
                     android:id="@+id/textView761"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="3"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz15"
@@ -310,11 +291,10 @@
 
                 <TextView
                     android:id="@+id/textView766"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="4"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz19"
@@ -327,11 +307,10 @@
 
                 <TextView
                     android:id="@+id/textView747"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz4"
@@ -339,11 +318,10 @@
 
                 <TextView
                     android:id="@+id/textView752"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz8"
@@ -351,11 +329,10 @@
 
                 <TextView
                     android:id="@+id/textView757"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="2"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz12"
@@ -363,11 +340,10 @@
 
                 <TextView
                     android:id="@+id/textView762"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="3"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz16"
@@ -375,11 +351,10 @@
 
                 <TextView
                     android:id="@+id/textView767"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="4"
                     android:layout_margin="1dp"
-                    android:layout_weight="1"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap14_gram_tem2_rz20"
