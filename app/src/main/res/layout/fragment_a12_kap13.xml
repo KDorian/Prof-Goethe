@@ -237,7 +237,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="@string/kap13_kom_tem1"
         android:id="@+id/textView685" />
 
     <TableLayout
@@ -258,7 +258,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz1"
                 android:id="@+id/textView692"
                 android:layout_column="1" />
         </TableRow>
@@ -279,7 +279,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz2"
                 android:id="@+id/textView693"
                 android:layout_column="1" />
         </TableRow>
@@ -300,7 +300,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz3"
                 android:id="@+id/textView694"
                 android:layout_column="1" />
         </TableRow>
@@ -321,7 +321,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz4"
                 android:id="@+id/textView695"
                 android:layout_column="1" />
         </TableRow>
@@ -342,7 +342,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz5"
                 android:id="@+id/textView696"
                 android:layout_column="1" />
         </TableRow>
@@ -363,7 +363,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem1_rz6"
                 android:id="@+id/textView697"
                 android:layout_column="1" />
         </TableRow>
@@ -373,7 +373,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="@string/kap13_kom_tem2"
         android:id="@+id/textView698" />
 
     <TableLayout
@@ -394,7 +394,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem2_rz1"
                 android:id="@+id/textView701"
                 android:layout_column="1" />
         </TableRow>
@@ -415,7 +415,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem2_rz2"
                 android:id="@+id/textView702"
                 android:layout_column="1" />
         </TableRow>
@@ -425,7 +425,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="@string/kap13_kom_tem3"
         android:id="@+id/textView703" />
 
     <TableLayout
@@ -446,9 +446,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem3_rz1"
                 android:id="@+id/textView708"
-                android:layout_column="1" />
+                android:layout_column="2" />
         </TableRow>
 
         <TableRow
@@ -467,9 +467,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem3_rz2"
                 android:id="@+id/textView709"
-                android:layout_column="1" />
+                android:layout_column="2" />
         </TableRow>
 
         <TableRow
@@ -488,9 +488,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem3_rz3"
                 android:id="@+id/textView710"
-                android:layout_column="1" />
+                android:layout_column="2" />
         </TableRow>
 
         <TableRow
@@ -509,9 +509,30 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem3_rz4"
                 android:id="@+id/textView711"
-                android:layout_column="1" />
+                android:layout_column="2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/punkt"
+                android:id="@+id/textView737"
+                android:layout_column="0" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/kap13_kom_tem3_rz5"
+                android:id="@+id/textView736"
+                android:layout_column="2" />
         </TableRow>
     </TableLayout>
 
@@ -519,7 +540,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="@string/kap13_kom_tem4"
         android:id="@+id/textView712" />
 
     <TableLayout
@@ -540,7 +561,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz1"
                 android:id="@+id/textView721"
                 android:layout_column="1" />
         </TableRow>
@@ -561,7 +582,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz2"
                 android:id="@+id/textView722"
                 android:layout_column="1" />
         </TableRow>
@@ -582,7 +603,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz3"
                 android:id="@+id/textView723"
                 android:layout_column="1" />
         </TableRow>
@@ -603,7 +624,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz4"
                 android:id="@+id/textView724"
                 android:layout_column="1" />
         </TableRow>
@@ -624,7 +645,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz5"
                 android:id="@+id/textView725"
                 android:layout_column="1" />
         </TableRow>
@@ -645,7 +666,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz6"
                 android:id="@+id/textView726"
                 android:layout_column="1" />
         </TableRow>
@@ -666,7 +687,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz7"
                 android:id="@+id/textView727"
                 android:layout_column="1" />
         </TableRow>
@@ -687,7 +708,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem4_rz8"
                 android:id="@+id/textView728"
                 android:layout_column="1" />
         </TableRow>
@@ -697,7 +718,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="@string/kap13_kom_tem5"
         android:id="@+id/textView729" />
 
     <TableLayout
@@ -718,7 +739,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem5_rz1"
                 android:id="@+id/textView733"
                 android:layout_column="1" />
         </TableRow>
@@ -739,7 +760,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem5_rz2"
                 android:id="@+id/textView734"
                 android:layout_column="1" />
         </TableRow>
@@ -760,7 +781,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
+                android:text="@string/kap13_kom_tem5_rz3"
                 android:id="@+id/textView735"
                 android:layout_column="1" />
         </TableRow>
