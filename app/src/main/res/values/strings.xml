@@ -597,4 +597,40 @@
     <string name="kap13_kom_tem5_rz3">Ich bin nicht von hier.</string>
 
 
+    <string name="akkus">Akkusativ</string>
+    <string name="kap14_gram_tem1">- Genitiv bei Eigennamen</string>
+    <string name="kap14_gram_tem1_rz1">Ottos Nachbarin = die Nachbarin von Otto</string>
+    <string name="kap14_gram_tem1_rz2">Vanillas Garten = der Garten von Vanilla</string>
+    <string name="kap14_gram_tem2">- Haeuser und Wohnungen beschreiben</string>
+    <string name="kap14_gram_tem2_rz1">sein</string>
+    <string name="kap14_gram_tem2_rz2">sein</string>
+    <string name="kap14_gram_tem2_rz3">seine</string>
+    <string name="kap14_gram_tem2_rz4">seine</string>
+    <string name="kap14_gram_tem2_rz5">ihr</string>
+    <string name="kap14_gram_tem2_rz6">ihr</string>
+    <string name="kap14_gram_tem2_rz7">ihre</string>
+    <string name="kap14_gram_tem2_rz8">ihre</string>
+    <string name="kap14_gram_tem2_rz9">seinen</string>
+    <string name="kap14_gram_tem2_rz10">sein</string>
+    <string name="kap14_gram_tem2_rz11">seine</string>
+    <string name="kap14_gram_tem2_rz12">seine</string>
+    <string name="kap14_gram_tem2_rz13">ihren</string>
+    <string name="kap14_gram_tem2_rz14">ihr</string>
+    <string name="kap14_gram_tem2_rz15">ihre</string>
+    <string name="kap14_gram_tem2_rz16">ihre</string>
+    <string name="kap14_gram_tem2_rz17">Garten</string>
+    <string name="kap14_gram_tem2_rz18">Haus</string>
+    <string name="kap14_gram_tem2_rz19">Kueche</string>
+    <string name="kap14_gram_tem2_rz20">Kinder</string>
+    <string name="kap14_kom_tem1">- Haeuser und Wohnungen beschreiben</string>
+    <string name="kap14_kom_tem1_rz1">Das Haus ist gross / klein und hat sieben / ... Zimmer.</string>
+    <string name="kap14_kom_tem1_rz2">Im Erdgeschoss / Im ersten Stock sind drei Zimmer.</string>
+    <string name="kap14_kom_tem1_rz4">Da hinten ist seine Garage / ihr ...</string>
+    <string name="kap14_kom_tem1_rz5">Neben dem Haus ist eine Garage.</string>
+    <string name="kap14_kom_tem2">- Haeuser und Wohnungen bewerten</string>
+    <string name="kap14_kom_tem2_rz1">Ich finde ... interessant / langweilig / ...</string>
+    <string name="kap14_kom_tem2_rz2">... mag ich besonders / gar nicht / nicht so.</string>
+    <string name="kap14_kom_tem2_rz3">Aber / Und ... sieht toll / ... nicht so schoen aus.</string>
+
+
 </resources>
