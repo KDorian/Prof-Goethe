@@ -633,4 +633,29 @@
     <string name="kap14_kom_tem2_rz3">Aber / Und &#8230; sieht toll / &#8230; nicht so schoen aus.</string>
 
 
+    <string name="er_es">er /es</string>
+    <string name="siesin">sie</string>
+    <string name="kap15_gram_tem1">- Personalpronomen im Dativ</string>
+    <string name="mir">mir</string>
+    <string name="dir">dir</string>
+    <string name="ihm">ihm</string>
+    <string name="uns">uns</string>
+    <string name="euch">euch</string>
+    <string name="ihnen">ihnen / Ihnen</string>
+    <string name="kap15_gram_tem2">- Verben mit Dativ</string>
+    <string name="kap15_gram_tem2_rz1">Das gehoert mir.</string>
+    <string name="kap15_gram_tem2_rz2">Das gefaellt dir.</string>
+    <string name="kap15_gram_tem2_rz3">Das hilft ihm.</string>
+    <string name="kap15_gram_tem2_rz4">Ich danke ihr.</string>
+    <string name="kap15_kom_tem1">- einen Ort bewerten</string>
+    <string name="kap15_kom_tem1_rz1">Was gefaellt Ihnen / euch (nicht) an dem Viertel?</string>
+    <string name="kap15_kom_tem1_rz2">Giesing ist ganz normal und das finde ich super so / ist schon okay.</string>
+    <string name="kap15_kom_tem1_rz3">Das finde ich gut.</string>
+    <string name="kap15_kom_tem1_rz4">Aber so toll ist es nun auch wieder nicht.</string>
+    <string name="kap15_kom_tem2">- nach Einrichtungen fragen und darauf antworten</string>
+    <string name="kap15_kom_tem2_rz1">Gibt es eigentlich auch ein Kino / ... in ... ?</string>
+    <string name="kap15_kom_tem2_rz2">In ... gibt es leider nur sehr wenige Geschaefte / ...</string>
+    <string name="kap15_kom_tem2_rz3">Es gibt viele Kneipen und Restaurants.</string>
+
+
 </resources>
