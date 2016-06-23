@@ -239,7 +239,6 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_margin="1dp"
-                    android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap16_gram_tem2_rz3"
