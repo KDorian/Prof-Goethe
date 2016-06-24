@@ -700,25 +700,27 @@
     <string name="kap16_kom_tem4_rz4">Das macht doch nichts.</string>
     <string name="kap16_kom_tem4_rz5">Wie dumm!</string>
     <string name="kap16_kom_tem4_rz6">Ach, wirklich?</string>
-    <string name="kap17_gram_tem1">- Praepositionen mit und ohne</string>
+
+
+    <string name="kap17_gram_tem1">- Pr&#228;positionen mit und ohne</string>
     <string name="kap17_gram_tem1_rz1">ohne</string>
     <string name="kap17_gram_tem1_rz2">mit</string>
     <string name="kap17_gram_tem1_rz3">ohne das / mein Handy</string>
     <string name="kap17_gram_tem1_rz4">mt dem / meinem Handy</string>
-    <string name="kap17_gram_tem2">Modalverb wollen</string>
+    <string name="kap17_gram_tem2">- Modalverb wollen</string>
     <string name="kap17_gram_tem2_rz1">will</string>
     <string name="kap17_gram_tem2_rz2">willst</string>
     <string name="kap17_gram_tem2_rz3">will</string>
     <string name="kap17_gram_tem2_rz4">wollen</string>
     <string name="kap17_gram_tem2_rz5">wollt</string>
     <string name="kap17_gram_tem2_rz6">wollen</string>
-    <string name="kap17_gram_tem3">Modalverebn in Satz</string>
+    <string name="kap17_gram_tem3">Modalverben in Satz</string>
     <string name="kap17_gram_tem3_rz1">Ich will Liedermacher werden.</string>
-    <string name="kap17_kom_tem1">- Wuensche aeussern / ueber Plaene sprechen</string>
+    <string name="kap17_kom_tem1">- W&#252;nsche &#228;u&#223;ern / &#252;ber Pl&#228;ne sprechen</string>
     <string name="kap17_kom_tem1_rz1">Ich will unbedingt noch / vielleicht / auf keinen Fall.</string>
-    <string name="kap17_kom_tem1_rz2">Ich will ... werden.</string>
-    <string name="kap17_kom_tem1_rz3">Ich moechte (bald) ... .</string>
-    <string name="kap17_kom_tem1_rz4">Fuer mich sind ... und ... besonders wichtig.</string>
+    <string name="kap17_kom_tem1_rz2">Ich will &#8230; werden.</string>
+    <string name="kap17_kom_tem1_rz3">Ich moechte (bald) &#8230; .</string>
+    <string name="kap17_kom_tem1_rz4">F&#252;r mich sind &#8230; und &#8230; besonders wichtig.</string>
 
 
 </resources>
