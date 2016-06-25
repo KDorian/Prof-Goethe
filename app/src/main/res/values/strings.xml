@@ -723,4 +723,39 @@
     <string name="kap17_kom_tem1_rz4">F&#252;r mich sind &#8230; und &#8230; besonders wichtig.</string>
 
 
+    <string name="kap18_gram_tem1">- Modalverb sollen</string>
+    <string name="kap18_gram_tem1_rz1">soll</string>
+    <string name="kap18_gram_tem1_rz2">sollst</string>
+    <string name="kap18_gram_tem1_rz3">soll</string>
+    <string name="kap18_gram_tem1_rz4">sollen</string>
+    <string name="kap18_gram_tem1_rz5">sollt</string>
+    <string name="kap18_gram_tem1_rz6">sollen</string>
+    <string name="kap18_gram_tem2">- Modalverben in Satz</string>
+    <string name="kap18_gram_tem2_rz1">Du sollst diesen Tee trinken.</string>
+    <string name="kap18_gram_tem3">- Imperativ (Sie)</string>
+    <string name="kap18_gram_tem3_rz1">Trinken Sie viel!</string>
+    <string name="kap18_gram_tem3_rz2">Gehen Sie zum Arzt!</string>
+    <string name="kap18_gram_tem4_rz1">direkt:</string>
+    <string name="kap18_gram_tem4_rz2">indirekt:</string>
+    <string name="kap18_gram_tem4_rz3">Schwester Angelika: \"Geben Sie ihm diesen Tee!\"</string>
+    <string name="kap18_gram_tem4_rz4">Schwester Angelika sagt, ich soll dir diesen Tee geben.</string>
+    <string name="kap18_gram_tem4">- Verwendung von Imperativ und sollen</string>
+    <string name="kap18_komm_tem1">- Schmerzen beschreiben</string>
+    <string name="kap18_komm_tem1_rz1">Mein Kopf / Meine ... tut / tun weh.</string>
+    <string name="kap18_komm_tem1_rz2">Ich habe Halsschmerzen.</string>
+    <string name="kap18_komm_tem2">- um Hilfe / Rat bitten</string>
+    <string name="kap18_komm_tem2_rz1">Haben Sie etwas fuer mich?</string>
+    <string name="kap18_komm_tem2_rz2">Wer kann mir helfen?</string>
+    <string name="kap18_komm_tem2_rz3">Wer hat einen Tipp fuer mich?</string>
+    <string name="kap18_komm_tem3">- Ratschlaege geben</string>
+    <string name="kap18_komm_tem3_rz1">Trinken Sie viel!</string>
+    <string name="kap18_komm_tem3_rz2">Geben Sie ihm doch diesen Tee!</string>
+    <string name="kap18_komm_tem3_rz3">Dann soll er Sport machen.</string>
+    <string name="kap18_komm_tem4">- ueber Krankheiten sprechen</string>
+    <string name="kap18_komm_tem4_rz1">Was machst du gegen ... ?</string>
+    <string name="kap18_komm_tem4_rz2">Was hilfst gegen ... ?</string>
+    <string name="kap18_komm_tem4_rz3">Ich nehme / trinke / gehe / bleibe ... .</string>
+    <string name="kap18_komm_tem4_rz4">Das hilft.</string>
+
+
 </resources>
