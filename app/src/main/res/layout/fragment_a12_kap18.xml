@@ -320,8 +320,8 @@
 
                 <TextView
                     android:id="@+id/textView963"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:layout_margin="1dp"
                     android:layout_weight="0.25"
@@ -332,14 +332,15 @@
 
                 <TextView
                     android:id="@+id/textView965"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap18_gram_tem4_rz3"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="0.75" />
             </TableRow>
 
             <TableRow
@@ -348,8 +349,8 @@
 
                 <TextView
                     android:id="@+id/textView964"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="0"
                     android:layout_margin="1dp"
                     android:layout_weight="0.25"
@@ -360,14 +361,15 @@
 
                 <TextView
                     android:id="@+id/textView966"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
                     android:layout_column="1"
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
                     android:text="@string/kap18_gram_tem4_rz4"
-                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_weight="0.75" />
             </TableRow>
         </TableLayout>
 
