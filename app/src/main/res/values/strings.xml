@@ -741,20 +741,20 @@
     <string name="kap18_gram_tem4_rz4">Schwester Angelika sagt, ich soll dir diesen Tee geben.</string>
     <string name="kap18_gram_tem4">- Verwendung von Imperativ und sollen</string>
     <string name="kap18_komm_tem1">- Schmerzen beschreiben</string>
-    <string name="kap18_komm_tem1_rz1">Mein Kopf / Meine ... tut / tun weh.</string>
+    <string name="kap18_komm_tem1_rz1">Mein Kopf / Meine &#8230; tut / tun weh.</string>
     <string name="kap18_komm_tem1_rz2">Ich habe Halsschmerzen.</string>
     <string name="kap18_komm_tem2">- um Hilfe / Rat bitten</string>
-    <string name="kap18_komm_tem2_rz1">Haben Sie etwas fuer mich?</string>
+    <string name="kap18_komm_tem2_rz1">Haben Sie etwas f&#252;r mich?</string>
     <string name="kap18_komm_tem2_rz2">Wer kann mir helfen?</string>
-    <string name="kap18_komm_tem2_rz3">Wer hat einen Tipp fuer mich?</string>
-    <string name="kap18_komm_tem3">- Ratschlaege geben</string>
+    <string name="kap18_komm_tem2_rz3">Wer hat einen Tipp f&#252;r mich?</string>
+    <string name="kap18_komm_tem3">- Ratschl&#228;ge geben</string>
     <string name="kap18_komm_tem3_rz1">Trinken Sie viel!</string>
     <string name="kap18_komm_tem3_rz2">Geben Sie ihm doch diesen Tee!</string>
     <string name="kap18_komm_tem3_rz3">Dann soll er Sport machen.</string>
-    <string name="kap18_komm_tem4">- ueber Krankheiten sprechen</string>
-    <string name="kap18_komm_tem4_rz1">Was machst du gegen ... ?</string>
-    <string name="kap18_komm_tem4_rz2">Was hilfst gegen ... ?</string>
-    <string name="kap18_komm_tem4_rz3">Ich nehme / trinke / gehe / bleibe ... .</string>
+    <string name="kap18_komm_tem4">- &#252;ber Krankheiten sprechen</string>
+    <string name="kap18_komm_tem4_rz1">Was machst du gegen &#8230; ?</string>
+    <string name="kap18_komm_tem4_rz2">Was hilfst gegen &#8230; ?</string>
+    <string name="kap18_komm_tem4_rz3">Ich nehme / trinke / gehe / bleibe &#8230; .</string>
     <string name="kap18_komm_tem4_rz4">Das hilft.</string>
 
 
