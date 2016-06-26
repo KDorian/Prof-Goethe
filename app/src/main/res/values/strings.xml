@@ -758,7 +758,7 @@
     <string name="kap18_komm_tem4_rz4">Das hilft.</string>
 
 
-    <string name="kap19_gram_tem1">- P&#228;eteritum: sein und haben</string>
+    <string name="kap19_gram_tem1">- Pr&#228;eteritum: sein und haben</string>
     <string name="present">Pr&#228;sens</string>
     <string name="kap19_gram_tem1_rz1">bin</string>
     <string name="kap19_gram_tem1_rz2">bist</string>
@@ -798,8 +798,8 @@
     <string name="kap19_gram_tem2_rz8">auch so: gefallen - gefallen, vergessen - vergessen, entschuldigen - entschuldigt, beschweren - beschwert</string>
     <string name="kap19_gram_tem2_rz9">auch so nach: ent-, emp-, miss-, zer-</string>
     <string name="kap19_gram_tem3">- Wortbildung: Adjektive mit un-</string>
-    <string name="kap19_gram_tem3_rz1">sypmpatisch -> unsympatisch></string>
-    <string name="kap19_kom_tem1">- Personen beschreiben: Aussehen und Charakter</string>
+    <string name="kap19_gram_tem3_rz1">sypmpatisch -> unsympatisch</string>
+    <string name="kap19_kom_tem1"> Personen beschreiben: Aussehen und Charakter</string>
     <string name="kap19_kom_tem1_rz1">Er ist (ein bisschen) dick / schlank / &#8230; .</string>
     <string name="kap19_kom_tem1_rz2">Er hat blonde / dunkle / lange / kurze Haare.</string>
     <string name="kap19_kom_tem1_rz3">Er hat (k)einen Bart / (k)eine Brille / &#8230; .</string>
