@@ -758,15 +758,15 @@
     <string name="kap18_komm_tem4_rz4">Das hilft.</string>
 
 
-    <string name="kap19_gram_tem1">- Praeteritum: sein und haben</string>
-    <string name="present">Praesens</string>
+    <string name="kap19_gram_tem1">- P&#228;eteritum: sein und haben</string>
+    <string name="present">Pr&#228;sens</string>
     <string name="kap19_gram_tem1_rz1">bin</string>
     <string name="kap19_gram_tem1_rz2">bist</string>
     <string name="kap19_gram_tem1_rz3">ist</string>
     <string name="kap19_gram_tem1_rz4">sind</string>
     <string name="kap19_gram_tem1_rz5">seid</string>
     <string name="kap19_gram_tem1_rz6">sind</string>
-    <string name="prateritum">Praeteritum</string>
+    <string name="prateritum">Pr&#228;teritum</string>
     <string name="kap19_gram_tem1_rz7">war</string>
     <string name="kap19_gram_tem1_rz8">warst</string>
     <string name="kap19_gram_tem1_rz9">war</string>
@@ -788,7 +788,7 @@
     <string name="kap19_gram_tem2">- Perfekt: nicht trennbare Verben</string>
     <string name="infinitiv">Infinitiv</string>
     <string name="perfekt">Perfekt</string>
-    <string name="kap19_gram_tem2_rz1">haben + be/ge/ver...en/t</string>
+    <string name="kap19_gram_tem2_rz1">haben + be/ge/ver&#8230;en/t</string>
     <string name="kap19_gram_tem2_rz2">erkennen</string>
     <string name="kap19_gram_tem2_rz3">bekommen</string>
     <string name="kap19_gram_tem2_rz4">er / sie erkennt</string>
@@ -798,16 +798,16 @@
     <string name="kap19_gram_tem2_rz8">auch so: gefallen - gefallen, vergessen - vergessen, entschuldigen - entschuldigt, beschweren - beschwert</string>
     <string name="kap19_gram_tem2_rz9">auch so nach: ent-, emp-, miss-, zer-</string>
     <string name="kap19_gram_tem3">- Wortbildung: Adjektive mit un-</string>
-    <string name="kap19_gram_tem3_rz1"><![CDATA[sypmpatisch -> unsympatisch]]></string>
+    <string name="kap19_gram_tem3_rz1">sypmpatisch -> unsympatisch></string>
     <string name="kap19_kom_tem1">- Personen beschreiben: Aussehen und Charakter</string>
-    <string name="kap19_kom_tem1_rz1">Er ist (ein bisschen) dick / schlank / ... .</string>
+    <string name="kap19_kom_tem1_rz1">Er ist (ein bisschen) dick / schlank / &#8230; .</string>
     <string name="kap19_kom_tem1_rz2">Er hat blonde / dunkle / lange / kurze Haare.</string>
-    <string name="kap19_kom_tem1_rz3">Er hat (k)einen Bart / (k)eine Brille / ... .</string>
-    <string name="kap19_kom_tem1_rz4">Er sieht nett / sympatisch / lustig / interessant / ... aus.</string>
-    <string name="kap19_kom_tem2">- ueber Vergangenes sprechen</string>
-    <string name="kap19_kom_tem2_rz1">Frueher war sie Sekretaerin / ... .</string>
-    <string name="kap19_kom_tem2_rz2">Frueher hatte er lange Haare / ... .</string>
-    <string name="kap19_kom_tem2_rz3">Sie haben vor zwei Jahren ein Baby bekommen / ... .</string>
+    <string name="kap19_kom_tem1_rz3">Er hat (k)einen Bart / (k)eine Brille / &#8230; .</string>
+    <string name="kap19_kom_tem1_rz4">Er sieht nett / sympatisch / lustig / interessant / &#8230; aus.</string>
+    <string name="kap19_kom_tem2">- &#252;ber Vergangenes sprechen</string>
+    <string name="kap19_kom_tem2_rz1">Fr&#252;her war sie Sekretaerin / &#8230; .</string>
+    <string name="kap19_kom_tem2_rz2">Fr&#252;her hatte er lange Haare / &#8230; .</string>
+    <string name="kap19_kom_tem2_rz3">Sie haben vor zwei Jahren ein Baby bekommen / &#8230; .</string>
     <string name="kap19_kom_tem3">- erstannt reagieren</string>
     <string name="kap19_kom_tem3_rz1">Ach komm!</string>
     <string name="kap19_kom_tem3_rz2">Ach du liebe Zeit!</string>
