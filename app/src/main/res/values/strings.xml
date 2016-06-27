@@ -816,4 +816,39 @@
     <string name="kap19_kom_tem3_rz5">Wahnsinn!</string>
 
 
+    <string name="kap20_gram_tem1">- Imperativ (du / ihr)</string>
+    <string name="kap20_gram_tem1_rz1">decken</string>
+    <string name="kap20_gram_tem1_rz2">schlafen</string>
+    <string name="kap20_gram_tem1_rz3">vergessen</string>
+    <string name="kap20_gram_tem1_rz4">ausraeumen</string>
+    <string name="kap20_gram_tem1_rz5">sein</string>
+    <string name="kap20_gram_tem1_rz6">haben</string>
+    <string name="kap20_gram_tem1_rz7">Deck ... !</string>
+    <string name="kap20_gram_tem1_rz8">Schlaf ... !</string>
+    <string name="kap20_gram_tem1_rz9">Vergiss ... !</string>
+    <string name="kap20_gram_tem1_rz10">Raeum ... aus!</string>
+    <string name="kap20_gram_tem1_rz11">Sei ... !</string>
+    <string name="kap20_gram_tem1_rz12">Hab ... !</string>
+    <string name="kap20_gram_tem1_rz13">Deckt ... !</string>
+    <string name="kap20_gram_tem1_rz14">Schlaft ... !</string>
+    <string name="kap20_gram_tem1_rz15">Vergesst ... !</string>
+    <string name="kap20_gram_tem1_rz16">Raeumt ... aus!</string>
+    <string name="kap20_gram_tem1_rz17">Seid ... !</string>
+    <string name="kap20_gram_tem1_rz18">Habt ... !</string>
+    <string name="kap20_gram_tem2">- Personalpronomen im Akkusativ</string>
+    <string name="kap20_gram_tem2_rz1">mich</string>
+    <string name="kap20_gram_tem2_rz2">dich</string>
+    <string name="kap20_gram_tem2_rz3">ihn / es /sie</string>
+    <string name="kap20_gram_tem2_rz4">uns</string>
+    <string name="kap20_gram_tem2_rz5">euch</string>
+    <string name="kap20_gram_tem2_rz6">sie / Sie</string>
+    <string name="kap20_gram_tem2_rz7">Ich komme um 10 Uhr an. Holst du mich bitte ab?</string>
+    <string name="kap20_kom_tem1">- Bitten und Aufforderungen</string>
+    <string name="kap20_kom_tem1_rz1">Spuel (bitte) das Geschirr!</string>
+    <string name="kap20_kom_tem1_rz2">Deckt (bitte) den Tisch!</string>
+    <string name="kap20_kom_tem1_rz3">Komm (bitte) sofort runter da!</string>
+    <string name="kap20_kom_tem1_rz4">Sei doch so lieb und ... .</string>
+    <string name="kap20_kom_tem1_rz5">Ruf ihn doch bitte zueruck.</string>
+
+
 </resources>
