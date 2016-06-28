@@ -849,36 +849,38 @@
     <string name="kap20_kom_tem1_rz3">Komm (bitte) sofort runter da!</string>
     <string name="kap20_kom_tem1_rz4">Sei doch so lieb und &#8230; .</string>
     <string name="kap20_kom_tem1_rz5">Ruf ihn doch bitte z&#252;ruck.</string>
-    <string name="kap21_gram_tem1">- Modalverben duerfen und muessen</string>
-    <string name="kap21_gram_tem1_rz1">duerfen</string>
+
+
+    <string name="kap21_gram_tem1">- Modalverben d&#252;rfen und m&#252;ssen</string>
+    <string name="kap21_gram_tem1_rz1">d&#252;rfen</string>
     <string name="kap21_gram_tem1_rz2">darf</string>
     <string name="kap21_gram_tem1_rz3">darfst</string>
     <string name="kap21_gram_tem1_rz4">darf</string>
-    <string name="kap21_gram_tem1_rz5">duerfen</string>
-    <string name="kap21_gram_tem1_rz6">duerft</string>
-    <string name="kap21_gram_tem1_rz7">duerften</string>
-    <string name="kap21_gram_tem1_rz8">muessen</string>
+    <string name="kap21_gram_tem1_rz5">d&#252;rfen</string>
+    <string name="kap21_gram_tem1_rz6">d&#252;rft</string>
+    <string name="kap21_gram_tem1_rz7">d&#252;rften</string>
+    <string name="kap21_gram_tem1_rz8">m&#252;ssen</string>
     <string name="kap21_gram_tem1_rz9">muss</string>
     <string name="kap21_gram_tem1_rz10">musst</string>
     <string name="kap21_gram_tem1_rz11">muss</string>
-    <string name="kap21_gram_tem1_rz12">muessen</string>
-    <string name="kap21_gram_tem1_rz13">muesst</string>
-    <string name="kap21_gram_tem1_rz14">muessen</string>
+    <string name="kap21_gram_tem1_rz12">m&#252;ssen</string>
+    <string name="kap21_gram_tem1_rz13">m&#252;sst</string>
+    <string name="kap21_gram_tem1_rz14">m&#252;ssen</string>
     <string name="kap21_gram_tem2">- Modalverben im Satz</string>
     <string name="kap21_gram_tem2_rz1">Man muss in der Bibliothek leise sein.</string>
     <string name="kap21_gram_tem2_rz2">Man darf im Bus nicht essen.</string>
-    <string name="kap21_kom_tem1">- ueber Regeln sprechen</string>
-    <string name="kap21_kom_tem1_rz1">Hier darf man (nicht) rauchen / ... .</string>
-    <string name="kap21_kom_tem1_rz2">Motoradfahrer muessen einen Helm tragen.</string>
+    <string name="kap21_kom_tem1">- &#252;ber Regeln sprechen</string>
+    <string name="kap21_kom_tem1_rz1">Hier darf man (nicht) rauchen / &#8230; .</string>
+    <string name="kap21_kom_tem1_rz2">Motoradfahrer m&#252;ssen einen Helm tragen.</string>
     <string name="kap21_kom_tem1_rz3">Das ist (nicht) verboten.</string>
     <string name="kap21_kom_tem1_rz4">Das ist (nicht) erlaubt.</string>
-    <string name="kap21_kom_tem2">- seine Meinung sagen: Das finde ich ...</string>
-    <string name="kap21_kom_tem2_rz1">... falsch / nicht in Ordnung.</string>
-    <string name="kap21_kom_tem2_rz2">... nicht so / gar nicht gut.</string>
-    <string name="kap21_kom_tem2_rz3">... (sehr) gefaehrlich.</string>
-    <string name="kap21_kom_tem2_rz4">... richtig / in Ordnung.</string>
-    <string name="kap21_kom_tem2_rz5">... nicht (so) schlimm.</string>
-    <string name="kap21_kom_tem2_rz6">... nicht (so) gefaehrlich.</string>
+    <string name="kap21_kom_tem2">- seine Meinung sagen: Das finde ich &#8230;</string>
+    <string name="kap21_kom_tem2_rz1">&#8230; falsch / nicht in Ordnung.</string>
+    <string name="kap21_kom_tem2_rz2">&#8230; nicht so / gar nicht gut.</string>
+    <string name="kap21_kom_tem2_rz3">&#8230; (sehr) gef&#228;hrlich.</string>
+    <string name="kap21_kom_tem2_rz4">&#8230; richtig / in Ordnung.</string>
+    <string name="kap21_kom_tem2_rz5">&#8230; nicht (so) schlimm.</string>
+    <string name="kap21_kom_tem2_rz6">&#8230; nicht (so) gef&#228;hrlich.</string>
 
 
 </resources>
