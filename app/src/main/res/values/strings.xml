@@ -945,6 +945,33 @@
     <string name="kap22_kom_tem3_rz1">Wow, hast du das Kleid schon gesehen? Total sch&#246;n.</string>
     <string name="kap22_kom_tem3_rz2">Was? Das gef&#228;llt dir? Das ist doch wahnsinnig langweilig.</string>
     <string name="kap22_kom_tem3_rz3">Aber seht mal, das hier ist richtig toll.</string>
+    <string name="kap23_gram_tem1">- Wortbilding: Adjektive mit -los</string>
+    <string name="kap23_gram_tem1_rz1">Nomen + -los</string>
+    <string name="kap23_gram_tem1_rz2">Nomen</string>
+    <string name="kap23_gram_tem1_rz3">die Wolken</string>
+    <string name="kap23_gram_tem1_rz4">Adjektiv</string>
+    <string name="kap23_gram_tem1_rz5">wolkenlos (= ohne Wolken)</string>
+    <string name="kap23_gram_tem2">- Konjunktion denn</string>
+    <string name="kap23_gram_tem2_rz1">Es war wunderbar, denn wir hatten ein Traumwetter.</string>
+    <string name="kap23_kom_tem1">- Gruende angeben</string>
+    <string name="kap23_kom_tem1_rz1">Unser Ziel war Suedtirol, denn dort ist es im Maerz schon oft sehr warm.</string>
+    <string name="kap23_kom_tem1_rz2">Hattest du einen schoenen Urlaub?</string>
+    <string name="kap23_kom_tem1_rz3">Ja, denn das Wetter war wunderbar.</string>
+    <string name="kap23_kom_tem1_rz4">Hast du gestern Hausaufgaben gemacht?</string>
+    <string name="kap23_kom_tem1_rz5">Nein, denn ich hatte keine Zeit.</string>
+    <string name="kap23_kom_tem2">- ueber das Wetter sprechen</string>
+    <string name="kap23_kom_tem2_rz1">Wie ist das Wetter?</string>
+    <string name="kap23_kom_tem2_rz2">Es ist sonnig.</string>
+    <string name="kap23_kom_tem2_rz3">Es regnet.</string>
+    <string name="kap23_kom_tem2_rz4">Es schneit.</string>
+    <string name="kap23_kom_tem2_rz5">Es ist windig.</string>
+    <string name="kap23_kom_tem2_rz6">Es ist bewoelkt.</string>
+    <string name="kap23_kom_tem2_rz7">Es ist neblig.</string>
+    <string name="kap23_kom_tem2_rz8">Es donnert und blitzt.</string>
+    <string name="kap23_kom_tem2_rz9">Die Sonne scheint.</string>
+    <string name="kap23_kom_tem2_rz10">Es ist warm. Es sind 25 Grad.</string>
+    <string name="kap23_kom_tem2_rz11">Es ist kalt. Es sind minus 2 Grad.</string>
+    <string name="kap23_kom_tem2_rz12">Es ist kuehl. Es sind plus 8 Grad.</string>
 
 
 </resources>
