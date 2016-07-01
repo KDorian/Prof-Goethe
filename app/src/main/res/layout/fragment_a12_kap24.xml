@@ -1,529 +1,540 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/gramatyka"
-        android:id="@+id/textView1301"
-        android:layout_marginBottom="5dp" />
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/kap24_gram_tem1"
-        android:id="@+id/textView1302"
-        android:layout_marginBottom="5dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="@string/kap24_gram_tem1_rz1"
-        android:id="@+id/textView1303"
-        android:layout_marginLeft="10dp" />
-
-    <TableLayout
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:background="#000000"
-        android:stretchColumns="*">
+        android:orientation="vertical">
 
-        <TableRow
+        <TextView
+            android:id="@+id/textView1301"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/gramatyka"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView1302"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/kap24_gram_tem1"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView1303"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kap24_gram_tem1_rz1"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="#000000"
+            android:stretchColumns="*">
 
-            <TextView
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem1_rz2"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1304"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem1_rz4"
-                android:id="@+id/textView1306"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1304"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem1_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
+                <TextView
+                    android:id="@+id/textView1306"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem1_rz4"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1305"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem1_rz3"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1307"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem1_rz5"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/textView1308"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/kap24_gram_tem2"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem1_rz3"
-                android:id="@+id/textView1305"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem1_rz5"
-                android:id="@+id/textView1307"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
-    </TableLayout>
+                <TextView
+                    android:id="@+id/textView1309"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/kap24_gram_tem2"
-        android:id="@+id/textView1308"
-        android:layout_marginBottom="5dp" />
+                <TextView
+                    android:id="@+id/textView1311"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_gram_tem2_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginBottom="10dp">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TableRow
+                <TextView
+                    android:id="@+id/textView1310"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1312"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_gram_tem2_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/textView1313"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/kap24_gram_tem3"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="#000000"
+            android:stretchColumns="*">
 
-            <TextView
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1309"
-                android:layout_column="0" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem2_rz1"
-                android:id="@+id/textView1311"
-                android:layout_column="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1314"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/ich"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
+                <TextView
+                    android:id="@+id/textView1320"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1315"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/du"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1321"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1316"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/er"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1322"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz3"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1317"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/wir"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1323"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz4"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1318"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/ihr"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1324"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz5"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView1319"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/sie"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1325"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:layout_margin="1dp"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:text="@string/kap24_gram_tem3_rz6"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/textView1326"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/kap24_gram_tem3_rz7"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView1327"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/komunikacja"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView1328"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/kap24_kom_tem1"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1310"
-                android:layout_column="0" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem2_rz2"
-                android:id="@+id/textView1312"
-                android:layout_column="1" />
-        </TableRow>
-    </TableLayout>
+                <TextView
+                    android:id="@+id/textView1329"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/kap24_gram_tem3"
-        android:id="@+id/textView1313" />
+                <TextView
+                    android:id="@+id/textView1331"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem1_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:background="#000000"
-        android:stretchColumns="*">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TableRow
+                <TextView
+                    android:id="@+id/textView1330"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textView1332"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem1_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/textView1333"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/kap24_kom_tem2"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp">
 
-            <TextView
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/ich"
-                android:layout_margin="1dp"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1314"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz1"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1320"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1334"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/textView1339"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem2_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/du"
-                android:id="@+id/textView1315"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz2"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1321"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1335"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/textView1340"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem2_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/er"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1316"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz3"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1322"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1336"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/textView1341"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem2_rz3"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/wir"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1317"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz4"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1323"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1337"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/textView1342"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem2_rz4"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/ihr"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1318"
-                android:layout_column="0"
-                android:layout_weight="1" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz5"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1324"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
+                <TextView
+                    android:id="@+id/textView1338"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="0"
+                    android:text="@string/punkt"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/sie"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1319"
-                android:layout_column="0"
-                android:layout_weight="1" />
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_gram_tem3_rz6"
-                android:layout_margin="1dp"
-                android:background="#ffffff"
-                android:gravity="center"
-                android:id="@+id/textView1325"
-                android:layout_column="1"
-                android:layout_weight="1" />
-        </TableRow>
-    </TableLayout>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="@string/kap24_gram_tem3_rz7"
-        android:id="@+id/textView1326"
-        android:layout_marginLeft="10dp"
-        android:layout_marginBottom="10dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/komunikacja"
-        android:id="@+id/textView1327"
-        android:layout_marginBottom="5dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/kap24_kom_tem1"
-        android:id="@+id/textView1328"
-        android:layout_marginBottom="5dp" />
-
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginBottom="10dp">
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1329"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem1_rz1"
-                android:id="@+id/textView1331"
-                android:layout_column="1" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1330"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem1_rz2"
-                android:id="@+id/textView1332"
-                android:layout_column="1" />
-        </TableRow>
-    </TableLayout>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/kap24_kom_tem2"
-        android:id="@+id/textView1333"
-        android:layout_marginBottom="5dp" />
-
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginBottom="10dp">
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1334"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem2_rz1"
-                android:id="@+id/textView1339"
-                android:layout_column="1" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1335"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem2_rz2"
-                android:id="@+id/textView1340"
-                android:layout_column="1" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1336"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem2_rz3"
-                android:id="@+id/textView1341"
-                android:layout_column="1" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1337"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem2_rz4"
-                android:id="@+id/textView1342"
-                android:layout_column="1" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/punkt"
-                android:id="@+id/textView1338"
-                android:layout_column="0" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="@string/kap24_kom_tem2_rz5"
-                android:id="@+id/textView1343"
-                android:layout_column="1" />
-        </TableRow>
-    </TableLayout>
-</LinearLayout>
+                <TextView
+                    android:id="@+id/textView1343"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@string/kap24_kom_tem2_rz5"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</ScrollView>
