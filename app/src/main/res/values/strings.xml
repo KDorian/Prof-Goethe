@@ -980,26 +980,26 @@
     <string name="kap24_gram_tem1_rz1">Heute ist der achte Januar.</string>
     <string name="kap24_gram_tem1_rz2">1.-19.: + -te:</string>
     <string name="kap24_gram_tem1_rz3">
-        der erste\nder zweite\nder dritte\nder vierte\nder fuenfte\nder sechste\nder siebte\nder achte\nder neunte\n...
+        der erste\nder zweite\nder dritte\nder vierte\nder fuenfte\nder sechste\nder siebte\nder achte\nder neunte\n&#8230;
     </string>
     <string name="kap24_gram_tem1_rz4">ab 20.: + ste:</string>
-    <string name="kap24_gram_tem1_rz5">der zwanzigste\nder einundzwanzigste\n...</string>
+    <string name="kap24_gram_tem1_rz5">der zwanzigste\nder einundzwanzigste\n&#8230;</string>
     <string name="kap24_gram_tem2">- Wann?</string>
     <string name="kap24_gram_tem2_rz1">Am achten Januar.</string>
     <string name="kap24_gram_tem2_rz2">Vom achten bis (zum) achtzehnten Januar.</string>
-    <string name="kap24_gram_tem3">- Wuensche: Konjuktiv II</string>
-    <string name="kap24_gram_tem3_rz1">wuerde</string>
-    <string name="kap24_gram_tem3_rz2">wuerdest</string>
-    <string name="kap24_gram_tem3_rz3">wuerde</string>
-    <string name="kap24_gram_tem3_rz4">wuerden</string>
-    <string name="kap24_gram_tem3_rz5">wuerdet</string>
-    <string name="kap24_gram_tem3_rz6">wuerden</string>
-    <string name="kap24_gram_tem3_rz7">Ich wuerde gern mit dir feiern.</string>
-    <string name="kap24_kom_tem1">- Wuensche aeussern</string>
-    <string name="kap24_kom_tem1_rz1">Im Sommer wuerde ich gern eine Reise machen. Am liebsten nach Las Vegas.</string>
-    <string name="kap24_kom_tem1_rz2">Ich moechte gern.</string>
+    <string name="kap24_gram_tem3">- W&#252;nsche: Konjuktiv II</string>
+    <string name="kap24_gram_tem3_rz1">w&#252;rde</string>
+    <string name="kap24_gram_tem3_rz2">w&#252;rdest</string>
+    <string name="kap24_gram_tem3_rz3">w&#252;rde</string>
+    <string name="kap24_gram_tem3_rz4">w&#252;rden</string>
+    <string name="kap24_gram_tem3_rz5">w&#252;rdet</string>
+    <string name="kap24_gram_tem3_rz6">w&#252;rden</string>
+    <string name="kap24_gram_tem3_rz7">Ich w&#252;rde gern mit dir feiern.</string>
+    <string name="kap24_kom_tem1">- W&#252;nsche &#228;u&#223;ern</string>
+    <string name="kap24_kom_tem1_rz1">Im Sommer w&#252;rde ich gern eine Reise machen. Am liebsten nach Las Vegas.</string>
+    <string name="kap24_kom_tem1_rz2">Ich m&#246;chte gern &#8230; .</string>
     <string name="kap24_kom_tem2">- gratulieren</string>
-    <string name="kap24_kom_tem2_rz1">Herzlichen Glueckwunsch!</string>
+    <string name="kap24_kom_tem2_rz1">Herzlichen Gl&#252;ckwunsch!</string>
     <string name="kap24_kom_tem2_rz2">Frohe Weihnachten!</string>
     <string name="kap24_kom_tem2_rz3">Gutes / Frohes neues Jahr!</string>
     <string name="kap24_kom_tem2_rz4">Gut gemacht!</string>
