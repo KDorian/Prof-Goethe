@@ -8,25 +8,31 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/gramatyka"
-        android:id="@+id/textView1301" />
+        android:id="@+id/textView1301"
+        android:layout_marginBottom="5dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/kap24_gram_tem1"
-        android:id="@+id/textView1302" />
+        android:id="@+id/textView1302"
+        android:layout_marginBottom="5dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/kap24_gram_tem1_rz1"
-        android:id="@+id/textView1303" />
+        android:id="@+id/textView1303"
+        android:layout_marginLeft="10dp" />
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#000000"
+        android:stretchColumns="*">
 
         <TableRow
             android:layout_width="match_parent"
@@ -35,16 +41,26 @@
             <TextView
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem1_rz2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1304"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem1_rz4"
                 android:id="@+id/textView1306"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -52,20 +68,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem1_rz3"
                 android:id="@+id/textView1305"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem1_rz5"
                 android:id="@+id/textView1307"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
     </TableLayout>
 
@@ -74,11 +98,14 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/kap24_gram_tem2"
-        android:id="@+id/textView1308" />
+        android:id="@+id/textView1308"
+        android:layout_marginBottom="5dp" />
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp">
 
         <TableRow
             android:layout_width="match_parent"
@@ -130,7 +157,10 @@
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#000000"
+        android:stretchColumns="*">
 
         <TableRow
             android:layout_width="match_parent"
@@ -139,16 +169,26 @@
             <TextView
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/ich"
+                android:layout_margin="1dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1314"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz1"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1320"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -156,20 +196,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/du"
                 android:id="@+id/textView1315"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz2"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1321"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -177,20 +225,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/er"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1316"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz3"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1322"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -198,20 +254,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/wir"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1317"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz4"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1323"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -219,20 +283,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/ihr"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1318"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz5"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1324"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
 
         <TableRow
@@ -240,20 +312,28 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/sie"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1319"
-                android:layout_column="0" />
+                android:layout_column="0"
+                android:layout_weight="1" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="@string/kap24_gram_tem3_rz6"
+                android:layout_margin="1dp"
+                android:background="#ffffff"
+                android:gravity="center"
                 android:id="@+id/textView1325"
-                android:layout_column="1" />
+                android:layout_column="1"
+                android:layout_weight="1" />
         </TableRow>
     </TableLayout>
 
@@ -262,25 +342,31 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/kap24_gram_tem3_rz7"
-        android:id="@+id/textView1326" />
+        android:id="@+id/textView1326"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/komunikacja"
-        android:id="@+id/textView1327" />
+        android:id="@+id/textView1327"
+        android:layout_marginBottom="5dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/kap24_kom_tem1"
-        android:id="@+id/textView1328" />
+        android:id="@+id/textView1328"
+        android:layout_marginBottom="5dp" />
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp">
 
         <TableRow
             android:layout_width="match_parent"
@@ -328,11 +414,14 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/kap24_kom_tem2"
-        android:id="@+id/textView1333" />
+        android:id="@+id/textView1333"
+        android:layout_marginBottom="5dp" />
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp">
 
         <TableRow
             android:layout_width="match_parent"
