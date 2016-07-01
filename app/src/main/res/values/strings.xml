@@ -974,6 +974,32 @@
     <string name="kap23_kom_tem2_rz10">Es ist warm. Es sind 25 Grad.</string>
     <string name="kap23_kom_tem2_rz11">Es ist kalt. Es sind minus 2 Grad.</string>
     <string name="kap23_kom_tem2_rz12">Es ist k&#252;hl. Es sind plus 8 Grad.</string>
+    <string name="kap24_gram_tem1">- Ordinal zahlen: Datum</string>
+    <string name="kap24_gram_tem1_rz1">Heute ist der achte Januar.</string>
+    <string name="kap24_gram_tem1_rz2">1.-19.: + -te:</string>
+    <string name="kap24_gram_tem1_rz3">der erste</string>
+    <string name="kap24_gram_tem1_rz4">ab 20.: + ste:</string>
+    <string name="kap24_gram_tem1_rz5">der zwanzigste</string>
+    <string name="kap24_gram_tem2">- Wann?</string>
+    <string name="kap24_gram_tem2_rz1">Am achten Januar.</string>
+    <string name="kap24_gram_tem2_rz2">Vom achten bis (zum) achtzehnten Januar.</string>
+    <string name="kap24_gram_tem3">- Wuensche: Konjuktiv II</string>
+    <string name="kap24_gram_tem3_rz1">wuerde</string>
+    <string name="kap24_gram_tem3_rz2">wuerdest</string>
+    <string name="kap24_gram_tem3_rz3">wuerde</string>
+    <string name="kap24_gram_tem3_rz4">wuerden</string>
+    <string name="kap24_gram_tem3_rz5">wuerdet</string>
+    <string name="kap24_gram_tem3_rz6">wuerden</string>
+    <string name="kap24_gram_tem3_rz7">Ich wuerde gern mit dir feiern.</string>
+    <string name="kap24_kom_tem1">- Wuensche aeussern</string>
+    <string name="kap24_kom_tem1_rz1">Im Sommer wuerde ich gern eine Reise machen. Am liebsten nach Las Vegas.</string>
+    <string name="kap24_kom_tem1_rz2">Ich moechte gern.</string>
+    <string name="kap24_kom_tem2">- gratulieren</string>
+    <string name="kap24_kom_tem2_rz1">Herzlichen Glueckwunsch!</string>
+    <string name="kap24_kom_tem2_rz2">Frohe Weihnachten!</string>
+    <string name="kap24_kom_tem2_rz3">Gutes / Frohes neues Jahr!</string>
+    <string name="kap24_kom_tem2_rz4">Gut gemacht!</string>
+    <string name="kap24_kom_tem2_rz5">Alles Gute!</string>
 
 
 </resources>
