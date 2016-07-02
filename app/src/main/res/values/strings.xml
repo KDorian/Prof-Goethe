@@ -243,7 +243,7 @@
     <string name="kap03_kom_tem2">- Sprachkenntnisse</string>
     <string name="kap03_kom_tem2_rz1">Welche Sprachen sprechen Sie / sprichst du?</string>
     <string name="kap03_kom_tem2_rz2">Ich spreche (sehr gut / gut / ein bisschen) Deutsch und Englisch.</string>
-    <string name="mys">-</string>
+    <string name="mys">-&#8194;lol</string>
 
 
     <string name="kap04_gram_tem1">- definiter Artikel der / das /die</string>
