@@ -1006,4 +1006,13 @@
     <string name="kap24_kom_tem2_rz5">Alles Gute!</string>
 
 
+    <string name="a11_kom_kap1">Kapitel 01</string>
+    <string name="a11_kom_kap2">Kapitel 02</string>
+    <string name="a11_kom_kap3">Kapitel 03</string>
+    <string name="a11_kom_kap4">Kapitel 04</string>
+    <string name="a11_kom_kap5">Kapitel 05</string>
+    <string name="a11_kom_kap6">Kapitel 06</string>
+    <string name="a11_kom_kap7">Kapitel 07</string>
+
+
 </resources>
