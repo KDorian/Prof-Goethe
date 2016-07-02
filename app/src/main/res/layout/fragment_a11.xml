@@ -37,7 +37,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -47,7 +47,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -82,7 +82,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
+                            android:text="@string/kap01_gram_tem1"
                             android:id="@+id/textView1345"
                             android:layout_column="1" />
                     </TableRow>
@@ -103,7 +103,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
+                            android:text="@string/kap01_gram_tem2"
                             android:id="@+id/textView1346"
                             android:layout_column="1" />
                     </TableRow>
@@ -124,7 +124,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
+                            android:text="@string/kap01_gram_tem3"
                             android:id="@+id/textView1347"
                             android:layout_column="1" />
                     </TableRow>
@@ -271,7 +271,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -281,7 +281,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -460,7 +460,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -470,7 +470,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -650,7 +650,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -660,7 +660,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -721,47 +721,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1390"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1391"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1392"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1393"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -840,7 +799,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -850,7 +809,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -890,68 +849,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1403"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1404"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1405"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1406"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1407"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1408"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1003,6 +900,48 @@
                             android:id="@+id/textView1412"
                             android:layout_column="1" />
                     </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1390"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1391"
+                            android:layout_column="1" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1392"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1393"
+                            android:layout_column="1" />
+                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -1030,7 +969,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1040,7 +979,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1122,26 +1061,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1422"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1423"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1173,26 +1092,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1426"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1427"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -1220,7 +1119,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1230,7 +1129,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1291,47 +1190,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1435"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1436"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1437"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1438"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1383,6 +1241,48 @@
                             android:id="@+id/textView1442"
                             android:layout_column="1" />
                     </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1403"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1404"
+                            android:layout_column="1" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1405"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1406"
+                            android:layout_column="1" />
+                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -1391,7 +1291,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
+            android:text="@string/a11_kom_kap8"
             android:id="@+id/textView1443"
             android:layout_gravity="center_horizontal" />
 
@@ -1410,7 +1310,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1420,7 +1320,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1481,47 +1381,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1450"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1451"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1452"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1453"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1573,6 +1432,69 @@
                             android:id="@+id/textView1457"
                             android:layout_column="1" />
                     </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1407"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1408"
+                            android:layout_column="1" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1422"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1423"
+                            android:layout_column="1" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1426"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1427"
+                            android:layout_column="1" />
+                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -1581,7 +1503,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
+            android:text="@string/a11_kom_kap9"
             android:id="@+id/textView1458"
             android:layout_gravity="center_horizontal" />
 
@@ -1600,7 +1522,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1610,7 +1532,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1692,26 +1614,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1467"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1468"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1771,7 +1673,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
+            android:text="@string/a11_kom_kap10"
             android:id="@+id/textView1473"
             android:layout_gravity="center_horizontal" />
 
@@ -1790,7 +1692,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1800,7 +1702,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1861,47 +1763,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1480"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1481"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1482"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1483"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -1953,6 +1814,27 @@
                             android:id="@+id/textView1487"
                             android:layout_column="1" />
                     </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="@string/mys"
+                            android:id="@+id/textView1435"
+                            android:layout_column="0" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:text="Small Text"
+                            android:id="@+id/textView1436"
+                            android:layout_column="1" />
+                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -1961,7 +1843,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
+            android:text="@string/a11_kom_kap11"
             android:id="@+id/textView1488"
             android:layout_gravity="center_horizontal" />
 
@@ -1980,7 +1862,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -1990,7 +1872,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -2072,26 +1954,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1497"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1498"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
@@ -2123,26 +1985,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1501"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1502"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
             </TableRow>
         </TableLayout>
@@ -2151,7 +1993,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
+            android:text="@string/a11_kom_kap12"
             android:id="@+id/textView1503"
             android:layout_gravity="center_horizontal" />
 
@@ -2170,7 +2012,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/gramatyka"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -2180,7 +2022,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Medium Text"
+                    android:text="@string/komunikacja"
                     android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:background="#ffffff"
@@ -2241,47 +2083,6 @@
                             android:layout_column="1" />
                     </TableRow>
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1510"
-                            android:layout_column="0" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1511"
-                            android:layout_column="1" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent" >
-
-                        <TextView
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="@string/mys"
-                            android:id="@+id/textView1512"
-                            android:layout_column="0"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:textAppearance="?android:attr/textAppearanceSmall"
-                            android:text="Small Text"
-                            android:id="@+id/textView1513"
-                            android:layout_column="1" />
-                    </TableRow>
                 </TableLayout>
 
                 <TableLayout
