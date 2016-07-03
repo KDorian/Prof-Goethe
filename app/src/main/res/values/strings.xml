@@ -243,7 +243,8 @@
     <string name="kap03_kom_tem2">- Sprachkenntnisse</string>
     <string name="kap03_kom_tem2_rz1">Welche Sprachen sprechen Sie / sprichst du?</string>
     <string name="kap03_kom_tem2_rz2">Ich spreche (sehr gut / gut / ein bisschen) Deutsch und Englisch.</string>
-    <string name="mys">-&#8194;lol</string>
+    <string name="mys">-&#8194;</string>
+    <string name="spacja">&#8194;</string>
 
 
     <string name="kap04_gram_tem1">- definiter Artikel der / das /die</string>
@@ -287,7 +288,7 @@
     <string name="kap05_kom_tem1_rz1">Entschuldigung, wie hei&#223;t das auf Deutsch?</string>
     <string name="kap05_kom_tem1_rz2">Wie schreibt man &#8230; ?</string>
     <string name="kap05_kom_tem1_rz3">Das ist ein / eine &#8230;</string>
-    <string name="kap05_kom_tem2">- um Widerholung bitten</string>
+    <string name="kap05_kom_tem2">- um Wiederholung bitten</string>
     <string name="kap05_kom_tem2_rz1">Noch einmal, bitte.</string>
     <string name="kap05_kom_tem2_rz2">Wie bitte?</string>
     <string name="kap05_kom_tem3">- sich bedanken und darauf reagieren</string>
