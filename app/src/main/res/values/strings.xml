@@ -93,13 +93,13 @@
     <string name="punkt">&#8226;</string>
     <string name="komunikacja">KOMMUNIKATION</string>
 
-    <string name="kap01_gram_tem1">- Verb: Konjugation</string>
+    <string name="kap01_gram_tem1">Verb: Konjugation</string>
     <string name="kap01_gram_tem1_rz1" />
     <string name="kap01_gram_tem1_rz2">kommen</string>
     <string name="kap01_gram_tem1_rz3">hei&#223;en</string>
     <string name="kap01_gram_tem1_rz4">sein</string>
 
-    <string name="kap01_kom_tem1">- Name</string>
+    <string name="kap01_kom_tem1">Name</string>
     <string name="kap01_kom_tem1_rz1">Wie hei&#223;en Sie? / Wie hei&#223;t du?</string>
     <string name="kap01_gram_tem1_rz5">ich</string>
     <string name="kap01_gram_tem1_rz6">komme</string>
@@ -117,29 +117,31 @@
     <string name="kap01_gram_tem1_rz18">kommt</string>
     <string name="kap01_gram_tem1_rz19">hei&#223;t</string>
     <string name="kap01_gram_tem1_rz20">ist</string>
-    <string name="kap01_gram_tem2">- W-Frage: wer, wie, woher</string>
+    <string name="kap01_gram_tem2">W-Frage: wer, wie, woher</string>
     <string name="kap01_gram_tem2_rz1">er ist das?</string>
     <string name="kap01_gram_tem2_rz2">ie hei&#223;en Sie?</string>
     <string name="kap01_gram_tem2_rz3">oher kommst du?</string>
-    <string name="kap01_gram_tem3">- Aussage</string>
+    <string name="kap01_gram_tem3">Aussage</string>
     <string name="kap01_gram_tem3_rz1">Ich hei&#223;e Paco.</string>
     <string name="kap01_gram_tem3_rz2">Ich komme aus &#214;sterreich.</string>
     <string name="kap01_gram_tem3_rz3">Mein Name ist Valerie.</string>
     <string name="kap01_kom_tem1_rz2">Wer sind Sie? / Wer bist du?</string>
     <string name="kap01_kom_tem1_rz3">Ich bin / hei&#223;e Nicole.</string>
     <string name="kap01_kom_tem1_rz4">Mein Name ist Paco.</string>
-    <string name="kap01_kom_tem2">- Herkunft</string>
+    <string name="kap01_kom_tem2">Herkunft</string>
     <string name="kap01_kom_tem2_rz1">Woher kommen Sie? / Woher kommst du?</string>
     <string name="kap01_kom_tem2_rz2">(Ich komme) Aus Mexico.</string>
-    <string name="kap01_kom_tem3">- sich und andere vorstellen</string>
+    <string name="kap01_kom_tem3">sich und andere vorstellen</string>
     <string name="kap01_kom_tem3_rz1">Das ist Paco / Frau Walter. Er / Sie kommt aus Mexico.</string>
-    <string name="kap01_kom_tem4">- nach dem Befinden fragen</string>
+    <string name="kap01_kom_tem4">nach dem Befinden fragen</string>
     <string name="kap01_kom_tem4_rz1">Wie geht es Ihnen? / Wie geht\'s? / Wie geht es dir?</string>
     <string name="kap01_kom_tem4_rz2">Sehr gut. / Gut, danke. / Es geht. / Nicht so gut.</string>
     <string name="kap01_kom_tem4_rz3">Gut, danke. Und Ihnen?</string>
     <string name="kap01_kom_tem4_rz4">Auch gut.</string>
-    <string name="kap01_kom_tem5">- um Wiederholung bitten</string>
+    <string name="kap01_kom_tem5">um Wiederholung bitten</string>
     <string name="kap01_kom_tem5_rz1">Wie bitte?</string>
+
+
     <string name="w">W</string>
     <string name="ich">ich</string>
     <string name="du">du</string>
@@ -147,6 +149,8 @@
     <string name="wir">wir</string>
     <string name="ihr">ihr</string>
     <string name="sie">sie/Sie</string>
+
+
     <string name="kap02_gram_tem1_rz1">machen</string>
     <string name="kap02_gram_tem1_rz2">mache</string>
     <string name="kap02_gram_tem1_rz3">machst</string>
@@ -176,30 +180,30 @@
     <string name="kap02_gram_tem1_rz27">seid</string>
     <string name="kap02_gram_tem1_rz28">sind</string>
     <string name="kap02_gram_tem1_rz29">auch so: wohnen, leben&#8230;</string>
-    <string name="kap02_gram_tem1">- Verb: Konjugation</string>
-    <string name="kap02_gram_tem2">- Pr&#228;positionen als, bei, in</string>
+    <string name="kap02_gram_tem1">Verb: Konjugation</string>
+    <string name="kap02_gram_tem2">Pr&#228;positionen als, bei, in</string>
     <string name="kap02_gram_tem2_rz1">als</string>
     <string name="kap02_gram_tem2_rz2">bei</string>
     <string name="kap02_gram_tem2_rz3">in</string>
     <string name="kap02_gram_tem2_rz4">Ich arbeite als Journalistin.</string>
     <string name="kap02_gram_tem2_rz5">Ich arbeite bei X-Media.</string>
     <string name="kap02_gram_tem2_rz6">Ich lebe in K&#246;ln.</string>
-    <string name="kap02_gram_tem3">- Wortbildung -in</string>
+    <string name="kap02_gram_tem3">Wortbildung -in</string>
     <string name="kap02_gram_tem3_rz1">der Journalist</string>
     <string name="kap02_gram_tem3_rz2">der Arzt</string>
     <string name="kap02_gram_tem3_rz3">die Journalistin</string>
     <string name="kap02_gram_tem3_rz4">die &#196;rztin</string>
-    <string name="kap02_gram_tem4">- Negation mit nicht</string>
+    <string name="kap02_gram_tem4">Negation mit nicht</string>
     <string name="kap02_gram_tem4_rz1">Wir leben nicht zusammen.</string>
     <string name="kap02_gram_tem4_rz2">Sie wohnt nicht in K&#246;ln.</string>
-    <string name="kap02_kom_tem1">- &#252;ber den Beruf sprechen</string>
+    <string name="kap02_kom_tem1">&#252;ber den Beruf sprechen</string>
     <string name="kap02_kom_tem1_rz1">Was sind Sie / bist du von Beruf?</string>
     <string name="kap02_kom_tem1_rz2">Was machen Sie / machst du beruflich?</string>
     <string name="kap02_kom_tem1_rz3">Ich bin / arbeite als &#8230; bei &#8230; .</string>
     <string name="kap02_kom_tem1_rz4">Ich bin Student / Schuelerin.</string>
     <string name="kap02_kom_tem1_rz5">Ich habe einen Job als &#8230; .</string>
     <string name="kap02_kom_tem1_rz6">Ich mache eine Ausbildung als &#8230; / ein Praktikum bei &#8230; .</string>
-    <string name="kap02_kom_tem2">- &#252;ber Persoenliches sprechen</string>
+    <string name="kap02_kom_tem2">&#252;ber Pers&#246;nliches sprechen</string>
     <string name="kap02_kom_tem2_rz1">Wo wohnen Sie / wohnst du?</string>
     <string name="kap02_kom_tem2_rz2">Ich wohne / lebe in &#8230; .</string>
     <string name="kap02_kom_tem2_rz3">Ich bin verheiratet / geschieden / Single.</string>
@@ -210,63 +214,65 @@
     <string name="maskulin">maskulin</string>
     <string name="feminin">feminin</string>
     <string name="plural">Plural</string>
-    <string name="kap03_gram_tem1">- Possessivartikel mein / dein</string>
+    <string name="kap03_gram_tem1">Possessivartikel mein / dein</string>
     <string name="kap03_gram_tem1_rz1">mein Bruder</string>
     <string name="kap03_gram_tem1_rz">dein Bruder</string>
     <string name="kap03_gram_tem1_rz3">meine Schwester</string>
     <string name="kap03_gram_tem1_rz4">deine Schwester</string>
     <string name="kap03_gram_tem1_rz5">meine Eltern</string>
     <string name="kap03_gram_tem1_rz6">deine Eltern</string>
-    <string name="kap03_gram_tem2">- Ja- / Nein Frage und Aussage</string>
+    <string name="kap03_gram_tem2">Ja- / Nein Frage und Aussage</string>
     <string name="kap03_gram_tem2_rz1">Ja-/Nein Frage</string>
     <string name="kap03_gram_tem2_rz2">W-Frage</string>
     <string name="kap03_gram_tem2_rz3">Aussage</string>
     <string name="kap03_gram_tem2_rz4">Ist das deine Frau?</string>
     <string name="kap03_gram_tem2_rz5">Wer ist das?</string>
     <string name="kap03_gram_tem2_rz6">Das ist meine Frau.</string>
-    <string name="kap03_gram_tem3">- ja / nein / doch</string>
+    <string name="kap03_gram_tem3">ja / nein / doch</string>
     <string name="kap03_gram_tem3_rz1">Ist das deine Frau?</string>
     <string name="kap03_gram_tem3_rz2">Das ist nicht deine Frau?</string>
     <string name="kap03_gram_tem3_rz3">Ja, (das ist meine Frau).</string>
     <string name="kap03_gram_tem3_rz4">Nein, (das ist nicht meine Frau).</string>
     <string name="kap03_gram_tem3_rz5">Doch, (das ist meine Frau).</string>
-    <string name="kap03_gram_tem4"> Verb sprechen: Konjugation mit Vokalwechsel</string>
+    <string name="kap03_gram_tem4">Verb sprechen: Konjugation mit Vokalwechsel</string>
     <string name="kap03_gram_tem4_rz1">spreche</string>
     <string name="kap03_gram_tem4_rz2">sprichst</string>
     <string name="kap03_gram_tem4_rz3">spricht</string>
     <string name="kap03_gram_tem4_rz4">sprechen</string>
     <string name="kap03_gram_tem4_rz5">sprecht</string>
     <string name="kap03_gram_tem4_rz6">sprechen</string>
-    <string name="kap03_kom_tem1">- Familie</string>
+    <string name="kap03_kom_tem1">Familie</string>
     <string name="kap03_kom_tem1_rz1">Das sind meine Eltern.</string>
     <string name="kap03_kom_tem1_rz2">Das ist meine Mutter.</string>
-    <string name="kap03_kom_tem2">- Sprachkenntnisse</string>
+    <string name="kap03_kom_tem2">Sprachkenntnisse</string>
     <string name="kap03_kom_tem2_rz1">Welche Sprachen sprechen Sie / sprichst du?</string>
     <string name="kap03_kom_tem2_rz2">Ich spreche (sehr gut / gut / ein bisschen) Deutsch und Englisch.</string>
+
+
     <string name="mys">-&#8194;</string>
     <string name="spacja">&#8194;</string>
 
 
-    <string name="kap04_gram_tem1">- definiter Artikel der / das /die</string>
+    <string name="kap04_gram_tem1">definiter Artikel der / das /die</string>
     <string name="kap04_gram_tem1_rz1">Nominativ Singular</string>
     <string name="kap04_gram_tem1_rz2">definiter Artikel</string>
     <string name="neutral">neutral</string>
     <string name="kap04_gram_tem1_rz3">der Tisch</string>
     <string name="kap04_gram_tem1_rz4">das Bett</string>
     <string name="kap04_gram_tem1_rz5">die Lampe</string>
-    <string name="kap04_gram_tem2">- Personalpronomen er / sie / es</string>
+    <string name="kap04_gram_tem2">Personalpronomen er / sie / es</string>
     <string name="kap04_gram_tem2_rz1">der Tisch</string>
     <string name="kap04_gram_tem2_rz2">Er kostet &#8230;</string>
     <string name="kap04_gram_tem2_rz3">das Bett</string>
     <string name="kap04_gram_tem2_rz4">Es kostet &#8230;</string>
     <string name="kap04_gram_tem2_rz5">die Lampe</string>
     <string name="kap04_gram_tem2_rz6">Sie kostet &#8230;</string>
-    <string name="kap04_kom_tem1">- Beratungsgespr&#228;che</string>
+    <string name="kap04_kom_tem1">Beratungsgespr&#228;che</string>
     <string name="kap04_kom_tem1_rz1">Brauchen Sie Hilfe?</string>
     <string name="kap04_kom_tem1_rz2">Ja, bitte.</string>
     <string name="kap04_kom_tem1_rz3">Wie viel / Was kostet (denn) die Lampe?</string>
     <string name="kap04_kom_tem1_rz4">Die Lampe kostet (nur) 119 Euro. Das ist ein Sonderangebot.</string>
-    <string name="kap04_kom_tem2">- etwas bewerten</string>
+    <string name="kap04_kom_tem2">etwas bewerten</string>
     <string name="kap04_kom_tem2_rz1">Das ist (sehr / zu / aber) teuer / g&#252;nstig / billig.</string>
     <string name="kap04_kom_tem2_rz2">Der Tisch ist zu gro&#223; / zu klein.</string>
     <string name="kap04_kom_tem2_rz3">Ich finde die Lampe (wirklich) sehr sch&#246;n.</string>
@@ -284,30 +290,30 @@
     <string name="kap05_gram_tem1_rz7">kein Schl&#252;ssel</string>
     <string name="kap05_gram_tem1_rz8">kein Buch</string>
     <string name="kap05_gram_tem1_rz9">keine Brille</string>
-    <string name="kap05_kom_tem1">- nach W&#246;rtern fragen / W&#246;rter nennen</string>
+    <string name="kap05_kom_tem1">nach W&#246;rtern fragen / W&#246;rter nennen</string>
     <string name="kap05_kom_tem1_rz1">Entschuldigung, wie hei&#223;t das auf Deutsch?</string>
     <string name="kap05_kom_tem1_rz2">Wie schreibt man &#8230; ?</string>
     <string name="kap05_kom_tem1_rz3">Das ist ein / eine &#8230;</string>
-    <string name="kap05_kom_tem2">- um Wiederholung bitten</string>
+    <string name="kap05_kom_tem2">um Wiederholung bitten</string>
     <string name="kap05_kom_tem2_rz1">Noch einmal, bitte.</string>
     <string name="kap05_kom_tem2_rz2">Wie bitte?</string>
-    <string name="kap05_kom_tem3">- sich bedanken und darauf reagieren</string>
+    <string name="kap05_kom_tem3">sich bedanken und darauf reagieren</string>
     <string name="kap05_kom_tem3_rz1">Danke.</string>
     <string name="kap05_kom_tem3_rz2">Bitte Sch&#246;n. / Bitte. (Gern) / Kein Problem.</string>
-    <string name="kap05_kom_tem4">- einen Gegenstand beschreiben</string>
+    <string name="kap05_kom_tem4">einen Gegenstand beschreiben</string>
     <string name="kap05_kom_tem4_rz1">Die Brille ist aus Kunststoff / &#8230;</string>
     <string name="kap05_kom_tem4_rz2">Die Brille ist rund / eckig / &#8230; , rot / braun / &#8230; und modern &#8230;</string>
     <string name="singular">Singular</string>
 
 
-    <string name="kap06_gram_tem1">- Artikel im Singular und Plural</string>
+    <string name="kap06_gram_tem1">Artikel im Singular und Plural</string>
     <string name="kap06_gram_tem1_rz1">der / ein / kein Schl&#252;ssel</string>
     <string name="kap06_gram_tem1_rz2">das / ein / kein Formular</string>
     <string name="kap06_gram_tem1_rz3">die / eine / keine Briefmarke</string>
     <string name="kap06_gram_tem1_rz4">die / - / keine Schl&#252;ssel</string>
     <string name="kap06_gram_tem1_rz5">die / - / keine Formulare</string>
     <string name="kap06_gram_tem1_rz6">die / - / keine Briefmarken</string>
-    <string name="kap06_gram_tem2">- Nomen: Singular und Plural</string>
+    <string name="kap06_gram_tem2">Nomen: Singular und Plural</string>
     <string name="kap06_gram_tem2_rz1">-e / -&#235;</string>
     <string name="kap06_gram_tem2_rz2">- (e)n</string>
     <string name="kap06_gram_tem2_rz3">- s</string>
@@ -341,7 +347,7 @@
     <string name="kap06_gram_tem3_rz6">Formular</string>
     <string name="kap06_gram_tem3_rz7">Briefmarke</string>
     <string name="kap06_gram_tem3_rz8">Stifte</string>
-    <string name="kap06_kom_tem1">- Telefongespr&#228;che</string>
+    <string name="kap06_kom_tem1">Telefongespr&#228;che</string>
     <string name="kap06_kom_tem1_rz1">Brenner IT-Consulting. Guten Tag. Hier ist &#8230; .</string>
     <string name="kap06_kom_tem1_rz2">Christian Schmidt. / Schmidt.</string>
     <string name="kap06_kom_tem1_rz3">Guten Tag. / Hallo. Hier ist &#8230; .</string>
@@ -349,14 +355,14 @@
     <string name="kap06_kom_tem1_rz5">Tschues. / Auf Wiederh&#246;ren. / Auf Wiedersehen.</string>
 
 
-    <string name="kap07_gram_tem1">- Modalverb k&#246;nnen: Konjugation</string>
+    <string name="kap07_gram_tem1">Modalverb k&#246;nnen: Konjugation</string>
     <string name="kap07_gram_tem1_rz1">kann</string>
     <string name="kap07_gram_tem1_rz2">kannst</string>
     <string name="kap07_gram_tem1_rz3">kann</string>
     <string name="kap07_gram_tem1_rz4">k&#246;nnen</string>
     <string name="kap07_gram_tem1_rz5">k&#246;nnt</string>
     <string name="kap07_gram_tem1_rz6">k&#246;nnen</string>
-    <string name="kap07_gram_tem2">- Modalverebn: Satzklammer</string>
+    <string name="kap07_gram_tem2">Modalverebn: Satzklammer</string>
     <string name="kap07_gram_tem2_rz1">Aussage</string>
     <string name="kap07_gram_tem2_rz2">Frage / Bitte</string>
     <string name="kap07_gram_tem2_rz3">Du kannst wirklich super Gitarre spielen.</string>
@@ -364,9 +370,9 @@
     <string name="kap07_kom_tem1">Komplimente machen und sich bedanken</string>
     <string name="kap07_kom_tem1_rz1">Sie k&#246;nnen ja / wirklich / aber / toll / super / sehr gut tanzen.</string>
     <string name="kap07_kom_tem1_rz2">Vielen Dank! / Oh, danke! / Danke sehr! / \nHerzlichen Dank.</string>
-    <string name="kap07_kom_tem2">- F&#228;higkeiten</string>
+    <string name="kap07_kom_tem2">F&#228;higkeiten</string>
     <string name="kap07_kom_tem2_rz1">Ich kann (gar) nicht / nicht so gut / ein bisschen / (sehr) gut singen.</string>
-    <string name="kap07_kom_tem3">- &#252;ber Hobbys sprechen</string>
+    <string name="kap07_kom_tem3">&#252;ber Hobbys sprechen</string>
     <string name="kap07_kom_tem3_rz1">Was sind deine Hobbys?</string>
     <string name="kap07_kom_tem3_rz2">Meine Hobbys sind &#8230; und &#8230; .</string>
     <string name="kap07_kom_tem3_rz3">Mein Hobby ist &#8230; .</string>
@@ -380,38 +386,38 @@
     <string name="kap07_kom_tem3_rz11">Wie oft gehst du ins Kino?</string>
     <string name="kap07_kom_tem3_rz12">Ich gehe oft / manchmal / nie ins Kino.</string>
     <string name="kap07_kom_tem3_rz13">Mein Lieblingsfilm / Lieblings- &#8230; ist &#8230; .</string>
-    <string name="kap07_kom_tem4">- um etwas bitten</string>
+    <string name="kap07_kom_tem4">um etwas bitten</string>
     <string name="kap07_kom_tem4_rz1">Kann ich mal telefonieren / hier rauchen?</string>
 
 
-    <string name="kap08_gram_tem1">- temporale Pr&#228;positionen am, um</string>
+    <string name="kap08_gram_tem1">temporale Pr&#228;positionen am, um</string>
     <string name="kap08_gram_tem1_rz1">am + Wochentage / Tageszeiten</string>
     <string name="kap08_gram_tem1_rz2">um + Uhrzeiten</string>
     <string name="kap08_gram_tem1_rz3">am Dienstag / am Abend</string>
     <string name="kap08_gram_tem1_rz4">um drei Uhr</string>
     <string name="kap08_gram_tem1_rz5"></string>
-    <string name="kap08_gram_tem2">- Verbposition im Satz</string>
+    <string name="kap08_gram_tem2">Verbposition im Satz</string>
     <string name="kap08_gram_tem2_rz1">Leider habe ich doch keine Zeit.</string>
     <string name="kap08_gram_tem2_rz2">Ich habe leider doch keine Zeit.</string>
-    <string name="kap08_kom_tem1">- sich verabreden</string>
+    <string name="kap08_kom_tem1">sich verabreden</string>
     <string name="kap08_kom_tem1_rz1">Hast du heute Abend / am &#8230; Ziet? / Kannst du heute Abend / am &#8230; ?</string>
     <string name="kap08_kom_tem1_rz2">Ja, klar. / Das wei&#223; ich noch nicht. / Vielleicht.</string>
     <string name="kap08_kom_tem1_rz3">Heute Abend / Am &#8230; habe ich leider keine Zeit.</string>
-    <string name="kap08_kom_tem2">- einen Vorschlag machen und darauf reagieren</string>
+    <string name="kap08_kom_tem2">einen Vorschlag machen und darauf reagieren</string>
     <string name="kap08_kom_tem2_rz1">Gehen wir ins Kino / &#8230; ?</string>
     <string name="kap08_kom_tem2_rz2">Lust auf Schwimmbad?</string>
     <string name="kap08_kom_tem2_rz3">Vielleicht koennen wir morgen Abend in(s) &#8230; gehen?</string>
     <string name="kap08_kom_tem2_rz4">Nein, leider nicht. Ich habe keine Zeit.</string>
     <string name="kap08_kom_tem2_rz5">Tut mir leid, ich habe keine Lust.</string>
     <string name="kap08_kom_tem2_rz6">Ich kann leider nicht. Ich gehe &#8230; .</string>
-    <string name="kap08_kom_tem3">- Verabredungen absagen</string>
+    <string name="kap08_kom_tem3">Verabredungen absagen</string>
     <string name="kap08_kom_tem3_rz1">Ich kann leider doch nicht kommen.</string>
-    <string name="kap08_kom_tem4">- einen Zeitpunkt angeben</string>
+    <string name="kap08_kom_tem4">einen Zeitpunkt angeben</string>
     <string name="kap08_kom_tem4_rz1">Wann denn?</string>
     <string name="kap08_kom_tem4_rz2">Am Dienstag / Abend / Mittwochabend / &#8230; um &#8230; Uhr.</string>
     <string name="kap08_kom_tem4_rz3">Um drei / halb vier.</string>
     <string name="kap08_kom_tem5_rz1">Wie sp&#228;t ist es? Wie viel Uhr ist es?</string>
-    <string name="kap08_kom_tem5">- Uhrzeit</string>
+    <string name="kap08_kom_tem5">Uhrzeit</string>
     <string name="kap08_kom_tem5_rz2">Es ist Viertel vor drei / halb sechs.</string>
 
 
@@ -430,9 +436,9 @@
     <string name="kap09_gram_tem1_rz12">m&#246;chten</string>
     <string name="kap09_gram_tem1_rz13">m&#246;chtet</string>
     <string name="kap09_gram_tem1_rz14">m&#246;chten</string>
-    <string name="kap09_gram_tem2">- "m&#246;chte" im Satz</string>
+    <string name="kap09_gram_tem2">"m&#246;chte" im Satz</string>
     <string name="kap09_gram_tem2_rz1">Ich m&#246;chte etwas essen.</string>
-    <string name="kap09_gram_tem3">- Wortbildung: Nomen + Nomen</string>
+    <string name="kap09_gram_tem3">Wortbildung: Nomen + Nomen</string>
     <string name="kap09_gram_tem3_rz1">der Schokoladenkuchen</string>
     <string name="kap09_gram_tem3_rz2">die Fischsuppe</string>
     <string name="kap09_gram_tem3_rz3">die Schokolade + der Kuchen</string>
@@ -445,7 +451,7 @@
     <string name="kap09_kom_tem1_rz5">In der Woche fr&#252;hst&#252;cke ich oft erst um sechs Uhr. Am Wochenende / Sonntag fr&#252;hst&#252;cke ich oft erst um elf Uhr.</string>
     <string name="kap09_kom_tem1_rz6">Was essen wir als Vorspeise / Hauptgericht / Dessert?</string>
     <string name="kap09_kom_tem1_rz7">Als Vorspeise essen wir Suppe.</string>
-    <string name="kap09_kom_tem2">- beim Essen</string>
+    <string name="kap09_kom_tem2">beim Essen</string>
     <string name="kap09_kom_tem2_rz1">M&#246;chten Sie einen Kaffee / &#8230; ?</string>
     <string name="kap09_kom_tem2_rz2">Oh ja! Bitte. / Ja. Gern.</string>
     <string name="kap09_kom_tem2_rz3">M&#246;chten Sie noch etwas Suppe / &#8230; ?</string>
@@ -456,22 +462,22 @@
 
 
 
-    <string name="kap10_gram_tem1">- trennbare Verben</string>
+    <string name="kap10_gram_tem1">trennbare Verben</string>
     <string name="kap10_gram_tem1_rz1">anrufen</string>
     <string name="kap10_gram_tem1_rz2">einkaufen</string>
     <string name="kap10_gram_tem1_rz3">Ich rufe dich an.</string>
     <string name="kap10_gram_tem1_rz4">Vielleicht kaufe ich noch was ein.</string>
-    <string name="kap10_gram_tem2">- trennbare Verben in der Frage</string>
+    <string name="kap10_gram_tem2">trennbare Verben in der Frage</string>
     <string name="kap10_gram_tem2_rz1">W-Frage</string>
     <string name="kap10_gram_tem2_rz2">Ja- / Nein- Frage</string>
     <string name="kap10_gram_tem2_rz3">Wann rufst du mich an?</string>
     <string name="kap10_gram_tem2_rz4">Rufst du mich heute an?</string>
-    <string name="kap10_kom_tem1">- Durchsagen</string>
+    <string name="kap10_kom_tem1">Durchsagen</string>
     <string name="kap10_kom_tem1_rz1">Am Bahnsteig zwei f&#228;hrt die U2 ein.</string>
     <string name="kap10_kom_tem1_rz2">Bitte Vorsicht!</string>
     <string name="kap10_kom_tem1_rz3">N&#228;chster Halt: Innsbrucker Ring.</string>
     <string name="kap10_kom_tem1_rz4">Achtung! Bitte z&#252;ruckbleiben.</string>
-    <string name="kap10_kom_tem2">- am Bahnhof: sich informieren</string>
+    <string name="kap10_kom_tem2">am Bahnhof: sich informieren</string>
     <string name="kap10_kom_tem2_rz1">Wo f&#228;hrt der Zug nach &#8230; ab?</string>
     <string name="kap10_kom_tem2_rz2">Auf Gleis &#8230;</string>
     <string name="kap10_kom_tem2_rz3">Wann kommst du / kommt der Zug aus &#8230; an?</string>
@@ -482,20 +488,20 @@
     <string name="kap10_kom_tem2_rz8">Auf Gleis &#8230;</string>
     <string name="kap10_kom_tem2_rz9">Holst du mich (am Bahnhof / &#8230; ) ab?</string>
     <string name="kap10_kom_tem2_rz10">Ja, gern. Wann kommst du an?</string>
-    <string name="kap10_kom_tem3">- ein Telefonat beenden</string>
+    <string name="kap10_kom_tem3">ein Telefonat beenden</string>
     <string name="kap10_kom_tem3_rz1">Gut, dann &#8230; / Also dann &#8230;</string>
     <string name="kap10_kom_tem3_rz2">Bis morgen. / Bis bald.</string>
     <string name="kap10_kom_tem3_rz3">Mach\'s gut! / Pass auf dich auf!</string>
     <string name="kap10_kom_tem3_rz4">Auf Wiedersehen! / Tsch&#252;s!</string>
 
 
-    <string name="kap11_gram_tem1">- temporale Pr&#228;positionen von &#8230; bis, ab</string>
+    <string name="kap11_gram_tem1">temporale Pr&#228;positionen von &#8230; bis, ab</string>
     <string name="kap11_gram_tem1_rz1">Wann?</string>
     <string name="kap11_gram_tem1_rz2">Von 9 Uhr</string>
     <string name="kap11_gram_tem1_rz3">jetzt</string>
     <string name="kap11_gram_tem1_rz4">bis 10 Uhr</string>
     <string name="kap11_gram_tem1_rz5">Ab 9 Uhr</string>
-    <string name="kap11_gram_tem2">- Perfekt mit haben</string>
+    <string name="kap11_gram_tem2">Perfekt mit haben</string>
     <string name="kap11_gram_tem2_rz1">regelm&#228;&#223;ig</string>
     <string name="kap11_gram_tem2_rz2">unregelm&#228;&#223;ig</string>
     <string name="kap11_gram_tem2_rz3">trennbar</string>
@@ -512,22 +518,22 @@
     <string name="kap11_gram_tem2_rz14">geschreiben</string>
     <string name="kap11_gram_tem2_rz15">aufger&#228;umt</string>
     <string name="kap11_gram_tem2_rz16">telefoniert</string>
-    <string name="kap11_gram_tem3">- Perfekt im Satz</string>
+    <string name="kap11_gram_tem3">Perfekt im Satz</string>
     <string name="kap11_gram_tem3_rz1">Aussage</string>
     <string name="kap11_gram_tem3_rz2">W-Frage</string>
     <string name="kap11_gram_tem3_rz3">Ja- / Nein- Frage</string>
     <string name="kap11_gram_tem3_rz4">Ab 9 Uhr habe ich gearbeitet.</string>
     <string name="kap11_gram_tem3_rz5">Was hast du sonst noch gemacht?</string>
     <string name="kap11_gram_tem3_rz6">Hast du Frau Dr. Weber angerufen?</string>
-    <string name="kap11_kom_tem1">- &#252;ber Vergangenes sprechen</string>
+    <string name="kap11_kom_tem1">&#252;ber Vergangenes sprechen</string>
     <string name="kap11_kom_tem1_rz1">Was hast du heute / gestern / letzten Montag / letzte Woche / &#8230;</string>
     <string name="kap11_kom_tem1_rz2">Von neun bis eins habe ich gearbeitet.</string>
     <string name="kap11_kom_tem1_rz3">Ich habe eine E-Mail geschrieben.</string>
 
 
-    <string name="kap12_gram_tem1">- temporale Pr&#228;positionen im</string>
+    <string name="kap12_gram_tem1">temporale Pr&#228;positionen im</string>
     <string name="kap12_gram_tem1_rz1">im + Monat / Jahreszeiten: im Oktober / Herbst</string>
-    <string name="kap12_gram_tem2">- Perfekt mit sein</string>
+    <string name="kap12_gram_tem2">Perfekt mit sein</string>
     <string name="kap12_gram_tem2_rz1">unregelm&#228;&#223;ig</string>
     <string name="kap12_gram_tem2_rz2">trennbar</string>
     <string name="kap12_gram_tem2_rz3">Verben</string>
@@ -538,15 +544,15 @@
     <string name="kap12_gram_tem2_rz8">Partizip &#8230;-en</string>
     <string name="kap12_gram_tem2_rz9">gegangen</string>
     <string name="kap12_gram_tem2_rz10">angekommen</string>
-    <string name="kap12_kom_tem1">- &#252;ber Reisen sprechen (Vergangenheit)</string>
+    <string name="kap12_kom_tem1">&#252;ber Reisen sprechen (Vergangenheit)</string>
     <string name="kap12_kom_tem1_rz1">Henry ist vor drei Monaten nach Deutschland / Hamburg gekommen.</string>
     <string name="kap12_kom_tem1_rz2">Letztes Jahr ist er nach Muenchen / in die Schweiz geflogen.</string>
-    <string name="kap12_kom_tem2">- &#252;ber die Feste sprechen</string>
+    <string name="kap12_kom_tem2">&#252;ber die Feste sprechen</string>
     <string name="kap12_kom_tem2_rz1">Das Fest hei&#223;t &#8230; / ist in &#8230; / hat &#8230; Besucher / dauert &#8230; / gibt es seit &#8230;</string>
     <string name="kap12_kom_tem2_rz2">Wir haben Musik geh&#246;rt, getanzt und viele nette Leute getroffen.</string>
 
 
-    <string name="kap13_gram_tem1">- Wo? Lokale Pr&#228;positionen mit Dativ</string>
+    <string name="kap13_gram_tem1">Wo? Lokale Pr&#228;positionen mit Dativ</string>
     <string name="kap13_gram_tem1_rz1">Wo ist das Hotel?</string>
     <string name="nominativ">Nominativ</string>
     <string name="kap13_gram_tem1_rz2">der / ein Dom</string>
@@ -567,23 +573,23 @@
     <string name="kap13_gram_tem1_rz14">- Banken</string>
     <string name="kap13_gram_tem1_rz15">auch so: auf, an, vor, hinter, zwischen, ueber, unter, in</string>
     <string name="kap13_gram_tem1_rz16">! in dem = im ; an dem = am</string>
-    <string name="kap13_kom_tem1">- jemanden um Hilfe bitten</string>
+    <string name="kap13_kom_tem1">jemanden um Hilfe bitten</string>
     <string name="kap13_kom_tem1_rz1">Entschuldigung!</string>
     <string name="kap13_kom_tem1_rz2">Entschuldigen Sie (bitte)!</string>
     <string name="kap13_kom_tem1_rz3">K&#246;nnen Sie mir helfen?</string>
     <string name="kap13_kom_tem1_rz4">Kann ich Sie etwas fragen?</string>
     <string name="kap13_kom_tem1_rz5">Haben Sie einen Moment Zeit?</string>
     <string name="kap13_kom_tem1_rz6">Eine Frage bitte: &#8230;</string>
-    <string name="kap13_kom_tem2">- nach dem Weg fragen</string>
+    <string name="kap13_kom_tem2">nach dem Weg fragen</string>
     <string name="kap13_kom_tem2_rz1">Kennen Sie / Wo finde ich &#8230; ?</string>
     <string name="kap13_kom_tem2_rz2">Ich suche &#8230;</string>
-    <string name="kap13_kom_tem3">- sich bedanken und darauf reagieren</string>
+    <string name="kap13_kom_tem3">sich bedanken und darauf reagieren</string>
     <string name="kap13_kom_tem3_rz1">Sehr nett! Vielen Dank!</string>
     <string name="kap13_kom_tem3_rz2">Ach so. Schade.</string>
     <string name="kap13_kom_tem3_rz3">Trotzdem: Dankesch&#246;n!</string>
     <string name="kap13_kom_tem3_rz4">Bitte, gern.</string>
     <string name="kap13_kom_tem3_rz5">Kein Problem.</string>
-    <string name="kap13_kom_tem4">- den Weg beschreiben</string>
+    <string name="kap13_kom_tem4">den Weg beschreiben</string>
     <string name="kap13_kom_tem4_rz1">Sie fahren zuerst geradeaus und dann nach rechts.</string>
     <string name="kap13_kom_tem4_rz2">Sie biegen rechts / links ab.</string>
     <string name="kap13_kom_tem4_rz3">Sie fahren die n&#228;chste / zweite / &#8230; Stra&#223;e links / rechts.</string>
@@ -592,17 +598,17 @@
     <string name="kap13_kom_tem4_rz6">Wenden Sie.</string>
     <string name="kap13_kom_tem4_rz7">Sie gehen / fahren z&#252;ruck.</string>
     <string name="kap13_kom_tem4_rz8">Und dann sehen Sie das Hotel / &#8230; schon.</string>
-    <string name="kap13_kom_tem5">- den Weg nicht kennen</string>
+    <string name="kap13_kom_tem5">den Weg nicht kennen</string>
     <string name="kap13_kom_tem5_rz1">Nein. Tut mir leid.</string>
     <string name="kap13_kom_tem5_rz2">Ich bin auch fremd hier.</string>
     <string name="kap13_kom_tem5_rz3">Ich bin nicht von hier.</string>
 
 
     <string name="akkus">Akkusativ</string>
-    <string name="kap14_gram_tem1">- Genitiv bei Eigennamen</string>
+    <string name="kap14_gram_tem1">Genitiv bei Eigennamen</string>
     <string name="kap14_gram_tem1_rz1">Ottos Nachbarin = die Nachbarin von Otto</string>
     <string name="kap14_gram_tem1_rz2">Vanillas Garten = der Garten von Vanilla</string>
-    <string name="kap14_gram_tem2">- H&#228;user und Wohnungen beschreiben</string>
+    <string name="kap14_gram_tem2">H&#228;user und Wohnungen beschreiben</string>
     <string name="kap14_gram_tem2_rz1">sein</string>
     <string name="kap14_gram_tem2_rz2">sein</string>
     <string name="kap14_gram_tem2_rz3">seine</string>
@@ -623,12 +629,12 @@
     <string name="kap14_gram_tem2_rz18">Haus</string>
     <string name="kap14_gram_tem2_rz19">K&#252;che</string>
     <string name="kap14_gram_tem2_rz20">Kinder</string>
-    <string name="kap14_kom_tem1">- H&#228;user und Wohnungen beschreiben</string>
+    <string name="kap14_kom_tem1">H&#228;user und Wohnungen beschreiben</string>
     <string name="kap14_kom_tem1_rz1">Das Haus ist gro&#223; / klein und hat sieben / &#8230; Zimmer.</string>
     <string name="kap14_kom_tem1_rz2">Im Erdgeschoss / Im ersten Stock sind drei Zimmer.</string>
     <string name="kap14_kom_tem1_rz4">Da hinten ist seine Garage / ihr &#8230;</string>
     <string name="kap14_kom_tem1_rz5">Neben dem Haus ist eine Garage.</string>
-    <string name="kap14_kom_tem2">- H&#228;user und Wohnungen bewerten</string>
+    <string name="kap14_kom_tem2">H&#228;user und Wohnungen bewerten</string>
     <string name="kap14_kom_tem2_rz1">Ich finde &#8230; interessant / langweilig / &#8230;</string>
     <string name="kap14_kom_tem2_rz2">&#8230; mag ich besonders / gar nicht / nicht so.</string>
     <string name="kap14_kom_tem2_rz3">Aber / Und &#8230; sieht toll / &#8230; nicht so schoen aus.</string>
@@ -636,19 +642,19 @@
 
     <string name="er_es">er /es</string>
     <string name="siesin">sie</string>
-    <string name="kap15_gram_tem1">- Personalpronomen im Dativ</string>
+    <string name="kap15_gram_tem1">Personalpronomen im Dativ</string>
     <string name="mir">mir</string>
     <string name="dir">dir</string>
     <string name="ihm">ihm</string>
     <string name="uns">uns</string>
     <string name="euch">euch</string>
     <string name="ihnen">ihnen / Ihnen</string>
-    <string name="kap15_gram_tem2">- Verben mit Dativ</string>
+    <string name="kap15_gram_tem2">Verben mit Dativ</string>
     <string name="kap15_gram_tem2_rz1">Das geh&#246;rt mir.</string>
     <string name="kap15_gram_tem2_rz2">Das gef&#228;llt dir.</string>
     <string name="kap15_gram_tem2_rz3">Das hilft ihm.</string>
     <string name="kap15_gram_tem2_rz4">Ich danke ihr.</string>
-    <string name="kap15_kom_tem1">- einen Ort bewerten</string>
+    <string name="kap15_kom_tem1">einen Ort bewerten</string>
     <string name="kap15_kom_tem1_rz1">Was gef&#228;llt Ihnen / euch (nicht) an dem Viertel?</string>
     <string name="kap15_kom_tem1_rz2">Giesing ist ganz normal und das finde ich super so / ist schon okay.</string>
     <string name="kap15_kom_tem1_rz3">Das finde ich gut.</string>
@@ -673,18 +679,18 @@
     <string name="kap16_gram_tem2_rz4">ein Jahr</string>
     <string name="kap16_gram_tem2_rz5">eine Woche</string>
     <string name="kap16_gram_tem2_rz6">zwei Wochen</string>
-    <string name="kap16_kom_tem1">- um Hilfe bitten</string>
+    <string name="kap16_kom_tem1">um Hilfe bitten</string>
     <string name="kap16_kom_tem1_rz1">Entschuldigung, k&#246;nnen Sie mir helfen?</string>
     <string name="kap16_kom_tem1_rz2">Eine Bitte noch: K&#246;nnen Sie &#8230; ?</string>
     <string name="kap16_kom_tem1_rz3">Wir haben ein Problem. Wir brauchen Ihre Hilfe.</string>
     <string name="kap16_kom_tem1_rz4">&#8230; ist kaput / funktioniert nicht.</string>
     <string name="kap16_kom_tem1_rz5">Es gibt kein / e / en &#8230;</string>
-    <string name="kap16_kom_tem2">- Hilfe anbieten / auf Bitten reagieren</string>
+    <string name="kap16_kom_tem2">Hilfe anbieten / auf Bitten reagieren</string>
     <string name="kap16_kom_tem2_rz1">Was kann ich f&#252;r Sie tun?</string>
     <string name="kap16_kom_tem2_rz2">(Wie) Kann ich Ihnen helfen?</string>
     <string name="kap16_kom_tem2_rz3">Ich k&#252;mmere mich sofort darum.</string>
     <string name="kap16_kom_tem2_rz4">Ich komme sofort.</string>
-    <string name="kap16_kom_tem3">- Termine vereinbaren und verschieben</string>
+    <string name="kap16_kom_tem3">Termine vereinbaren und verschieben</string>
     <string name="kap16_kom_tem3_rz1">Ich kann leider doch nicht ins Kino gehen / kommen &#8230;</string>
     <string name="kap16_kom_tem3_rz2">Ich m&#246;chte den Termin verschieben.</string>
     <string name="kap16_kom_tem3_rz3">K&#246;nnen wir den Termin verschieben?</string>
@@ -694,7 +700,7 @@
     <string name="kap16_kom_tem3_rz7">Passt es dir am &#8230; ?</string>
     <string name="kap16_kom_tem3_rz8">Wollen wir am &#8230; ins Kino gehen?</string>
     <string name="kap16_kom_tem3_rz9">Hast du Lust?</string>
-    <string name="kap16_kom_tem4">- auf Entschuldigungen reagieren</string>
+    <string name="kap16_kom_tem4">auf Entschuldigungen reagieren</string>
     <string name="kap16_kom_tem4_rz1">Kein Problem!</string>
     <string name="kap16_kom_tem4_rz2">Schade.</string>
     <string name="kap16_kom_tem4_rz3">Seltsam.</string>
@@ -703,12 +709,12 @@
     <string name="kap16_kom_tem4_rz6">Ach, wirklich?</string>
 
 
-    <string name="kap17_gram_tem1">- Pr&#228;positionen mit und ohne</string>
+    <string name="kap17_gram_tem1">Pr&#228;positionen mit und ohne</string>
     <string name="kap17_gram_tem1_rz1">ohne</string>
     <string name="kap17_gram_tem1_rz2">mit</string>
     <string name="kap17_gram_tem1_rz3">ohne das / mein Handy</string>
     <string name="kap17_gram_tem1_rz4">mit dem / meinem Handy</string>
-    <string name="kap17_gram_tem2">- Modalverb wollen</string>
+    <string name="kap17_gram_tem2">Modalverb wollen</string>
     <string name="kap17_gram_tem2_rz1">will</string>
     <string name="kap17_gram_tem2_rz2">willst</string>
     <string name="kap17_gram_tem2_rz3">will</string>
@@ -717,49 +723,49 @@
     <string name="kap17_gram_tem2_rz6">wollen</string>
     <string name="kap17_gram_tem3">Modalverben in Satz</string>
     <string name="kap17_gram_tem3_rz1">Ich will Liedermacher werden.</string>
-    <string name="kap17_kom_tem1">- W&#252;nsche &#228;u&#223;ern / &#252;ber Pl&#228;ne sprechen</string>
+    <string name="kap17_kom_tem1">W&#252;nsche &#228;u&#223;ern / &#252;ber Pl&#228;ne sprechen</string>
     <string name="kap17_kom_tem1_rz1">Ich will unbedingt noch / vielleicht / auf keinen Fall.</string>
     <string name="kap17_kom_tem1_rz2">Ich will &#8230; werden.</string>
     <string name="kap17_kom_tem1_rz3">Ich moechte (bald) &#8230; .</string>
     <string name="kap17_kom_tem1_rz4">F&#252;r mich sind &#8230; und &#8230; besonders wichtig.</string>
 
 
-    <string name="kap18_gram_tem1">- Modalverb sollen</string>
+    <string name="kap18_gram_tem1">Modalverb sollen</string>
     <string name="kap18_gram_tem1_rz1">soll</string>
     <string name="kap18_gram_tem1_rz2">sollst</string>
     <string name="kap18_gram_tem1_rz3">soll</string>
     <string name="kap18_gram_tem1_rz4">sollen</string>
     <string name="kap18_gram_tem1_rz5">sollt</string>
     <string name="kap18_gram_tem1_rz6">sollen</string>
-    <string name="kap18_gram_tem2">- Modalverben in Satz</string>
+    <string name="kap18_gram_tem2">Modalverben in Satz</string>
     <string name="kap18_gram_tem2_rz1">Du sollst diesen Tee trinken.</string>
-    <string name="kap18_gram_tem3">- Imperativ (Sie)</string>
+    <string name="kap18_gram_tem3">Imperativ (Sie)</string>
     <string name="kap18_gram_tem3_rz1">Trinken Sie viel!</string>
     <string name="kap18_gram_tem3_rz2">Gehen Sie zum Arzt!</string>
     <string name="kap18_gram_tem4_rz1">direkt:</string>
     <string name="kap18_gram_tem4_rz2">indirekt:</string>
     <string name="kap18_gram_tem4_rz3">Schwester Angelika: \"Geben Sie ihm diesen Tee!\"</string>
     <string name="kap18_gram_tem4_rz4">Schwester Angelika sagt, ich soll dir diesen Tee geben.</string>
-    <string name="kap18_gram_tem4">- Verwendung von Imperativ und sollen</string>
-    <string name="kap18_komm_tem1">- Schmerzen beschreiben</string>
+    <string name="kap18_gram_tem4">Verwendung von Imperativ und sollen</string>
+    <string name="kap18_komm_tem1">Schmerzen beschreiben</string>
     <string name="kap18_komm_tem1_rz1">Mein Kopf / Meine &#8230; tut / tun weh.</string>
     <string name="kap18_komm_tem1_rz2">Ich habe Halsschmerzen.</string>
-    <string name="kap18_komm_tem2">- um Hilfe / Rat bitten</string>
+    <string name="kap18_komm_tem2">um Hilfe / Rat bitten</string>
     <string name="kap18_komm_tem2_rz1">Haben Sie etwas f&#252;r mich?</string>
     <string name="kap18_komm_tem2_rz2">Wer kann mir helfen?</string>
     <string name="kap18_komm_tem2_rz3">Wer hat einen Tipp f&#252;r mich?</string>
-    <string name="kap18_komm_tem3">- Ratschl&#228;ge geben</string>
+    <string name="kap18_komm_tem3">Ratschl&#228;ge geben</string>
     <string name="kap18_komm_tem3_rz1">Trinken Sie viel!</string>
     <string name="kap18_komm_tem3_rz2">Geben Sie ihm doch diesen Tee!</string>
     <string name="kap18_komm_tem3_rz3">Dann soll er Sport machen.</string>
-    <string name="kap18_komm_tem4">- &#252;ber Krankheiten sprechen</string>
+    <string name="kap18_komm_tem4">&#252;ber Krankheiten sprechen</string>
     <string name="kap18_komm_tem4_rz1">Was machst du gegen &#8230; ?</string>
     <string name="kap18_komm_tem4_rz2">Was hilfst gegen &#8230; ?</string>
     <string name="kap18_komm_tem4_rz3">Ich nehme / trinke / gehe / bleibe &#8230; .</string>
     <string name="kap18_komm_tem4_rz4">Das hilft.</string>
 
 
-    <string name="kap19_gram_tem1">- Pr&#228;teritum: sein und haben</string>
+    <string name="kap19_gram_tem1">Pr&#228;teritum: sein und haben</string>
     <string name="present">Pr&#228;sens</string>
     <string name="kap19_gram_tem1_rz1">bin</string>
     <string name="kap19_gram_tem1_rz2">bist</string>
@@ -786,7 +792,7 @@
     <string name="kap19_gram_tem1_rz22">hatten</string>
     <string name="kap19_gram_tem1_rz23">hattet</string>
     <string name="kap19_gram_tem1_rz24">hatten</string>
-    <string name="kap19_gram_tem2">- Perfekt: nicht trennbare Verben</string>
+    <string name="kap19_gram_tem2">Perfekt: nicht trennbare Verben</string>
     <string name="infinitiv">Infinitiv</string>
     <string name="perfekt">Perfekt</string>
     <string name="kap19_gram_tem2_rz1">haben + be/ge/ver&#8230;en/t</string>
@@ -798,18 +804,18 @@
     <string name="kap19_gram_tem2_rz7">er / sie hat bekommen</string>
     <string name="kap19_gram_tem2_rz8">auch so: gefallen - gefallen, vergessen - vergessen, entschuldigen - entschuldigt, beschweren - beschwert</string>
     <string name="kap19_gram_tem2_rz9">auch so nach: ent-, emp-, miss-, zer-</string>
-    <string name="kap19_gram_tem3">- Wortbildung: Adjektive mit un-</string>
+    <string name="kap19_gram_tem3">Wortbildung: Adjektive mit un-</string>
     <string name="kap19_gram_tem3_rz1">sypmpatisch -> unsympatisch</string>
     <string name="kap19_kom_tem1"> Personen beschreiben: Aussehen und Charakter</string>
     <string name="kap19_kom_tem1_rz1">Er ist (ein bisschen) dick / schlank / &#8230; .</string>
     <string name="kap19_kom_tem1_rz2">Er hat blonde / dunkle / lange / kurze Haare.</string>
     <string name="kap19_kom_tem1_rz3">Er hat (k)einen Bart / (k)eine Brille / &#8230; .</string>
     <string name="kap19_kom_tem1_rz4">Er sieht nett / sympatisch / lustig / interessant / &#8230; aus.</string>
-    <string name="kap19_kom_tem2">- &#252;ber Vergangenes sprechen</string>
+    <string name="kap19_kom_tem2">&#252;ber Vergangenes sprechen</string>
     <string name="kap19_kom_tem2_rz1">Fr&#252;her war sie Sekretaerin / &#8230; .</string>
     <string name="kap19_kom_tem2_rz2">Fr&#252;her hatte er lange Haare / &#8230; .</string>
     <string name="kap19_kom_tem2_rz3">Sie haben vor zwei Jahren ein Baby bekommen / &#8230; .</string>
-    <string name="kap19_kom_tem3">- erstannt reagieren</string>
+    <string name="kap19_kom_tem3">erstannt reagieren</string>
     <string name="kap19_kom_tem3_rz1">Ach komm!</string>
     <string name="kap19_kom_tem3_rz2">Ach du liebe Zeit!</string>
     <string name="kap19_kom_tem3_rz3">Ach was!</string>
@@ -817,7 +823,7 @@
     <string name="kap19_kom_tem3_rz5">Wahnsinn!</string>
 
 
-    <string name="kap20_gram_tem1">- Imperativ (du / ihr)</string>
+    <string name="kap20_gram_tem1">Imperativ (du / ihr)</string>
     <string name="kap20_gram_tem1_rz1">decken</string>
     <string name="kap20_gram_tem1_rz2">schlafen</string>
     <string name="kap20_gram_tem1_rz3">vergessen</string>
@@ -836,7 +842,7 @@
     <string name="kap20_gram_tem1_rz16">R&#228;umt &#8230; aus!</string>
     <string name="kap20_gram_tem1_rz17">Seid &#8230; !</string>
     <string name="kap20_gram_tem1_rz18">Habt &#8230; !</string>
-    <string name="kap20_gram_tem2">- Personalpronomen im Akkusativ</string>
+    <string name="kap20_gram_tem2">Personalpronomen im Akkusativ</string>
     <string name="kap20_gram_tem2_rz1">mich</string>
     <string name="kap20_gram_tem2_rz2">dich</string>
     <string name="kap20_gram_tem2_rz3">ihn / es /sie</string>
@@ -844,7 +850,7 @@
     <string name="kap20_gram_tem2_rz5">euch</string>
     <string name="kap20_gram_tem2_rz6">sie / Sie</string>
     <string name="kap20_gram_tem2_rz7">Ich komme um 10 Uhr an. Holst du mich bitte ab?</string>
-    <string name="kap20_kom_tem1">- Bitten und Aufforderungen</string>
+    <string name="kap20_kom_tem1">Bitten und Aufforderungen</string>
     <string name="kap20_kom_tem1_rz1">Sp&#252;l (bitte) das Geschirr!</string>
     <string name="kap20_kom_tem1_rz2">Deckt (bitte) den Tisch!</string>
     <string name="kap20_kom_tem1_rz3">Komm (bitte) sofort runter da!</string>
@@ -852,7 +858,7 @@
     <string name="kap20_kom_tem1_rz5">Ruf ihn doch bitte z&#252;ruck.</string>
 
 
-    <string name="kap21_gram_tem1">- Modalverben d&#252;rfen und m&#252;ssen</string>
+    <string name="kap21_gram_tem1">Modalverben d&#252;rfen und m&#252;ssen</string>
     <string name="kap21_gram_tem1_rz1">d&#252;rfen</string>
     <string name="kap21_gram_tem1_rz2">darf</string>
     <string name="kap21_gram_tem1_rz3">darfst</string>
@@ -867,15 +873,15 @@
     <string name="kap21_gram_tem1_rz12">m&#252;ssen</string>
     <string name="kap21_gram_tem1_rz13">m&#252;sst</string>
     <string name="kap21_gram_tem1_rz14">m&#252;ssen</string>
-    <string name="kap21_gram_tem2">- Modalverben im Satz</string>
+    <string name="kap21_gram_tem2">Modalverben im Satz</string>
     <string name="kap21_gram_tem2_rz1">Man muss in der Bibliothek leise sein.</string>
     <string name="kap21_gram_tem2_rz2">Man darf im Bus nicht essen.</string>
-    <string name="kap21_kom_tem1">- &#252;ber Regeln sprechen</string>
+    <string name="kap21_kom_tem1">&#252;ber Regeln sprechen</string>
     <string name="kap21_kom_tem1_rz1">Hier darf man (nicht) rauchen / &#8230; .</string>
     <string name="kap21_kom_tem1_rz2">Motoradfahrer m&#252;ssen einen Helm tragen.</string>
     <string name="kap21_kom_tem1_rz3">Das ist (nicht) verboten.</string>
     <string name="kap21_kom_tem1_rz4">Das ist (nicht) erlaubt.</string>
-    <string name="kap21_kom_tem2">- seine Meinung sagen: Das finde ich &#8230;</string>
+    <string name="kap21_kom_tem2">seine Meinung sagen: Das finde ich &#8230;</string>
     <string name="kap21_kom_tem2_rz1">&#8230; falsch / nicht in Ordnung.</string>
     <string name="kap21_kom_tem2_rz2">&#8230; nicht so / gar nicht gut.</string>
     <string name="kap21_kom_tem2_rz3">&#8230; (sehr) gef&#228;hrlich.</string>
@@ -884,7 +890,7 @@
     <string name="kap21_kom_tem2_rz6">&#8230; nicht (so) gef&#228;hrlich.</string>
 
 
-    <string name="kap22_gram_tem1">- Komparation: gut, gern, viel</string>
+    <string name="kap22_gram_tem1">Komparation: gut, gern, viel</string>
     <string name="kap22_gram_tem1_rz1">Positiv</string>
     <string name="kap22_gram_tem1_rz2">+</string>
     <string name="kap22_gram_tem1_rz3">gut</string>
@@ -900,7 +906,7 @@
     <string name="kap22_gram_tem1_rz13">am besten</string>
     <string name="kap22_gram_tem1_rz14">am liebsten</string>
     <string name="kap22_gram_tem1_rz15">am meisten</string>
-    <string name="kap22_gram_tem2">- Komparation: andere Adjektive</string>
+    <string name="kap22_gram_tem2">Komparation: andere Adjektive</string>
     <string name="kap22_gram_tem2_rz1">Positiv</string>
     <string name="kap22_gram_tem2_rz2">+</string>
     <string name="kap22_gram_tem2_rz3">lustig</string>
@@ -919,7 +925,7 @@
     <string name="kap22_gram_tem2_rz16">am &#228;ltesten</string>
     <string name="kap22_gram_tem2_rz17">am gr&#246;&#223;ten</string>
     <string name="kap22_gram_tem2_rz18">am kl&#252;gsten</string>
-    <string name="kap22_gram_tem3">- oft bei einsilbigen Adjektiven</string>
+    <string name="kap22_gram_tem3">oft bei einsilbigen Adjektiven</string>
     <string name="kap22_gram_tem3_rz1">a -> &#228;</string>
     <string name="kap22_gram_tem3_rz2">o -> &#246;</string>
     <string name="kap22_gram_tem3_rz3">u -> &#252;</string>
@@ -932,37 +938,37 @@
     <string name="kap22_gram_tem3_rz10">am &#228;ltesten</string>
     <string name="kap22_gram_tem3_rz11">am gr&#246;&#223;ten</string>
     <string name="kap22_gram_tem3_rz12">am k&#252;rzesten</string>
-    <string name="kap22_gram_tem4">- Vergleiche: als, wie</string>
+    <string name="kap22_gram_tem4">Vergleiche: als, wie</string>
     <string name="kap22_gram_tem4_rz1">Lila (+) mag sie genauso gern wie Rosa (+).</string>
     <string name="kap22_gram_tem4_rz">Das Hemd (++) gef&#228;llt ihr besser als die Hose (+).</string>
-    <string name="kap22_kom_tem1">- Kleidung bewerten</string>
+    <string name="kap22_kom_tem1">Kleidung bewerten</string>
     <string name="kap22_kom_tem1_rz1">Welches T-Shirt findest du am sch&#246;nsten?</string>
     <string name="kap22_kom_tem1_rz2">Das hier. Und du?</string>
     <string name="kap22_kom_tem1_rz3">Mir gef&#228;llt das besser. Die Farben sind sch&#246;ner.</string>
-    <string name="kap22_kom_tem2">- &#252;ber Kleidung sprechen</string>
+    <string name="kap22_kom_tem2">&#252;ber Kleidung sprechen</string>
     <string name="kap22_kom_tem2_rz1">Ich habe das T-Shirt bei einem Konzert in Berlin gekauft.</string>
     <string name="kap22_kom_tem2_rz2">Ich ziehe es oft an, zuletzt am Montag.</string>
-    <string name="kap22_kom_tem3">- Aussagen verst&#228;rken</string>
+    <string name="kap22_kom_tem3">Aussagen verst&#228;rken</string>
     <string name="kap22_kom_tem3_rz1">Wow, hast du das Kleid schon gesehen? Total sch&#246;n.</string>
     <string name="kap22_kom_tem3_rz2">Was? Das gef&#228;llt dir? Das ist doch wahnsinnig langweilig.</string>
     <string name="kap22_kom_tem3_rz3">Aber seht mal, das hier ist richtig toll.</string>
 
 
-    <string name="kap23_gram_tem1">- Wortbilding: Adjektive mit -los</string>
+    <string name="kap23_gram_tem1">Wortbilding: Adjektive mit -los</string>
     <string name="kap23_gram_tem1_rz1">Nomen + -los</string>
     <string name="kap23_gram_tem1_rz2">Nomen</string>
     <string name="kap23_gram_tem1_rz3">die Wolken</string>
     <string name="kap23_gram_tem1_rz4">Adjektiv</string>
     <string name="kap23_gram_tem1_rz5">wolkenlos (= ohne Wolken)</string>
-    <string name="kap23_gram_tem2">- Konjunktion denn</string>
+    <string name="kap23_gram_tem2">Konjunktion denn</string>
     <string name="kap23_gram_tem2_rz1">Es war wunderbar, denn wir hatten ein Traumwetter.</string>
-    <string name="kap23_kom_tem1">- Gr&#252;nde angeben</string>
+    <string name="kap23_kom_tem1">Gr&#252;nde angeben</string>
     <string name="kap23_kom_tem1_rz1">Unser Ziel war S&#252;dtirol, denn dort ist es im M&#228;rz schon oft sehr warm.</string>
     <string name="kap23_kom_tem1_rz2">Hattest du einen sch&#246;nen Urlaub?</string>
     <string name="kap23_kom_tem1_rz3">Ja, denn das Wetter war wunderbar.</string>
     <string name="kap23_kom_tem1_rz4">Hast du gestern Hausaufgaben gemacht?</string>
     <string name="kap23_kom_tem1_rz5">Nein, denn ich hatte keine Zeit.</string>
-    <string name="kap23_kom_tem2">- &#252;ber das Wetter sprechen</string>
+    <string name="kap23_kom_tem2">&#252;ber das Wetter sprechen</string>
     <string name="kap23_kom_tem2_rz1">Wie ist das Wetter?</string>
     <string name="kap23_kom_tem2_rz2">Es ist sonnig.</string>
     <string name="kap23_kom_tem2_rz3">Es regnet.</string>
@@ -977,7 +983,7 @@
     <string name="kap23_kom_tem2_rz12">Es ist k&#252;hl. Es sind plus 8 Grad.</string>
 
 
-    <string name="kap24_gram_tem1">- Ordinal zahlen: Datum</string>
+    <string name="kap24_gram_tem1">Ordinal zahlen: Datum</string>
     <string name="kap24_gram_tem1_rz1">Heute ist der achte Januar.</string>
     <string name="kap24_gram_tem1_rz2">1.-19.: + -te:</string>
     <string name="kap24_gram_tem1_rz3">
@@ -985,10 +991,10 @@
     </string>
     <string name="kap24_gram_tem1_rz4">ab 20.: + ste:</string>
     <string name="kap24_gram_tem1_rz5">der zwanzigste\nder einundzwanzigste\n&#8230;</string>
-    <string name="kap24_gram_tem2">- Wann?</string>
+    <string name="kap24_gram_tem2">Wann?</string>
     <string name="kap24_gram_tem2_rz1">Am achten Januar.</string>
     <string name="kap24_gram_tem2_rz2">Vom achten bis (zum) achtzehnten Januar.</string>
-    <string name="kap24_gram_tem3">- W&#252;nsche: Konjuktiv II</string>
+    <string name="kap24_gram_tem3">W&#252;nsche: Konjuktiv II</string>
     <string name="kap24_gram_tem3_rz1">w&#252;rde</string>
     <string name="kap24_gram_tem3_rz2">w&#252;rdest</string>
     <string name="kap24_gram_tem3_rz3">w&#252;rde</string>
@@ -996,10 +1002,10 @@
     <string name="kap24_gram_tem3_rz5">w&#252;rdet</string>
     <string name="kap24_gram_tem3_rz6">w&#252;rden</string>
     <string name="kap24_gram_tem3_rz7">Ich w&#252;rde gern mit dir feiern.</string>
-    <string name="kap24_kom_tem1">- W&#252;nsche &#228;u&#223;ern</string>
+    <string name="kap24_kom_tem1">W&#252;nsche &#228;u&#223;ern</string>
     <string name="kap24_kom_tem1_rz1">Im Sommer w&#252;rde ich gern eine Reise machen. Am liebsten nach Las Vegas.</string>
     <string name="kap24_kom_tem1_rz2">Ich m&#246;chte gern &#8230; .</string>
-    <string name="kap24_kom_tem2">- gratulieren</string>
+    <string name="kap24_kom_tem2">gratulieren</string>
     <string name="kap24_kom_tem2_rz1">Herzlichen Gl&#252;ckwunsch!</string>
     <string name="kap24_kom_tem2_rz2">Frohe Weihnachten!</string>
     <string name="kap24_kom_tem2_rz3">Gutes / Frohes neues Jahr!</string>
