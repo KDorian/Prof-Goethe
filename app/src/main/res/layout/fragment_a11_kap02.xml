@@ -737,7 +737,8 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -758,7 +759,7 @@
 
                     android:text="@string/kap02_gram_tem4"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:layout_marginBottom="5dp"
+                    android:layout_marginBottom="0dp"
                     android:layout_column="1" />
             </TableRow>
         </TableLayout>
@@ -822,7 +823,8 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -980,7 +982,8 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -1000,7 +1003,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/kap02_kom_tem2"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:layout_marginBottom="5dp"
+                    android:layout_marginBottom="0dp"
                     android:layout_column="1" />
             </TableRow>
         </TableLayout>
