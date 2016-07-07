@@ -41,8 +41,7 @@
                     android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:text="@string/kap16_gram_tem1"
-                    android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:layout_marginBottom="5dp" />
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
 
@@ -357,16 +356,16 @@
                     android:layout_column="0"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/textView850"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/kap16_kom_tem1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_column="1" />
             </TableRow>
         </TableLayout>
-
-        <TextView
-            android:id="@+id/textView850"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/kap16_kom_tem1"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
@@ -493,16 +492,16 @@
                     android:layout_column="0"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/textView861"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/kap16_kom_tem2"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_column="1" />
             </TableRow>
         </TableLayout>
-
-        <TextView
-            android:id="@+id/textView861"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/kap16_kom_tem2"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
@@ -608,16 +607,16 @@
                     android:layout_column="0"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/textView870"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/kap16_kom_tem3"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_column="1" />
             </TableRow>
         </TableLayout>
-
-        <TextView
-            android:id="@+id/textView870"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/kap16_kom_tem3"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
@@ -828,16 +827,16 @@
                     android:layout_column="0"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/textView889"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/kap16_kom_tem4"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_column="1" />
             </TableRow>
         </TableLayout>
-
-        <TextView
-            android:id="@+id/textView889"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/kap16_kom_tem4"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
