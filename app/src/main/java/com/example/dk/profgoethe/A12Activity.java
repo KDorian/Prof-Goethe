@@ -61,7 +61,7 @@ public class A12Activity extends ActionBarActivity {
                 Fragment fragment = new A11Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
                     case 0:  //A1.2.
-                        fragment = new A11Fragment();
+                        fragment = new A12Fragment();
                         break;
                     case 1: //A1.2. Kapitel 13
                         fragment = new A12Kap13Fragment();
