@@ -19,7 +19,7 @@
     <string name="title_activity_b12">B1.2.</string>
 
     <string-array name="sliding_drawer_array_a11">
-        <item>A1 Poziom podstawowy</item>
+        <item>A1.1. Topics</item>
         <item>Kapitel 01</item>
         <item>Kapitel 02</item>
         <item>Kapitel 03</item>
@@ -35,7 +35,7 @@
     </string-array>
 
     <string-array name="sliding_drawer_array_a12">
-        <item>A1 Poziom podstawowy</item>
+        <item>A1.2. Topics</item>
         <item>Kapitel 13</item>
         <item>Kapitel 14</item>
         <item>Kapitel 15</item>
@@ -1025,6 +1025,19 @@
     <string name="a11_kom_kap10">Kapitel 10</string>
     <string name="a11_kom_kap11">Kapitel 11</string>
     <string name="a11_kom_kap12">Kapitel 12</string>
+
+    <string name="a12_kom_kap13">Kapitel 13</string>
+    <string name="a12_kom_kap14">Kapitel 14</string>
+    <string name="a12_kom_kap15">Kapitel 15</string>
+    <string name="a12_kom_kap16">Kapitel 16</string>
+    <string name="a12_kom_kap17">Kapitel 17</string>
+    <string name="a12_kom_kap18">Kapitel 18</string>
+    <string name="a12_kom_kap19">Kapitel 19</string>
+    <string name="a12_kom_kap20">Kapitel 20</string>
+    <string name="a12_kom_kap21">Kapitel 21</string>
+    <string name="a12_kom_kap22">Kapitel 22</string>
+    <string name="a12_kom_kap23">Kapitel 23</string>
+    <string name="a12_kom_kap24">Kapitel 24</string>
 
 
 </resources>

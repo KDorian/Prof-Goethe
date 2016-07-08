@@ -58,7 +58,7 @@ public class A12Activity extends ActionBarActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 FragmentManager fragmentManager = getFragmentManager();
-                Fragment fragment = new A11Fragment();
+                Fragment fragment = new A12Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
                     case 0:  //A1.2.
                         fragment = new A12Fragment();
@@ -109,8 +109,8 @@ public class A12Activity extends ActionBarActivity {
 
         if (savedInstanceState == null) {
             FragmentManager fragmentManager = getFragmentManager();
-            Fragment fragment = new A11Fragment();
-            fragment = new A11Fragment();
+            Fragment fragment = new A12Fragment();
+            fragment = new A12Fragment();
             fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
             setTitle(mDrawerOptionLabels[0]);
         }
