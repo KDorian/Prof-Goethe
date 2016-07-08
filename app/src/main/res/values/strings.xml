@@ -214,6 +214,8 @@
     <string name="maskulin">maskulin</string>
     <string name="feminin">feminin</string>
     <string name="plural">Plural</string>
+
+
     <string name="kap03_gram_tem1">Possessivartikel mein / dein</string>
     <string name="kap03_gram_tem1_rz1">mein Bruder</string>
     <string name="kap03_gram_tem1_rz">dein Bruder</string>
@@ -608,7 +610,7 @@
     <string name="kap14_gram_tem1">Genitiv bei Eigennamen</string>
     <string name="kap14_gram_tem1_rz1">Ottos Nachbarin = die Nachbarin von Otto</string>
     <string name="kap14_gram_tem1_rz2">Vanillas Garten = der Garten von Vanilla</string>
-    <string name="kap14_gram_tem2">H&#228;user und Wohnungen beschreiben</string>
+    <string name="kap14_gram_tem2">Possessivartikel sein / ihr</string>
     <string name="kap14_gram_tem2_rz1">sein</string>
     <string name="kap14_gram_tem2_rz2">sein</string>
     <string name="kap14_gram_tem2_rz3">seine</string>
