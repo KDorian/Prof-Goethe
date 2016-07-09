@@ -60,8 +60,11 @@ public class A21Activity extends ActionBarActivity {
                 FragmentManager fragmentManager = getFragmentManager();
                 Fragment fragment = new A21Fragment();
                 switch (position){ // note this is the order in the TiteList which is constant!
-                    case 0:  //A1.2.
+                    case 0:  //A2.1.
                         fragment = new A21Fragment();
+                        break;
+                    case 1:  //A2.1. Kapitel01
+                        fragment = new A21Kap01Fragment();
                         break;
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
