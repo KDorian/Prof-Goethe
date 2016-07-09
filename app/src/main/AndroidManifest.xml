@@ -32,8 +32,15 @@
         </activity>
 
         <activity
-            android:name=".A12Activity"
-            android:label="@string/title_activity_navigation_drawer_a12"
+        android:name=".A12Activity"
+        android:label="@string/title_activity_navigation_drawer_a12"
+        android:theme="@style/AppThemeAppCompat">
+
+    </activity>
+
+        <activity
+            android:name=".A21Activity"
+            android:label="@string/title_activity_navigation_drawer_a21"
             android:theme="@style/AppThemeAppCompat">
 
         </activity>

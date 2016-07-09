@@ -34,6 +34,9 @@ public class MainActivity extends Activity {
                     case 1:
                         startActivity(new Intent(MainActivity.this, A12Activity.class));
                         break;
+                    case 2:
+                        startActivity(new Intent(MainActivity.this, A21Activity.class));
+                        break;
                 }
 
             }
