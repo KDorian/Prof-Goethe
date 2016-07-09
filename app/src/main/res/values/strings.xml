@@ -1058,5 +1058,66 @@
     <string name="a12_kom_kap23">Kapitel 23</string>
     <string name="a12_kom_kap24">Kapitel 24</string>
 
+    <string name="a21_kom_kap1">Kapitel 01</string>
+    <string name="a21_kom_kap2">Kapitel 02</string>
+    <string name="a21_kom_kap3">Kapitel 03</string>
+    <string name="a21_kom_kap4">Kapitel 04</string>
+    <string name="a21_kom_kap5">Kapitel 05</string>
+    <string name="a21_kom_kap6">Kapitel 06</string>
+    <string name="a21_kom_kap7">Kapitel 07</string>
+    <string name="a21_kom_kap8">Kapitel 08</string>
+    <string name="a21_kom_kap9">Kapitel 09</string>
+    <string name="a21_kom_kap10">Kapitel 10</string>
+    <string name="a21_kom_kap11">Kapitel 11</string>
+    <string name="a21_kom_kap12">Kapitel 12</string>
+
+
+    <string name="a21_kap01_kom_tem1">Possessivartikel unser / euer / ihr / Ihr</string>
+    <string name="a21_kap01_kom_tem1_rz1">sie (Plural)</string>
+    <string name="a21_kap01_kom_tem1_rz2">Sie (Singular / Plural)</string>
+    <string name="a21_kap01_kom_tem1_rz3">unser</string>
+    <string name="a21_kap01_kom_tem1_rz4">unser</string>
+    <string name="a21_kap01_kom_tem1_rz5">unsere</string>
+    <string name="a21_kap01_kom_tem1_rz6">unsere</string>
+    <string name="a21_kap01_kom_tem1_rz7">euer</string>
+    <string name="a21_kap01_kom_tem1_rz8">euer</string>
+    <string name="a21_kap01_kom_tem1_rz9">eure</string>
+    <string name="a21_kap01_kom_tem1_rz10">eure</string>
+    <string name="a21_kap01_kom_tem1_rz11">ihr</string>
+    <string name="a21_kap01_kom_tem1_rz12">ihr</string>
+    <string name="a21_kap01_kom_tem1_rz13">ihre</string>
+    <string name="a21_kap01_kom_tem1_rz14">ihre</string>
+    <string name="a21_kap01_kom_tem1_rz15">Ihr Opa</string>
+    <string name="a21_kap01_kom_tem1_rz16">Ihr Baby</string>
+    <string name="a21_kap01_kom_tem1_rz17">Ihre Tante</string>
+    <string name="a21_kap01_kom_tem1_rz18">Ihre Neffen</string>
+    <string name="a21_kap01_kom_tem2">Possessivartikel im Nominativ, Akkusativ und Dativ</string>
+    <string name="a21_kap01_kom_tem2_rz1">Nominativ\nDas ist/sind ...</string>
+    <string name="a21_kap01_kom_tem2_rz2">mein Opa</string>
+    <string name="a21_kap01_kom_tem2_rz3">mein Baby</string>
+    <string name="a21_kap01_kom_tem2_rz4">meine Tante</string>
+    <string name="a21_kap01_kom_tem2_rz5">meine Neffen</string>
+    <string name="a21_kap01_kom_tem2_rz6">Akkusativ\nSiehst du ...?</string>
+    <string name="a21_kap01_kom_tem2_rz7">meinen Opa</string>
+    <string name="a21_kap01_kom_tem2_rz8">mein Baby</string>
+    <string name="a21_kap01_kom_tem2_rz9">meine Tante</string>
+    <string name="a21_kap01_kom_tem2_rz10">meine Neffen</string>
+    <string name="a21_kap01_kom_tem2_rz11">Dativ\nmit...</string>
+    <string name="a21_kap01_kom_tem2_rz12">meinem Opa</string>
+    <string name="a21_kap01_kom_tem2_rz13">meinem Baby</string>
+    <string name="a21_kap01_kom_tem2_rz14">meiner Tante</string>
+    <string name="a21_kap01_kom_tem2_rz15">meinen Neffen</string>
+    <string name="a21_kap01_kom_tem2_rz16">auch so: dein-, sein-, ihr-, unser-, eu(e)r-, ihr-, Ihr-</string>
+    <string name="a21_kap01_gram_tem1">ueber Berufe sprechen</string>
+    <string name="a21_kap01_gram_tem1_rz1">Mein Grossvater war Arzt und mein Vater ist auch Arzt. Ich moechte auf keinen Fall Arzt werden. Mir dauert das Studium zu lange.</string>
+    <string name="a21_kap01_gram_tem2">Familiengeschichten erzaehlen</string>
+    <string name="a21_kap01_gram_tem2_rz1">Habe ich euch schon von meinem / meiner ... erzaehlt?</string>
+    <string name="a21_kap01_gram_tem2_rz2">Also passt auf: ...</string>
+    <string name="a21_kap01_gram_tem2_rz3">Und wisst ihr, was ... dann gemacht hat?</string>
+    <string name="a21_kap01_gram_tem2_rz4">Wisst ihr, was dann passiert ist?</string>
+    <string name="a21_kap01_gram_tem2_rz5">Er / Sie war schon verrueckt / nett / lustig, mein / meine ...</string>
+    <string name="a21_kap01_gram_tem3">Reihenfolge angeben</string>
+    <string name="a21_kap01_gram_tem3_rz1">zuerst - dann - danach - zum Schluss</string>
+
 
 </resources>
