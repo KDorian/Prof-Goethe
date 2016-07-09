@@ -107,7 +107,7 @@
         takimi jak nazwisko, adres, obywatelstwo. </string>
     <string name="gramatyka">GRAMMATIK</string>
     <string name="pusty" />
-    <string name="punkt">&#8226;</string>
+    <string name="punkt">&#8226;&#8194;</string>
     <string name="komunikacja">KOMMUNIKATION</string>
 
     <string name="kap01_gram_tem1">Verb: Konjugation</string>
