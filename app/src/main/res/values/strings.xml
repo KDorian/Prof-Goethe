@@ -1120,4 +1120,39 @@
     <string name="a21_kap01_gram_tem3_rz1">zuerst - dann - danach - zum Schluss</string>
 
 
+
+    <string name="a21_kap02_kom_tem1">Wechselpraepositionen mit Dativ und Akkusativ</string>
+    <string name="a21_kap02_kom_tem1_rz1">Wohin stellen / legen / haengen ... ?\nAkkusativ</string>
+    <string name="a21_kap02_kom_tem1_rz2">definiter Artikel</string>
+    <string name="a21_kap02_kom_tem1_rz3">auf den Tisch</string>
+    <string name="a21_kap02_kom_tem1_rz4">auf das Regal</string>
+    <string name="a21_kap02_kom_tem1_rz5">vor die Wand</string>
+    <string name="a21_kap02_kom_tem1_rz6">zwischen die Tueren</string>
+    <string name="a21_kap02_kom_tem1_rz7">indefiniter Artikel</string>
+    <string name="a21_kap02_kom_tem1_rz8">auf einen Tisch</string>
+    <string name="a21_kap02_kom_tem1_rz9">auf ein Regal</string>
+    <string name="a21_kap02_kom_tem1_rz10">vor eine Wand</string>
+    <string name="a21_kap02_kom_tem1_rz11">zwischen zwei / - Tueren</string>
+    <string name="a21_kap02_kom_tem1_rz12">Wo steht / liegt / haengt ... ?\nDativ</string>
+    <string name="a21_kap02_kom_tem1_rz13">auf dem Tisch</string>
+    <string name="a21_kap02_kom_tem1_rz14">auf dem Regal</string>
+    <string name="a21_kap02_kom_tem1_rz15">vor der Wand</string>
+    <string name="a21_kap02_kom_tem1_rz16">zwischen den Tueren</string>
+    <string name="a21_kap02_kom_tem1_rz17">auf einem Tisch</string>
+    <string name="a21_kap02_kom_tem1_rz18">auf einem Regal</string>
+    <string name="a21_kap02_kom_tem1_rz19">vor einer Wand</string>
+    <string name="a21_kap02_kom_tem1_rz20">zwischen zwei / - Tueren</string>
+    <string name="a21_kap02_kom_tem1_rz21">auch so bei: an, neben, ueber, unter, in</string>
+    <string name="a21_kap02_kom_tem1_rz22">in dem = im</string>
+    <string name="a21_kap02_kom_tem1_rz23">an dem = am</string>
+    <string name="a21_kap02_gram_tem1">Einrichtungstipps geben</string>
+    <string name="a21_kap02_gram_tem1_rz1">Stellt / Stellen Sie nicht / nur ...</string>
+    <string name="a21_kap02_gram_tem1_rz2">Sonst wird der Raum / das Zimmer ...</string>
+    <string name="a21_kap02_gram_tem1_rz3">Dann sieht man ...</string>
+    <string name="a21_kap02_gram_tem1_rz4">Vorsicht mit / Passt auf mit ...</string>
+    <string name="a21_kap02_gram_tem1_rz5">Seid vorsichtig mit ...</string>
+    <string name="a21_kap02_gram_tem1_rz6">Schoen ist ein Bild / ... an der Wand. / vor ... .</string>
+    <string name="a21_kap02_gram_tem1_rz7">Aber : Haengt / Steht / Legt nicht / kein- ...</string>
+
+
 </resources>
