@@ -1155,23 +1155,23 @@
     <string name="a21_kap02_kom_tem1_rz7">Aber : H&#228;ngt / Steht / Legt nicht / kein- &#8230;</string>
 
 
-    <string name="a21_kap03_gram_tem1"><![CDATA[Wortbildung: Verb -> Nomen]]></string>
-    <string name="a21_kap03_gram_tem1_rz1"><![CDATA[Verb + -er -> Nomen (meist Personen)]]></string>
-    <string name="a21_kap03_gram_tem1_rz2"><![CDATA[wander-n + -er -> der Wanderer]]></string>
-    <string name="a21_kap03_gram_tem1_rz3">auch so: vermieten, mieten, fahren, surfen ...</string>
-    <string name="a21_kap03_gram_tem2"><![CDATA[Verb + -ung -> Nomen]]></string>
-    <string name="a21_kap03_gram_tem2_rz1"><![CDATA[erfahr-en + -ung -> die Erfahrung]]></string>
-    <string name="a21_kap03_gram_tem2_rz2">auch so: ordnen, erholen, entspannen, anstrengen, ausruesten, uebernachten, wardern, anmelden, beraten ...</string>
+    <string name="a21_kap03_gram_tem1">Wortbildung: Verb -> Nomen></string>
+    <string name="a21_kap03_gram_tem1_rz1">Verb + -er -> Nomen (meist Personen)</string>
+    <string name="a21_kap03_gram_tem1_rz2">wander-n + -er -> der Wanderer</string>
+    <string name="a21_kap03_gram_tem1_rz3">auch so: vermieten, mieten, fahren, surfen &#8230;</string>
+    <string name="a21_kap03_gram_tem2">Verb + -ung -> Nomen</string>
+    <string name="a21_kap03_gram_tem2_rz1">erfahr-en + -ung -> die Erfahrung</string>
+    <string name="a21_kap03_gram_tem2_rz2">auch so: ordnen, erholen, entspannen, anstrengen, ausr&#252;sten, uebernachten, wardern, anmelden, beraten &#8230;</string>
     <string name="a21_kap03_kom_tem1">etwas bewerten</string>
-    <string name="a21_kap03_kom_tem1_rz1">Welche Idee gefaellt Ihnen am besten?</string>
-    <string name="a21_kap03_kom_tem1_rz2">Also ich finde / denke / mag ...</string>
-    <string name="a21_kap03_kom_tem1_rz3">Mir gefaellt das Angebot / die Idee auch sehr gut / nicht besonders / ueberhaupt nicht.</string>
+    <string name="a21_kap03_kom_tem1_rz1">Welche Idee gef&#228;llt Ihnen am besten?</string>
+    <string name="a21_kap03_kom_tem1_rz2">Also ich finde / denke / mag &#8230;</string>
+    <string name="a21_kap03_kom_tem1_rz3">Mir gef&#228;llt das Angebot / die Idee auch sehr gut / nicht besonders / &#252;berhaupt nicht.</string>
     <string name="a21_kap03_kom_tem1_rz4">Glaubst du, das funktioniert?</string>
     <string name="a21_kap03_kom_tem1_rz5">Ich glaube, das funktioniert nicht.</string>
-    <string name="a21_kap03_kom_tem1_rz6">Ja, ich glaube schon. Wandern / ... liegt im Trend / ist gerade in.</string>
-    <string name="a21_kap03_kom_tem2">Vorlieben und Wuensche ausdruecken</string>
-    <string name="a21_kap03_kom_tem2_rz1">Welche Reise wuerden Sie am liebsten buchen?</string>
-    <string name="a21_kap03_kom_tem2_rz2">Ich wuerde am liebsten ... buchen.</string>
-    <string name="a21_kap03_kom_tem2_rz3">Echt / Wirklich? Ich fahre lieber ...</string>
+    <string name="a21_kap03_kom_tem1_rz6">Ja, ich glaube schon. Wandern / &#8230; liegt im Trend / ist gerade in.</string>
+    <string name="a21_kap03_kom_tem2">Vorlieben und W&#252;nsche ausdr&#252;cken</string>
+    <string name="a21_kap03_kom_tem2_rz1">Welche Reise w&#252;rden Sie am liebsten buchen?</string>
+    <string name="a21_kap03_kom_tem2_rz2">Ich w&#252;rde am liebsten &#8230; buchen.</string>
+    <string name="a21_kap03_kom_tem2_rz3">Echt / Wirklich? Ich fahre lieber &#8230;</string>
 
 </resources>
