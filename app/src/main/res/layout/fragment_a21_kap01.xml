@@ -40,7 +40,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_kom_tem1"
+                    android:text="@string/a21_kap01_gram_tem1"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -88,7 +88,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz1"
+                    android:text="@string/a21_kap01_gram_tem1_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -100,7 +100,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz2"
+                    android:text="@string/a21_kap01_gram_tem1_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -117,7 +117,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz3"
+                    android:text="@string/a21_kap01_gram_tem1_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -129,7 +129,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz7"
+                    android:text="@string/a21_kap01_gram_tem1_rz7"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -141,7 +141,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz11"
+                    android:text="@string/a21_kap01_gram_tem1_rz11"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -153,7 +153,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz15"
+                    android:text="@string/a21_kap01_gram_tem1_rz15"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -170,7 +170,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz4"
+                    android:text="@string/a21_kap01_gram_tem1_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -182,7 +182,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz8"
+                    android:text="@string/a21_kap01_gram_tem1_rz8"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -194,7 +194,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz12"
+                    android:text="@string/a21_kap01_gram_tem1_rz12"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -206,7 +206,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz16"
+                    android:text="@string/a21_kap01_gram_tem1_rz16"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -223,7 +223,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz5"
+                    android:text="@string/a21_kap01_gram_tem1_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -235,7 +235,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz9"
+                    android:text="@string/a21_kap01_gram_tem1_rz9"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -247,7 +247,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz13"
+                    android:text="@string/a21_kap01_gram_tem1_rz13"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -259,7 +259,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz17"
+                    android:text="@string/a21_kap01_gram_tem1_rz17"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -276,7 +276,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz6"
+                    android:text="@string/a21_kap01_gram_tem1_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -288,7 +288,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz10"
+                    android:text="@string/a21_kap01_gram_tem1_rz10"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -300,7 +300,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz14"
+                    android:text="@string/a21_kap01_gram_tem1_rz14"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -312,7 +312,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem1_rz18"
+                    android:text="@string/a21_kap01_gram_tem1_rz18"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -337,7 +337,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_kom_tem2"
+                    android:text="@string/a21_kap01_gram_tem2"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -361,7 +361,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz1"
+                    android:text="@string/a21_kap01_gram_tem2_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -373,7 +373,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz6"
+                    android:text="@string/a21_kap01_gram_tem2_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -385,7 +385,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz11"
+                    android:text="@string/a21_kap01_gram_tem2_rz11"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -402,7 +402,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz2"
+                    android:text="@string/a21_kap01_gram_tem2_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -414,7 +414,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz7"
+                    android:text="@string/a21_kap01_gram_tem2_rz7"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -426,7 +426,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz12"
+                    android:text="@string/a21_kap01_gram_tem2_rz12"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -443,7 +443,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz3"
+                    android:text="@string/a21_kap01_gram_tem2_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -455,7 +455,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz8"
+                    android:text="@string/a21_kap01_gram_tem2_rz8"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -467,7 +467,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz13"
+                    android:text="@string/a21_kap01_gram_tem2_rz13"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -484,7 +484,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz4"
+                    android:text="@string/a21_kap01_gram_tem2_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -496,7 +496,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz9"
+                    android:text="@string/a21_kap01_gram_tem2_rz9"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -508,7 +508,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz14"
+                    android:text="@string/a21_kap01_gram_tem2_rz14"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -525,7 +525,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz5"
+                    android:text="@string/a21_kap01_gram_tem2_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -537,7 +537,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz10"
+                    android:text="@string/a21_kap01_gram_tem2_rz10"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
@@ -549,7 +549,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="@string/a21_kap01_kom_tem2_rz15"
+                    android:text="@string/a21_kap01_gram_tem2_rz15"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
             </TableRow>
@@ -559,7 +559,7 @@
             android:id="@+id/textView1834"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/a21_kap01_kom_tem2_rz16"
+            android:text="@string/a21_kap01_gram_tem2_rz16"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="10dp" />
@@ -592,7 +592,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem1"
+                    android:text="@string/a21_kap01_kom_tem1"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -618,7 +618,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem1_rz1"
+                    android:text="@string/a21_kap01_kom_tem1_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
         </TableLayout>
@@ -645,7 +645,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2"
+                    android:text="@string/a21_kap01_kom_tem2"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
 
             </TableRow>
@@ -672,7 +672,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2_rz1"
+                    android:text="@string/a21_kap01_kom_tem2_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -693,7 +693,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2_rz2"
+                    android:text="@string/a21_kap01_kom_tem2_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -714,7 +714,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2_rz3"
+                    android:text="@string/a21_kap01_kom_tem2_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -735,7 +735,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2_rz4"
+                    android:text="@string/a21_kap01_kom_tem2_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -756,7 +756,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem2_rz5"
+                    android:text="@string/a21_kap01_kom_tem2_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
         </TableLayout>
@@ -781,7 +781,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem3"
+                    android:text="@string/a21_kap01_kom_tem3"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -807,7 +807,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="@string/a21_kap01_gram_tem3_rz1"
+                    android:text="@string/a21_kap01_kom_tem3_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
         </TableLayout>
