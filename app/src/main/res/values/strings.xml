@@ -1174,4 +1174,46 @@
     <string name="a21_kap03_kom_tem2_rz2">Ich w&#252;rde am liebsten &#8230; buchen.</string>
     <string name="a21_kap03_kom_tem2_rz3">Echt / Wirklich? Ich fahre lieber &#8230;</string>
 
+
+    <string name="a21_kap04_gram_tem1">Adjektivdeklination: indefiniter Artikel</string>
+    <string name="a21_kap04_gram_tem1_rz1">Nominativ\nDas ist / sind ...</string>
+    <string name="a21_kap04_gram_tem1_rz2">ein magerer Schinken</string>
+    <string name="a21_kap04_gram_tem1_rz3">ein helles Brot</string>
+    <string name="a21_kap04_gram_tem1_rz4">eine gruene Paprika</string>
+    <string name="a21_kap04_gram_tem1_rz5">- helle Broetchen</string>
+    <string name="a21_kap04_gram_tem1_rz6">Akkusativ\nIch haette gern ...</string>
+    <string name="a21_kap04_gram_tem1_rz7">einen mageren Schinken</string>
+    <string name="a21_kap04_gram_tem1_rz8">ein helles Brot</string>
+    <string name="a21_kap04_gram_tem1_rz9">eine gruene Paprika</string>
+    <string name="a21_kap04_gram_tem1_rz10">- helle Broetchen</string>
+    <string name="a21_kap04_gram_tem1_rz11">Dativ\nmit ...</string>
+    <string name="a21_kap04_gram_tem1_rz12">einem mageren Schinken</string>
+    <string name="a21_kap04_gram_tem1_rz13">einem hellen Brot</string>
+    <string name="a21_kap04_gram_tem1_rz14">einer gruenen Paprika</string>
+    <string name="a21_kap04_gram_tem1_rz15">- hellen Broetchen</string>
+    <string name="a21_kap04_gram_tem1_rz16">auch so: kein- / mein- ... ,</string>
+    <string name="a21_kap04_gram_tem1_rz17">aber: Plural: keine / meine hellen Broetchen</string>
+    <string name="a21_kap04_kom_tem1">Einkaufen</string>
+    <string name="a21_kap04_kom_tem1_rz1">Was darf es sein?</string>
+    <string name="a21_kap04_kom_tem1_rz2">Kann ich Ihnen helfen?</string>
+    <string name="a21_kap04_kom_tem1_rz3">Ich haette gern ...</string>
+    <string name="a21_kap04_kom_tem1_rz4">Ich moechte ...</string>
+    <string name="a21_kap04_kom_tem1_rz5">Ich brauche ...</string>
+    <string name="a21_kap04_kom_tem1_rz6">Moechten SIe lieber ... oder ... ?</string>
+    <string name="a21_kap04_kom_tem1_rz7">Meinen Sie ... oder ... ?</string>
+    <string name="a21_kap04_kom_tem1_rz8">Soll es ... oder ... sein?</string>
+    <string name="a21_kap04_kom_tem1_rz9">Die sind heute beide im Angebot.</string>
+    <string name="a21_kap04_kom_tem1_rz10">Wie viel darf es sein?</string>
+    <string name="a21_kap04_kom_tem1_rz11">Geben Sie mir bitte ... .</string>
+    <string name="a21_kap04_kom_tem1_rz12">Dann nehme ich ... .</string>
+    <string name="a21_kap04_kom_tem1_rz13">Moechten Sie sonst noch etwas?</string>
+    <string name="a21_kap04_kom_tem1_rz14">Darf es noch etwas sein?</string>
+    <string name="a21_kap04_kom_tem1_rz15">Nein, danke.</string>
+    <string name="a21_kap04_kom_tem1_rz16">Das ist alles.</string>
+    <string name="a21_kap04_kom_tem2">Vorlieben aeussern</string>
+    <string name="a21_kap04_kom_tem2_rz1">Ich habe dir ein kleines Fruehstueck / ein weich gekochtes Ei / ... bestellt.</string>
+    <string name="a21_kap04_kom_tem2_rz2">Ich hoffe, du magst ... .</string>
+    <string name="a21_kap04_kom_tem2_rz3">Aber ich mag keine Marmelade. Ich moechte lieber ... .</string>
+    <string name="a21_kap04_kom_tem2_rz4">Oh ja, ... esse ich gern.</string>
+
 </resources>
