@@ -1217,7 +1217,38 @@
     <string name="a21_kap04_kom_tem2_rz4">Oh ja, &#8230; esse ich gern.</string>
     <string name="a21_kap05_gram_tem1">Adjektivdeklination: definiter Artikel</string>
 
-    
-    <string name="a21_kap05_gram_tem1_rz1">NominativMir gefaellt / gefallen</string>
+
+    <string name="a21_kap05_gram_tem1_rz1">Nominativ\nMir gefaellt / gefallen</string>
+    <string name="a21_kap05_gram_tem1_rz2">der beruehmte Dom</string>
+    <string name="a21_kap05_gram_tem1_rz3">das bunte Fenster</string>
+    <string name="a21_kap05_gram_tem1_rz4">die neue Kamera</string>
+    <string name="a21_kap05_gram_tem1_rz5">die netten Leute</string>
+    <string name="a21_kap05_gram_tem1_rz6">Akkusativ\nIch finde ... am besten.</string>
+    <string name="a21_kap05_gram_tem1_rz7">den alten Dom</string>
+    <string name="a21_kap05_gram_tem1_rz8">das bunte Fenster</string>
+    <string name="a21_kap05_gram_tem1_rz9">die neue Kamera</string>
+    <string name="a21_kap05_gram_tem1_rz10">die netten Leute</string>
+    <string name="a21_kap05_gram_tem1_rz11">Dativ\nmit ...</string>
+    <string name="a21_kap05_gram_tem1_rz12">dem netten Reisefuehrer</string>
+    <string name="a21_kap05_gram_tem1_rz13">dem bunten Fenster</string>
+    <string name="a21_kap05_gram_tem1_rz14">der neuen Kamera</string>
+    <string name="a21_kap05_gram_tem1_rz15">den netten Leuten</string>
+    <string name="a21_kap05_kom_tem1">etwas gemeinsam planen</string>
+    <string name="a21_kap05_kom_tem1_rz1">Wollen wir zuerst / danach / am Samstagabend ... besichtigen / ansehen?</string>
+    <string name="a21_kap05_kom_tem1_rz2">Und am Sonntag koennen wir in / ins ... gehen.</string>
+    <string name="a21_kap05_kom_tem1_rz3">... ist wirklich sehenswert / beeindruckend / toll/ ... .</string>
+    <string name="a21_kap05_kom_tem1_rz4">Das wird bestimmt ... .</string>
+    <string name="a21_kap05_kom_tem1_rz5">... gefaellt unserem Besuch bestimmt / sicher.</string>
+    <string name="a21_kap05_kom_tem1_rz6">Was denkst du / denkt ihr?</string>
+    <string name="a21_kap05_kom_tem1_rz7">Ja, das ist eine gute Idee. Einverstanden.</string>
+    <string name="a21_kap05_kom_tem1_rz8">Ich bin (auch) dafuer. Gute Idee!</string>
+    <string name="a21_kap05_kom_tem1_rz9">Ja gut, machen wir es so.</string>
+    <string name="a21_kap05_kom_tem1_rz10">Also gut.</string>
+    <string name="a21_kap05_kom_tem1_rz11">Das koennen wir doch spaeter auch noch machen.</string>
+    <string name="a21_kap05_kom_tem1_rz12">Wollen wir nicht lieber zuerst / danach / am Abend ... .</string>
+    <string name="a21_kap05_kom_tem1_rz13">Ich bin dagegen. / Muss das sein? Das ist doch langweilig.</string>
+    <string name="a21_kap05_kom_tem1_rz14">Ich finde das nicht so gut.</string>
+    <string name="a21_kap05_kom_tem2">etwas berichten</string>
+    <string name="a21_kap05_kom_tem2_rz1">Zuerst gehen wir in / ins ... . Danach ... .</string>
 
 </resources>
