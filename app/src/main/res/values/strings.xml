@@ -1292,18 +1292,18 @@
 
     <string name="a21_kap07_gram_tem1">temporale Adverbien</string>
     <string name="a21_kap07_gram_tem1_rz1">abends = jeden Abend</string>
-    <string name="a21_kap07_gram_tem1_rz2">auch so: nachts, morgens, ... montags, dienstags, ...</string>
-    <string name="a21_kap07_gram_tem2">temporale Praepositionen zwischen + Dativ</string>
+    <string name="a21_kap07_gram_tem1_rz2">auch so: nachts, morgens, &#8230;, montags, dienstags, &#8230;</string>
+    <string name="a21_kap07_gram_tem2">temporale Pr&#228;positionen zwischen + Dativ</string>
     <string name="a21_kap07_gram_tem2_rz1">Wann?</string>
     <string name="a21_kap07_gram_tem2_rz2">zwischen 7:00 und 7:15 Uhr</string>
-    <string name="a21_kap07_gram_tem3">Vorschlaege und Ratschlaege: Konjunktiv II von koennen, sollen</string>
-    <string name="a21_kap07_gram_tem3_rz1">koennen</string>
-    <string name="a21_kap07_gram_tem3_rz2">koennte</string>
-    <string name="a21_kap07_gram_tem3_rz3">koenntest</string>
-    <string name="a21_kap07_gram_tem3_rz4">koennte</string>
-    <string name="a21_kap07_gram_tem3_rz5">koennten</string>
-    <string name="a21_kap07_gram_tem3_rz6">koenntet</string>
-    <string name="a21_kap07_gram_tem3_rz7">koennten</string>
+    <string name="a21_kap07_gram_tem3">Vorschl&#228;ge und Ratschl&#228;ge: Konjunktiv II von k&#246;nnen, sollen</string>
+    <string name="a21_kap07_gram_tem3_rz1">k&#246;nnen</string>
+    <string name="a21_kap07_gram_tem3_rz2">k&#246;nnte</string>
+    <string name="a21_kap07_gram_tem3_rz3">k&#246;nntest</string>
+    <string name="a21_kap07_gram_tem3_rz4">k&#246;nnte</string>
+    <string name="a21_kap07_gram_tem3_rz5">k&#246;nnten</string>
+    <string name="a21_kap07_gram_tem3_rz6">k&#246;nntet</string>
+    <string name="a21_kap07_gram_tem3_rz7">k&#246;nnten</string>
     <string name="a21_kap07_gram_tem3_rz8">sollen</string>
     <string name="a21_kap07_gram_tem3_rz9">sollte</string>
     <string name="a21_kap07_gram_tem3_rz10">solltest</string>
@@ -1312,16 +1312,16 @@
     <string name="a21_kap07_gram_tem3_rz13">solltet</string>
     <string name="a21_kap07_gram_tem3_rz14">sollten</string>
     <string name="a21_kap07_kom_tem1">um Rat bitten</string>
-    <string name="a21_kap07_kom_tem1_rz1">Welche Sportart sollte ich machen / wuerdest du mir empfehlen / passt zu mir?</string>
-    <string name="a21_kap07_kom_tem1_rz2">Ich moechte gern Sport machen. Hast du einen Tipp fuer mich?</string>
-    <string name="a21_kap07_kom_tem2">Ratschlaege geben / Vorschlaege machen</string>
+    <string name="a21_kap07_kom_tem1_rz1">Welche Sportart sollte ich machen / w&#252;rdest du mir empfehlen / passt zu mir?</string>
+    <string name="a21_kap07_kom_tem1_rz2">Ich m&#246;chte gern Sport machen. Hast du einen Tipp f&#252;r mich?</string>
+    <string name="a21_kap07_kom_tem2">Ratschl&#228;ge geben / Vorschl&#228;ge machen</string>
     <string name="a21_kap07_kom_tem2_rz1">Und abends sollten Sie keine Kohlenhydrate mehr essen.</string>
-    <string name="a21_kap07_kom_tem2_rz2">Er / Sie sollte / Du solltest ...</string>
-    <string name="a21_kap07_kom_tem2_rz3">Er / Sie koennte / Du koenntest aber auch ...</string>
-    <string name="a21_kap07_kom_tem2_rz4">An seiner / ihrer / deiner Stelle wuerde ich ...</string>
-    <string name="a21_kap07_kom_tem2_rz5">Mach doch ... !</string>
-    <string name="a21_kap07_kom_tem2_rz6">Wir koennten montags und mittwochs joggen gehen.</string>
-    <string name="a21_kap07_kom_tem2_rz7">Wie waere es mit ... ?</string>
+    <string name="a21_kap07_kom_tem2_rz2">Er / Sie sollte / Du solltest &#8230;</string>
+    <string name="a21_kap07_kom_tem2_rz3">Er / Sie k&#246;nnte / Du k&#246;nntest aber auch &#8230;</string>
+    <string name="a21_kap07_kom_tem2_rz4">An seiner / ihrer / deiner Stelle w&#252;rde ich &#8230;</string>
+    <string name="a21_kap07_kom_tem2_rz5">Mach doch &#8230; !</string>
+    <string name="a21_kap07_kom_tem2_rz6">Wir k&#246;nnten montags und mittwochs joggen gehen.</string>
+    <string name="a21_kap07_kom_tem2_rz7">Wie w&#228;re es mit &#8230; ?</string>
 
 
 </resources>
