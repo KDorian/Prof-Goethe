@@ -1322,6 +1322,32 @@
     <string name="a21_kap07_kom_tem2_rz5">Mach doch &#8230; !</string>
     <string name="a21_kap07_kom_tem2_rz6">Wir k&#246;nnten montags und mittwochs joggen gehen.</string>
     <string name="a21_kap07_kom_tem2_rz7">Wie w&#228;re es mit &#8230; ?</string>
+    <string name="a21_kap08_gram_tem1">Konjunktionen: Gruende ausdruecken</string>
+
+
+    <string name="a21_kap08_gram_tem1_rz1">Hauptsatz + Nebensatz: weil</string>
+    <string name="a21_kap08_gram_tem1_rz2">Folge</string>
+    <string name="a21_kap08_gram_tem1_rz3">Er will mir nur nichts sagen,</string>
+    <string name="a21_kap08_gram_tem1_rz4">Du hast Probleme,</string>
+    <string name="a21_kap08_gram_tem1_rz5">Grund</string>
+    <string name="a21_kap08_gram_tem1_rz6">weil meine Krankheit so schlimm ist.</string>
+    <string name="a21_kap08_gram_tem1_rz7">wiel du so viel auf deinen Koerper hoerst.</string>
+    <string name="a21_kap08_gram_tem1_rz8">Hauptsatz + Hauptsatz: deshalb</string>
+    <string name="a21_kap08_gram_tem1_rz9">Meine Krankheit ist so schlimm.</string>
+    <string name="a21_kap08_gram_tem1_rz10">Du hoerst so viel auf deinen Koerper.</string>
+    <string name="a21_kap08_gram_tem1_rz11">Deshalb will er mir nichts sagen.</string>
+    <string name="a21_kap08_gram_tem1_rz12">Deshalb hast du Probleme.</string>
+    <string name="a21_kap08_kom_tem1">Sorge ausdruecken</string>
+    <string name="a21_kap08_kom_tem1_rz1">Was ist los?</string>
+    <string name="a21_kap08_kom_tem1_rz2">Ist alles in Ordnung?</string>
+    <string name="a21_kap08_kom_tem1_rz3">Ich habe Angst vor Herzkrankheiten / ... .</string>
+    <string name="a21_kap08_kom_tem1_rz4">Hoffentlich muss ich nicht ins Krankenhaus / zum Zahnarzt ... .</string>
+    <string name="a21_kap08_kom_tem2">Mitleid ausdruecken</string>
+    <string name="a21_kap08_kom_tem2_rz1">Das finde ich aber traurig.</string>
+    <string name="a21_kap08_kom_tem2_rz2">Oh, das tut mir wirklich sehr / echt leid.</string>
+    <string name="a21_kap08_kom_tem3">Hoffnung ausdruecken</string>
+    <string name="a21_kap08_kom_tem3_rz1">Hoffentlich hast du nichts Schlimmes!</string>
+    <string name="a21_kap08_kom_tem3_rz2">Ich hoffe, es ist alles in Ordnung.</string>
 
 
 </resources>
