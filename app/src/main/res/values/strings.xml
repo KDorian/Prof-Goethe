@@ -1350,4 +1350,27 @@
     <string name="a21_kap08_kom_tem3_rz2">Ich hoffe, es ist alles in Ordnung.</string>
 
 
+    <string name="a21_kap09_gram_tem1">Adjektivdeklination nach Nullartikel</string>
+    <string name="a21_kap09_gram_tem1_rz1">guter Lohn</string>
+    <string name="a21_kap09_gram_tem1_rz2">grosses Lager</string>
+    <string name="a21_kap09_gram_tem1_rz3">flexible Arbeitszeit</string>
+    <string name="a21_kap09_gram_tem1_rz4">kleine Bueros</string>
+    <string name="a21_kap09_gram_tem1_rz5">guten Lohn</string>
+    <string name="a21_kap09_gram_tem1_rz6">grosses Lager</string>
+    <string name="a21_kap09_gram_tem1_rz7">flexible Arbeitszeit</string>
+    <string name="a21_kap09_gram_tem1_rz8">kleine Bueros</string>
+    <string name="a21_kap09_gram_tem1_rz9">gutem Lohn</string>
+    <string name="a21_kap09_gram_tem1_rz10">grossem Lager</string>
+    <string name="a21_kap09_gram_tem1_rz11">flexiber Arbeitszeit</string>
+    <string name="a21_kap09_gram_tem1_rz12">kleinen Bueros</string>
+    <string name="a21_kap09_kom_tem1">Wichtigkeit ausdruecken</string>
+    <string name="a21_kap09_kom_tem1_rz1">Ich moechte gern ... .</string>
+    <string name="a21_kap09_kom_tem1_rz2">Ja, das ist mir sehr wichtig.</string>
+    <string name="a21_kap09_kom_tem1_rz3">Ja, sehr. Und dir?</string>
+    <string name="a21_kap09_kom_tem1_rz4">Und ... ? Wie wichtig ist / sind dir das / die?</string>
+    <string name="a21_kap09_kom_tem1_rz5">Ist dir das wichtig?</string>
+    <string name="a21_kap09_kom_tem1_rz6">Mir ist das auch wichtig / nicht so wichtig.</string>
+    <string name="a21_kap09_kom_tem1_rz7">Das / Die ist / sind mir nicht / sehr / schon wichtig.</string>
+
+
 </resources>
