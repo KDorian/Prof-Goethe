@@ -1371,40 +1371,42 @@
     <string name="a21_kap09_kom_tem1_rz5">Ist dir das wichtig?</string>
     <string name="a21_kap09_kom_tem1_rz6">Mir ist das auch wichtig / nicht so wichtig.</string>
     <string name="a21_kap09_kom_tem1_rz7">Das / Die ist / sind mir nicht / sehr / schon wichtig.</string>
+
+
     <string name="a21_kap10_gram_tem1">Konjunktion: dass</string>
     <string name="a21_kap10_gram_tem1_rz1">Ich hoffe, dass sie Pommes haben.</string>
-    <string name="a21_kap10_gram_tem1_rz2">Gut / Schoen / Schade / ... , dass ... .</string>
-    <string name="a21_kap10_gram_tem1_rz3">Kann es sein, dass ... ?</string>
-    <string name="a21_kap10_gram_tem1_rz4">Ich weiss / finde / denke / glaube / hoffe / ... , dass ... .</string>
+    <string name="a21_kap10_gram_tem1_rz2">Gut / Sch&#246;n / Schade / &#8230; , dass &#8230; .</string>
+    <string name="a21_kap10_gram_tem1_rz3">Kann es sein, dass &#8230; ?</string>
+    <string name="a21_kap10_gram_tem1_rz4">Ich weiss / finde / denke / glaube / hoffe / &#8230; , dass &#8230; .</string>
     <string name="a21_kap10_kom_tem1">im Restaurant: bestellen</string>
     <string name="a21_kap10_kom_tem1_rz1">Entschuldigung!</string>
-    <string name="a21_kap10_kom_tem1_rz2">Wir wuerden gern bestellen.</string>
-    <string name="a21_kap10_kom_tem1_rz3">Ich moechte bitte bestellen.</string>
+    <string name="a21_kap10_kom_tem1_rz2">Wir w&#252;rden gern bestellen.</string>
+    <string name="a21_kap10_kom_tem1_rz3">Ich m&#246;chte bitte bestellen.</string>
     <string name="a21_kap10_kom_tem1_rz4">Sie bekommen?</string>
     <string name="a21_kap10_kom_tem1_rz5">Was kann ich Ihnen bringen?</string>
     <string name="a21_kap10_kom_tem1_rz6">Einen Moment.</string>
     <string name="a21_kap10_kom_tem1_rz7">Einen Augenblick, bitte.</string>
     <string name="a21_kap10_kom_tem1_rz8">Ich komme gleich.</string>
     <string name="a21_kap10_kom_tem1_rz9">Sofort.</string>
-    <string name="a21_kap10_kom_tem1_rz10">Ich haette gern ... .</string>
-    <string name="a21_kap10_kom_tem1_rz11">Ich nehme ... .</string>
-    <string name="a21_kap10_kom_tem1_rz12">Aber nicht mit ... , sondern mit ... .</string>
-    <string name="a21_kap10_kom_tem1_rz13">Bringen Sie mir lieber ... .</string>
+    <string name="a21_kap10_kom_tem1_rz10">Ich h&#228;tte gern &#8230; .</string>
+    <string name="a21_kap10_kom_tem1_rz11">Ich nehme &#8230; .</string>
+    <string name="a21_kap10_kom_tem1_rz12">Aber nicht mit &#8230; , sondern mit &#8230; .</string>
+    <string name="a21_kap10_kom_tem1_rz13">Bringen Sie mir lieber &#8230; .</string>
     <string name="a21_kap10_kom_tem2">im Restaurant: reklamieren / um etwas bitten</string>
-    <string name="a21_kap10_kom_tem2_rz1">Koennten Sie mir etwas Essig und Oel bringen?</string>
-    <string name="a21_kap10_kom_tem2_rz2">Das Messer ist nicht sauber. Koennte ich ein anderes bekommen?</string>
+    <string name="a21_kap10_kom_tem2_rz1">K&#246;nnten Sie mir etwas Essig und &#214;l bringen?</string>
+    <string name="a21_kap10_kom_tem2_rz2">Das Messer ist nicht sauber. K&#246;nnte ich ein anderes bekommen?</string>
     <string name="a21_kap10_kom_tem2_rz3">Verzeihen Sie, aber die Suppe ist kalt.</string>
     <string name="a21_kap10_kom_tem2_rz4">Der Salat war nicht frisch.</string>
     <string name="a21_kap10_kom_tem2_rz5">Die Kartoffeln waren versalzen.</string>
-    <string name="a21_kap10_kom_tem2_rz6">Oh! Das tut mir leid. Ich ... .</string>
-    <string name="a21_kap10_kom_tem2_rz7">Ich gebe es an die Kueche weiter.</string>
+    <string name="a21_kap10_kom_tem2_rz6">Oh! Das tut mir leid. Ich &#8230; .</string>
+    <string name="a21_kap10_kom_tem2_rz7">Ich gebe es an die K&#252;che weiter.</string>
     <string name="a21_kap10_kom_tem3">im Restaurant: bezahlen</string>
     <string name="a21_kap10_kom_tem3_rz1">Die Rechnung, bitte.</string>
-    <string name="a21_kap10_kom_tem3_rz2">Wir wuerden gern zahlen.</string>
+    <string name="a21_kap10_kom_tem3_rz2">Wir w&#252;rden gern zahlen.</string>
     <string name="a21_kap10_kom_tem3_rz3">Zusammen. / Getrennt.</string>
     <string name="a21_kap10_kom_tem3_rz4">Hier bitte, stimmt so.</string>
     <string name="a21_kap10_kom_tem3_rz5">Zusammen oder getrennt?</string>
-    <string name="a21_kap10_kom_tem3_rz6">Das macht ... .</string>
+    <string name="a21_kap10_kom_tem3_rz6">Das macht &#8230; .</string>
 
 
 </resources>
