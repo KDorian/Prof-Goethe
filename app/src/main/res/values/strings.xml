@@ -1409,4 +1409,40 @@
     <string name="a21_kap10_kom_tem3_rz6">Das macht &#8230; .</string>
 
 
+    <string name="a21_kap11_gram_tem1">reflexive Verben</string>
+    <string name="a21_kap11_gram_tem1_rz1">Aber ich fuehle mich troztdem prima.</string>
+    <string name="a21_kap11_gram_tem1_rz2">ich fuehle</string>
+    <string name="a21_kap11_gram_tem1_rz3">du fuehlst</string>
+    <string name="a21_kap11_gram_tem1_rz4">er / sie / es fuehlt</string>
+    <string name="a21_kap11_gram_tem1_rz5">wir fuehlen</string>
+    <string name="a21_kap11_gram_tem1_rz6">ihr fuehlt</string>
+    <string name="a21_kap11_gram_tem1_rz7">sie / Sie fuehlen</string>
+    <string name="a21_kap11_gram_tem1_rz8">mich</string>
+    <string name="a21_kap11_gram_tem1_rz9">dich</string>
+    <string name="a21_kap11_gram_tem1_rz10">sich</string>
+    <string name="a21_kap11_gram_tem1_rz11">uns</string>
+    <string name="a21_kap11_gram_tem1_rz12">euch</string>
+    <string name="a21_kap11_gram_tem1_rz13">sich</string>
+    <string name="a21_kap11_gram_tem1_rz14">auch so: sich aergern, sich erinnern, sich freuen, sich entschuldigen, sich unterhalten, sich treffen, sich streiten, sich beschweren ...</string>
+    <string name="a21_kap11_kom_tem1">etwas bewerten</string>
+    <string name="a21_kap11_kom_tem1_rz1">Ich finde es traurig / schrecklich / ..., dass man so viel wegwirft / ... .</string>
+    <string name="a21_kap11_kom_tem1_rz2">Ich finde es schoen, dass ... .</string>
+    <string name="a21_kap11_kom_tem1_rz3">Ich bin froh, dass ... .</string>
+    <string name="a21_kap11_kom_tem1_rz4">Ich denke, dass das eine gute Idee ist. / dass das im Trend liegt.</string>
+    <string name="a21_kap11_kom_tem1_rz5">Meiner Meinung nach ist es sehr gut, dass ... .</string>
+    <string name="a21_kap11_kom_tem1_rz6">Am besten / Besonders gut gefaellt mir, dass ... .</string>
+    <string name="a21_kap11_kom_tem1_rz7">Den / das / die ... wuerde ich gern / nicht kaufen. Denn ... .</string>
+    <string name="a21_kap11_kom_tem1_rz8">Ich wuerde gern / nicht so gern in der Firma arbeiten, weil ...</string>
+    <string name="a21_kap11_kom_tem2">gratulieren</string>
+    <string name="a21_kap11_kom_tem2_rz1">Herzlichen Glueckwunsch zum Jubilaeum!</string>
+    <string name="a21_kap11_kom_tem2_rz2">Alles Gute zum Jubilaeum!</string>
+    <string name="a21_kap11_kom_tem2_rz3">Wir wuenschen Ihnen ... .</string>
+    <string name="a21_kap11_kom_tem2_rz4">Viel Glueck!</string>
+    <string name="a21_kap11_kom_tem2_rz5">Wir gratulieren Ihnen ... .</string>
+    <string name="a21_kap11_kom_tem2_rz6">Wir hoffen ... .</string>
+    <string name="a21_kap11_kom_tem3">sich bedanken</string>
+    <string name="a21_kap11_kom_tem3_rz1">Wir danken Ihnen fuer ... .</string>
+    <string name="a21_kap11_kom_tem3_rz2">Wir bedanken uns fuer ... .</string>
+
+
 </resources>
