@@ -1443,6 +1443,27 @@
     <string name="a21_kap11_kom_tem3">sich bedanken</string>
     <string name="a21_kap11_kom_tem3_rz1">Wir danken Ihnen f&#252;r &#8230; .</string>
     <string name="a21_kap11_kom_tem3_rz2">Wir bedanken uns f&#252;r &#8230; .</string>
+    <string name="a21_kap12_gram_tem1">Konjunktion: wenn</string>
+    <string name="a21_kap12_gram_tem1_rz1">Nebensatz</string>
+    <string name="a21_kap12_gram_tem1_rz2">Hauptsatz</string>
+    <string name="a21_kap12_gram_tem1_rz3">Wenn es warm ist,</string>
+    <string name="a21_kap12_gram_tem1_rz4">Wenn es schnell gehen muss,</string>
+    <string name="a21_kap12_gram_tem1_rz5">(dann) essen wir meist Salat.</string>
+    <string name="a21_kap12_gram_tem1_rz6">(dann) gibt es auch mal eine Pizza.</string>
+    <string name="a21_kap12_gram_tem1_rz7">Wir essen meist Salat,</string>
+    <string name="a21_kap12_gram_tem1_rz8">Es gibt auch mal eine Pizza,</string>
+    <string name="a21_kap12_gram_tem1_rz9">wenn es warm ist.</string>
+    <string name="a21_kap12_gram_tem1_rz10">wenn es schnell gehen muss.</string>
+    <string name="a21_kap12_kom_tem1">Ueberraschung ausdruecken</string>
+    <string name="a21_kap12_kom_tem1_rz1">Ich finde es komisch / Es ist komisch, dass ...</string>
+    <string name="a21_kap12_kom_tem1_rz2">Es wundert / ueberrascht mich, dass ...</string>
+    <string name="a21_kap12_kom_tem1_rz3">Es war mir (nicht) klar, dass ...</string>
+    <string name="a21_kap12_kom_tem1_rz4">Ich habe gedacht, dass ...</string>
+    <string name="a21_kap12_kom_tem1_rz5">Ja, das ist komisch. Aber bei uns ist das auch so.</string>
+    <string name="a21_kap12_kom_tem1_rz6">Bei uns / In Brasilien / In meiner Heimat ... ist das anders. Wir essen ... .</string>
+    <string name="a21_kap12_kom_tem1_rz7">Wirklich? / Komisch! Das wundert / ueberrascht mich (auch).</string>
+    <string name="a21_kap12_kom_tem2">etwas vergleichen</string>
+    <string name="a21_kap12_kom_tem2_rz1">Bei uns / In Brasilien / In meiner Heimat ... ist das auch so / ist das anders / essen / trinken wir ... .</string>
 
 
 </resources>
