@@ -144,7 +144,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap01_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -166,7 +166,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap01_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -188,7 +188,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem3"
+                            android:text="@string/a21_kap01_kom_tem3"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -303,7 +303,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap02_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -440,7 +440,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap03_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -462,7 +462,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap03_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -577,7 +577,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap04_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -599,7 +599,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap04_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -714,7 +714,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap05_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -736,7 +736,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap05_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -873,7 +873,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap06_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -895,7 +895,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap06_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -917,7 +917,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem5"
+                            android:text="@string/a21_kap06_kom_tem3"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
                 </TableLayout>
@@ -1075,7 +1075,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem4"
+                            android:text="@string/a21_kap07_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1097,7 +1097,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem5"
+                            android:text="@string/a21_kap07_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
                 </TableLayout>
@@ -1212,7 +1212,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem3"
+                            android:text="@string/a21_kap08_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1234,7 +1234,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem4"
+                            android:text="@string/a21_kap08_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1256,7 +1256,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem5"
+                            android:text="@string/a21_kap08_kom_tem3"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
                 </TableLayout>
@@ -1370,7 +1370,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap09_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1485,7 +1485,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap10_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1507,7 +1507,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap10_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1529,7 +1529,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem3"
+                            android:text="@string/a21_kap10_kom_tem3"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1644,7 +1644,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap11_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1666,7 +1666,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap11_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1688,7 +1688,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem3"
+                            android:text="@string/a21_kap11_kom_tem3"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1803,7 +1803,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem1"
+                            android:text="@string/a21_kap12_kom_tem1"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
@@ -1825,7 +1825,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_column="1"
-                            android:text="@string/kap13_kom_tem2"
+                            android:text="@string/a21_kap12_kom_tem2"
                             android:textAppearance="?android:attr/textAppearanceSmall" />
                     </TableRow>
 
