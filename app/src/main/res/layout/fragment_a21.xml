@@ -73,8 +73,7 @@
 
                     <TableRow
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="5dp">
+                        android:layout_height="wrap_content">
 
                         <TextView
                             android:id="@+id/textView2384"
@@ -95,8 +94,7 @@
 
                     <TableRow
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="5dp" >
+                        android:layout_height="wrap_content">
 
                         <TextView
                             android:id="@+id/textView2561"
@@ -254,8 +252,7 @@
 
                     <TableRow
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="5dp">
+                        android:layout_height="wrap_content">
 
                         <TextView
                             android:id="@+id/textView2409"
