@@ -1485,6 +1485,8 @@
     <string name="a21_kap12_kom_tem1_rz7">Wirklich? / Komisch! Das wundert / &#252;berrascht mich (auch).</string>
     <string name="a21_kap12_kom_tem2">etwas vergleichen</string>
     <string name="a21_kap12_kom_tem2_rz1">Bei uns / In Brasilien / In meiner Heimat &#8230; ist das auch so / ist das anders / essen / trinken wir &#8230; .</string>
+
+
     <string name="a22_kap13_gram_tem1">Konjunktion als</string>
     <string name="a22_kap13_gram_tem1_rz1">Nebensatz vor dem Hauptsatz</string>
     <string name="a22_kap13_gram_tem1_rz2">Nebensatz</string>
@@ -1495,11 +1497,11 @@
     <string name="a22_kap13_gram_tem1_rz7">Ich habe das Stipendium bekommen,</string>
     <string name="a22_kap13_gram_tem1_rz8">als ich im vierten Semester war.</string>
     <string name="a22_kap13_kom_tem1">von Sprachlernerfahrungen berichten</string>
-    <string name="a22_kap13_kom_tem1_rz1">Ich finde es wichtig, dass man ...</string>
-    <string name="a22_kap13_kom_tem1_rz2">Ich muss immer / oft ...</string>
-    <string name="a22_kap13_kom_tem1_rz3">Fuer mich gibt es nur einen Weg: ...</string>
-    <string name="a22_kap13_kom_tem1_rz4">Am (aller)wichtigsten ist fuer mich ...</string>
-    <string name="a22_kap13_kom_tem1_rz5">Tests / ... finde ich gar nicht wichtig / helfen mir nicht.</string>
+    <string name="a22_kap13_kom_tem1_rz1">Ich finde es wichtig, dass man &#8230;</string>
+    <string name="a22_kap13_kom_tem1_rz2">Ich muss immer / oft &#8230;</string>
+    <string name="a22_kap13_kom_tem1_rz3">F&#252;r mich gibt es nur einen Weg: &#8230;</string>
+    <string name="a22_kap13_kom_tem1_rz4">Am (aller)wichtigsten ist f&#252;r mich &#8230;</string>
+    <string name="a22_kap13_kom_tem1_rz5">Tests / &#8230; finde ich gar nicht wichtig / helfen mir nicht.</string>
 
 
 </resources>
