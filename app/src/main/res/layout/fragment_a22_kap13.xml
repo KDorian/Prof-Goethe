@@ -147,7 +147,7 @@
                     android:layout_margin="1dp"
                     android:background="#ffffff"
                     android:gravity="center"
-                    android:text="Small Text"
+                    android:text="@string/a22_kap13_gram_tem1_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
