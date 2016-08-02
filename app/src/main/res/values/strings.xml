@@ -1519,4 +1519,36 @@
     <string name="a22_kap14_kom_tem1_rz7">Ich freue mich sehr auf &#8230; .</string>
 
 
+    <string name="a22_kap15_gram_tem1">Verben mit Dativ und Akkusativ</string>
+    <string name="a22_kap15_gram_tem1_rz1">Sie koennen</string>
+    <string name="a22_kap15_gram_tem1_rz2">Wem? (Person)</string>
+    <string name="a22_kap15_gram_tem1_rz3">Ihren Freuden auch</string>
+    <string name="a22_kap15_gram_tem1_rz4">Was? (Sache)</string>
+    <string name="a22_kap15_gram_tem1_rz5">Tatortsendungen kaufen.</string>
+    <string name="a22_kap15_gram_tem1_rz6">auch so bei: schenken, geben, empfehlen, schicken, nehmen, leihen, bringen, erzaehlen, zeigen, holen, schreiben</string>
+    <string name="a22_kap15_gram_tem2">Stellung der Objekte</string>
+    <string name="a22_kap15_gram_tem2_rz1">Der Tatort gibt</string>
+    <string name="a22_kap15_gram_tem2_rz2">Der Tatort gibt</string>
+    <string name="a22_kap15_gram_tem2_rz3">Wem? (Person) Dativ</string>
+    <string name="a22_kap15_gram_tem2_rz4">den Zuschauern / ihnen</string>
+    <string name="a22_kap15_gram_tem2_rz5">Was? (Sache) Akkusativpronomen</string>
+    <string name="a22_kap15_gram_tem2_rz6">sie</string>
+    <string name="a22_kap15_gram_tem2_rz7">Was? (Sache) Akkusativ</string>
+    <string name="a22_kap15_gram_tem2_rz8">Abwechslung.</string>
+    <string name="a22_kap15_gram_tem2_rz9">Wem? (Person) Dativ</string>
+    <string name="a22_kap15_gram_tem2_rz10">den Zuschauern. / ihnen.</string>
+    <string name="a22_kap15_kom_tem1_rz1">Ich sehe am liebsten / immer / meistens ...</string>
+    <string name="a22_kap15_kom_tem1">ueber Fernsehgewohnheiten sprechen</string>
+    <string name="a22_kap15_kom_tem1_rz2">Ich treffe mich mit ... .</string>
+    <string name="a22_kap15_kom_tem1_rz3">Wir treffen uns bei ... / im ... .</string>
+    <string name="a22_kap15_kom_tem1_rz4">Manchmal gucke ich ... allein zu Hause, aber meistens zusammen mit ... .</string>
+    <string name="a22_kap15_kom_tem1_rz5">Ich sehe oft ... , aber ich habe keine feste Gewohnheit. Manchmal ...</string>
+    <string name="a22_kap15_kom_tem1_rz6">Wenn ich am ... keine Zeit habe, gucke ich ... spaeter in der Mediathek.</string>
+    <string name="a22_kap15_kom_tem1_rz7">Dazu gibt\'s immer ...</string>
+    <string name="a22_kap15_kom_tem1_rz8">Dann kochen wir zusammen und anschliessend sehen wir ...</string>
+    <string name="a22_kap15_kom_tem1_rz9">Danach / Anschliessend ...</string>
+    <string name="a22_kap15_kom_tem1_rz10">Meine Lieblingssendung ist ...</string>
+    <string name="a22_kap15_kom_tem1_rz11">Ich habe keine Lieblingssendung.</string>
+
+
 </resources>
