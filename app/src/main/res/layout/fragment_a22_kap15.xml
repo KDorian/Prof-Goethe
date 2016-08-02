@@ -215,17 +215,6 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
-                <TextView
-                    android:id="@+id/textView2580"
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_column="3"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
-                    android:text="Small Text"
-                    android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -268,17 +257,6 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
-                <TextView
-                    android:id="@+id/textView2581"
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_column="3"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
-                    android:text="Small Text"
-                    android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -321,17 +299,6 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
-                <TextView
-                    android:id="@+id/textView2582"
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_column="3"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
-                    android:text="Small Text"
-                    android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
             </TableRow>
 
             <TableRow
@@ -374,17 +341,6 @@
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:layout_weight="1" />
 
-                <TextView
-                    android:id="@+id/textView2583"
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_column="3"
-                    android:layout_margin="1dp"
-                    android:background="#ffffff"
-                    android:gravity="center"
-                    android:text="Small Text"
-                    android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
             </TableRow>
         </TableLayout>
 
