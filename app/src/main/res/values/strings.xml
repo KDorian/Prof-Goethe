@@ -1549,6 +1549,31 @@
     <string name="a22_kap15_kom_tem1_rz9">Danach / Anschlie&#223;end &#8230;</string>
     <string name="a22_kap15_kom_tem1_rz10">Meine Lieblingssendung ist &#8230;</string>
     <string name="a22_kap15_kom_tem1_rz11">Ich habe keine Lieblingssendung.</string>
+    <string name="a22_kap16_gram_tem1">indirekte Fragen</string>
+    <string name="a22_kap16_gram_tem1_rz1">Ich wuerde gern wissen, ob Sie noch ein Zimmer frei haben?</string>
+    <string name="a22_kap16_gram_tem1_rz2">Darf ich fragen, wie lange Sie bleiben moechten?</string>
+    <string name="a22_kap16_gram_tem1_rz3">auch so: Koennen Sie mir sagen / erklaeren, ... / Wissen Sie, ... / Ich weiss nicht, ...</string>
+    <string name="a22_kap16_gram_tem2">lokale Praepositionen gegenueber von, an ... vorbei + Dativ</string>
+    <string name="a22_kap16_gram_tem2_rz1">gegenueber von / an ... vorbei</string>
+    <string name="a22_kap16_gram_tem2_rz2">einem / dem Fruehstuecksraum</string>
+    <string name="a22_kap16_gram_tem2_rz3">einem / dem Restaurant</string>
+    <string name="a22_kap16_gram_tem2_rz4">einer / der Bar</string>
+    <string name="a22_kap16_gram_tem2_rz5">zwei Konferenzraeumen</string>
+    <string name="a22_kap16_gram_tem3">lokale Praeposition durch + Akkusativ</string>
+    <string name="a22_kap16_gram_tem3_rz1">durch</string>
+    <string name="a22_kap16_gram_tem3_rz2">einen / den Fruehstuecksraum</string>
+    <string name="a22_kap16_gram_tem3_rz3">ein / das Restaurant</string>
+    <string name="a22_kap16_gram_tem3_rz4">eine / die Bar</string>
+    <string name="a22_kap16_gram_tem3_rz5">zwei Konferenzraeume</string>
+    <string name="a22_kap16_kom_tem1">im Hotel: ein Zimmer buchen</string>
+    <string name="a22_kap16_kom_tem1_rz1">Guten Tag, kann ich Ihnen helfen?</string>
+    <string name="a22_kap16_kom_tem1_rz2">Ich moechte ein Zimmer buchen. / Haben Sie noch ein Zimmer frei?</string>
+    <string name="a22_kap16_kom_tem1_rz3">Darf ich fragen, wie lange Sie bleiben moechten? / Moechten Sie ein Einzel- oder ein Doppelzimmer?</string>
+    <string name="a22_kap16_kom_tem1_rz4">Ich brauche ein ... fuer ... Nachte.</string>
+    <string name="a22_kap16_kom_tem1_rz5">Wir haben noch ein ...zimmer mit Fruehstueck / ... Moechten Sie es buchen?</string>
+    <string name="a22_kap16_kom_tem1_rz6">Ja, gern.</string>
+    <string name="a22_kap16_kom_tem1_rz7">Hier ist Ihr Schluessel. Ich wuensche Ihnen einen angenehmen Aufenthalt.</string>
+    <string name="a22_kap16_kom_tem1_rz8">Vielen Dank.</string>
 
 
 </resources>
