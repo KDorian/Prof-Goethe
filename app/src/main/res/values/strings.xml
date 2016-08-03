@@ -850,7 +850,7 @@
     <string name="kap19_kom_tem1_rz3">Er hat (k)einen Bart / (k)eine Brille / &#8230; .</string>
     <string name="kap19_kom_tem1_rz4">Er sieht nett / sympatisch / lustig / interessant / &#8230; aus.</string>
     <string name="kap19_kom_tem2">&#252;ber Vergangenes sprechen</string>
-    <string name="kap19_kom_tem2_rz1">Fr&#252;her war sie Sekretaerin / &#8230; .</string>
+    <string name="kap19_kom_tem2_rz1">Fr&#252;her war sie Sekret&#228;rin / &#8230; .</string>
     <string name="kap19_kom_tem2_rz2">Fr&#252;her hatte er lange Haare / &#8230; .</string>
     <string name="kap19_kom_tem2_rz3">Sie haben vor zwei Jahren ein Baby bekommen / &#8230; .</string>
     <string name="kap19_kom_tem3">erstannt reagieren</string>
@@ -1552,43 +1552,43 @@
 
 
     <string name="a22_kap16_gram_tem1">indirekte Fragen</string>
-    <string name="a22_kap16_gram_tem1_rz1">Ich wuerde gern wissen, ob Sie noch ein Zimmer frei haben?</string>
-    <string name="a22_kap16_gram_tem1_rz2">Darf ich fragen, wie lange Sie bleiben moechten?</string>
-    <string name="a22_kap16_gram_tem1_rz3">auch so: Koennen Sie mir sagen / erklaeren, ... / Wissen Sie, ... / Ich weiss nicht, ...</string>
-    <string name="a22_kap16_gram_tem2">lokale Praepositionen gegenueber von, an ... vorbei + Dativ</string>
-    <string name="a22_kap16_gram_tem2_rz1">gegenueber von / an ... vorbei</string>
-    <string name="a22_kap16_gram_tem2_rz2">einem / dem Fruehstuecksraum</string>
+    <string name="a22_kap16_gram_tem1_rz1">Ich w&#252;rde gern wissen, ob Sie noch ein Zimmer frei haben?</string>
+    <string name="a22_kap16_gram_tem1_rz2">Darf ich fragen, wie lange Sie bleiben m&#246;chten?</string>
+    <string name="a22_kap16_gram_tem1_rz3">auch so: K&#246;nnen Sie mir sagen / erkl&#228;ren, &#8230; / Wissen Sie, &#8230; / Ich wei&#223; nicht, &#8230;</string>
+    <string name="a22_kap16_gram_tem2">lokale Pr&#228;positionen gegen&#252;ber von, an &#8230; vorbei + Dativ</string>
+    <string name="a22_kap16_gram_tem2_rz1">gegen&#252;ber von / an &#8230; vorbei</string>
+    <string name="a22_kap16_gram_tem2_rz2">einem / dem Fr&#252;hst&#252;cksraum</string>
     <string name="a22_kap16_gram_tem2_rz3">einem / dem Restaurant</string>
     <string name="a22_kap16_gram_tem2_rz4">einer / der Bar</string>
-    <string name="a22_kap16_gram_tem2_rz5">zwei Konferenzraeumen</string>
-    <string name="a22_kap16_gram_tem3">lokale Praeposition durch + Akkusativ</string>
+    <string name="a22_kap16_gram_tem2_rz5">zwei Konferenzr&#228;umen</string>
+    <string name="a22_kap16_gram_tem3">lokale Pr&#228;position durch + Akkusativ</string>
     <string name="a22_kap16_gram_tem3_rz1">durch</string>
-    <string name="a22_kap16_gram_tem3_rz2">einen / den Fruehstuecksraum</string>
+    <string name="a22_kap16_gram_tem3_rz2">einen / den Fr&#252;hst&#252;cksraum</string>
     <string name="a22_kap16_gram_tem3_rz3">ein / das Restaurant</string>
     <string name="a22_kap16_gram_tem3_rz4">eine / die Bar</string>
-    <string name="a22_kap16_gram_tem3_rz5">zwei Konferenzraeume</string>
+    <string name="a22_kap16_gram_tem3_rz5">zwei Konferenzr&#228;ume</string>
     <string name="a22_kap16_kom_tem1">im Hotel: ein Zimmer buchen</string>
     <string name="a22_kap16_kom_tem1_rz1">Guten Tag, kann ich Ihnen helfen?</string>
-    <string name="a22_kap16_kom_tem1_rz2">Ich moechte ein Zimmer buchen. / Haben Sie noch ein Zimmer frei?</string>
-    <string name="a22_kap16_kom_tem1_rz3">Darf ich fragen, wie lange Sie bleiben moechten? / Moechten Sie ein Einzel- oder ein Doppelzimmer?</string>
-    <string name="a22_kap16_kom_tem1_rz4">Ich brauche ein ... fuer ... Nachte.</string>
-    <string name="a22_kap16_kom_tem1_rz5">Wir haben noch ein ...zimmer mit Fruehstueck / ... Moechten Sie es buchen?</string>
+    <string name="a22_kap16_kom_tem1_rz2">Ich m&#246;chte ein Zimmer buchen. / Haben Sie noch ein Zimmer frei?</string>
+    <string name="a22_kap16_kom_tem1_rz3">Darf ich fragen, wie lange Sie bleiben m&#246;chten? / M&#246;chten Sie ein Einzel- oder ein Doppelzimmer?</string>
+    <string name="a22_kap16_kom_tem1_rz4">Ich brauche ein &#8230; f&#252;r &#8230; Nachte.</string>
+    <string name="a22_kap16_kom_tem1_rz5">Wir haben noch ein &#8230;zimmer mit Fr&#252;hst&#252;ck / &#8230; M&#246;chten Sie es buchen?</string>
     <string name="a22_kap16_kom_tem1_rz6">Ja, gern.</string>
-    <string name="a22_kap16_kom_tem1_rz7">Hier ist Ihr Schluessel. Ich wuensche Ihnen einen angenehmen Aufenthalt.</string>
+    <string name="a22_kap16_kom_tem1_rz7">Hier ist Ihr Schl&#252;ssel. Ich w&#252;nsche Ihnen einen angenehmen Aufenthalt.</string>
     <string name="a22_kap16_kom_tem1_rz8">Vielen Dank.</string>
     <string name="a22_kap16_kom_tem2">im Hotel: um Informationen bitten</string>
     <string name="a22_kap16_kom_tem2_rz1">Guten Tag, kann ich Ihnen helfen?</string>
-    <string name="a22_kap16_kom_tem2_rz2">Ich moechte gern wissen, wann ... geoeffnet hat.</string>
-    <string name="a22_kap16_kom_tem2_rz3">... hat von Montag bis Freitag von ... bis ... Uhr geoeffnet und am Wochenende von ... bis ... .</string>
-    <string name="a22_kap16_kom_tem2_rz4">Sehr gut, vielen Dank. Und koennen Sie mir  sagen, wo ... ist?</string>
-    <string name="a22_kap16_kom_tem2_rz5">... ist ... . Die Oeffnungszeiten sind ... .</string>
+    <string name="a22_kap16_kom_tem2_rz2">Ich m&#246;chte gern wissen, wann &#8230; ge&#246;ffnet hat.</string>
+    <string name="a22_kap16_kom_tem2_rz3">&#8230; hat von Montag bis Freitag von &#8230; bis &#8230; Uhr ge&#246;ffnet und am Wochenende von &#8230; bis &#8230; .</string>
+    <string name="a22_kap16_kom_tem2_rz4">Sehr gut, vielen Dank. Und k&#246;nnen Sie mir  sagen, wo &#8230; ist?</string>
+    <string name="a22_kap16_kom_tem2_rz5">&#8230; ist &#8230; . Die &#214;ffnungszeiten sind &#8230; .</string>
     <string name="a22_kap16_kom_tem2_rz6">Vielen Dank!</string>
-    <string name="a22_kap16_kom_tem2_rz7">Ich wuensche Ihnen viel Spass.</string>
+    <string name="a22_kap16_kom_tem2_rz7">Ich w&#252;nsche Ihnen viel Spass.</string>
     <string name="a22_kap16_kom_tem3">einen Weg beschreiben</string>
-    <string name="a22_kap16_kom_tem3_rz1">Am besten gehen Sie geradeaus / nach rechts / nach links / am Fruehstuecksraum vorbei / durch die Empfangshalle / ...</string>
-    <string name="a22_kap16_kom_tem3_rz2">Und dann gehen Sie durch die Glastuer / ins Treppenhaus / in den Keller.</string>
+    <string name="a22_kap16_kom_tem3_rz1">Am besten gehen Sie geradeaus / nach rechts / nach links / am Fr&#252;hst&#252;cksraum vorbei / durch die Empfangshalle / &#8230;</string>
+    <string name="a22_kap16_kom_tem3_rz2">Und dann gehen Sie durch die Glast&#252;r / ins Treppenhaus / in den Keller.</string>
     <string name="a22_kap16_kom_tem3_rz3">Nehmen Sie die Treppe nach unten / oben.</string>
-    <string name="a22_kap16_kom_tem3_rz4">Die Sauna liegt / ist gegenueber vom Schwimmbad / neben ... / zwischen ... und ... .</string>
+    <string name="a22_kap16_kom_tem3_rz4">Die Sauna liegt / ist gegen&#252;ber vom Schwimmbad / neben &#8230; / zwischen &#8230; und &#8230; .</string>
 
 
 </resources>
