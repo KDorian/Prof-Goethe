@@ -1549,6 +1549,8 @@
     <string name="a22_kap15_kom_tem1_rz9">Danach / Anschlie&#223;end &#8230;</string>
     <string name="a22_kap15_kom_tem1_rz10">Meine Lieblingssendung ist &#8230;</string>
     <string name="a22_kap15_kom_tem1_rz11">Ich habe keine Lieblingssendung.</string>
+
+
     <string name="a22_kap16_gram_tem1">indirekte Fragen</string>
     <string name="a22_kap16_gram_tem1_rz1">Ich wuerde gern wissen, ob Sie noch ein Zimmer frei haben?</string>
     <string name="a22_kap16_gram_tem1_rz2">Darf ich fragen, wie lange Sie bleiben moechten?</string>
@@ -1574,6 +1576,19 @@
     <string name="a22_kap16_kom_tem1_rz6">Ja, gern.</string>
     <string name="a22_kap16_kom_tem1_rz7">Hier ist Ihr Schluessel. Ich wuensche Ihnen einen angenehmen Aufenthalt.</string>
     <string name="a22_kap16_kom_tem1_rz8">Vielen Dank.</string>
+    <string name="a22_kap16_kom_tem2">im Hotel: um Informationen bitten</string>
+    <string name="a22_kap16_kom_tem2_rz1">Guten Tag, kann ich Ihnen helfen?</string>
+    <string name="a22_kap16_kom_tem2_rz2">Ich moechte gern wissen, wann ... geoeffnet hat.</string>
+    <string name="a22_kap16_kom_tem2_rz3">... hat von Montag bis Freitag von ... bis ... Uhr geoeffnet und am Wochenende von ... bis ... .</string>
+    <string name="a22_kap16_kom_tem2_rz4">Sehr gut, vielen Dank. Und koennen Sie mir  sagen, wo ... ist?</string>
+    <string name="a22_kap16_kom_tem2_rz5">... ist ... . Die Oeffnungszeiten sind ... .</string>
+    <string name="a22_kap16_kom_tem2_rz6">Vielen Dank!</string>
+    <string name="a22_kap16_kom_tem2_rz7">Ich wuensche Ihnen viel Spass.</string>
+    <string name="a22_kap16_kom_tem3">einen Weg beschreiben</string>
+    <string name="a22_kap16_kom_tem3_rz1">Am besten gehen Sie geradeaus / nach rechts / nach links / am Fruehstuecksraum vorbei / durch die Empfangshalle / ...</string>
+    <string name="a22_kap16_kom_tem3_rz2">Und dann gehen Sie durch die Glastuer / ins Treppenhaus / in den Keller.</string>
+    <string name="a22_kap16_kom_tem3_rz3">Nehmen Sie die Treppe nach unten / oben.</string>
+    <string name="a22_kap16_kom_tem3_rz4">Die Sauna liegt / ist gegenueber vom Schwimmbad / neben ... / zwischen ... und ... .</string>
 
 
 </resources>
