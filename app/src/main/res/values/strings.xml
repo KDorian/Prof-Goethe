@@ -236,7 +236,7 @@
     <string name="kap02_kom_tem1_rz1">Was sind Sie / bist du von Beruf?</string>
     <string name="kap02_kom_tem1_rz2">Was machen Sie / machst du beruflich?</string>
     <string name="kap02_kom_tem1_rz3">Ich bin / arbeite als &#8230; bei &#8230; .</string>
-    <string name="kap02_kom_tem1_rz4">Ich bin Student / Schuelerin.</string>
+    <string name="kap02_kom_tem1_rz4">Ich bin Student / Sch&#252;lerin.</string>
     <string name="kap02_kom_tem1_rz5">Ich habe einen Job als &#8230; .</string>
     <string name="kap02_kom_tem1_rz6">Ich mache eine Ausbildung als &#8230; / ein Praktikum bei &#8230; .</string>
     <string name="kap02_kom_tem2">&#252;ber Pers&#246;nliches sprechen</string>
@@ -390,7 +390,7 @@
     <string name="kap06_kom_tem1_rz2">Christian Schmidt. / Schmidt.</string>
     <string name="kap06_kom_tem1_rz3">Guten Tag. / Hallo. Hier ist &#8230; .</string>
     <string name="kap06_kom_tem1_rz4">&#8230; hier.</string>
-    <string name="kap06_kom_tem1_rz5">Tschues. / Auf Wiederh&#246;ren. / Auf Wiedersehen.</string>
+    <string name="kap06_kom_tem1_rz5">Tsch&#252;s. / Auf Wiederh&#246;ren. / Auf Wiedersehen.</string>
 
 
     <string name="kap07_gram_tem1">Modalverb k&#246;nnen: Konjugation</string>
@@ -444,7 +444,7 @@
     <string name="kap08_kom_tem2">einen Vorschlag machen und darauf reagieren</string>
     <string name="kap08_kom_tem2_rz1">Gehen wir ins Kino / &#8230; ?</string>
     <string name="kap08_kom_tem2_rz2">Lust auf Schwimmbad?</string>
-    <string name="kap08_kom_tem2_rz3">Vielleicht koennen wir morgen Abend in(s) &#8230; gehen?</string>
+    <string name="kap08_kom_tem2_rz3">Vielleicht k&#246;nnen wir morgen Abend in(s) &#8230; gehen?</string>
     <string name="kap08_kom_tem2_rz4">Nein, leider nicht. Ich habe keine Zeit.</string>
     <string name="kap08_kom_tem2_rz5">Tut mir leid, ich habe keine Lust.</string>
     <string name="kap08_kom_tem2_rz6">Ich kann leider nicht. Ich gehe &#8230; .</string>
@@ -483,7 +483,7 @@
     <string name="kap09_gram_tem3_rz4">der Fisch + die Suppe</string>
     <string name="kap09_kom_tem1">&#252;ber Essen / Essgewohnheiten sprechen</string>
     <string name="kap09_kom_tem1_rz1">Was isst du gern zum Fr&#252;hst&#252;ck?</string>
-    <string name="kap09_kom_tem1_rz2">Ich esse gern K&#228;sebroetchen / &#8230; zum Fr&#252;hst&#252;ck. Und du?</string>
+    <string name="kap09_kom_tem1_rz2">Ich esse gern K&#228;sebr&#246;tchen / &#8230; zum Fr&#252;hst&#252;ck. Und du?</string>
     <string name="kap09_kom_tem1_rz3">Ich mag keinen K&#228;se / &#8230; , aber M&#252;sli / &#8230; esse ich gern.</string>
     <string name="kap09_kom_tem1_rz4">Wann fr&#252;hst&#252;ckst du?</string>
     <string name="kap09_kom_tem1_rz5">In der Woche fr&#252;hst&#252;cke ich oft erst um sechs Uhr. Am Wochenende / Sonntag fr&#252;hst&#252;cke ich oft erst um elf Uhr.</string>
@@ -584,7 +584,7 @@
     <string name="kap12_gram_tem2_rz10">angekommen</string>
     <string name="kap12_kom_tem1">&#252;ber Reisen sprechen (Vergangenheit)</string>
     <string name="kap12_kom_tem1_rz1">Henry ist vor drei Monaten nach Deutschland / Hamburg gekommen.</string>
-    <string name="kap12_kom_tem1_rz2">Letztes Jahr ist er nach Muenchen / in die Schweiz geflogen.</string>
+    <string name="kap12_kom_tem1_rz2">Letztes Jahr ist er nach M&#252;nchen / in die Schweiz geflogen.</string>
     <string name="kap12_kom_tem2">&#252;ber die Feste sprechen</string>
     <string name="kap12_kom_tem2_rz1">Das Fest hei&#223;t &#8230; / ist in &#8230; / hat &#8230; Besucher / dauert &#8230; / gibt es seit &#8230;</string>
     <string name="kap12_kom_tem2_rz2">Wir haben Musik geh&#246;rt, getanzt und viele nette Leute getroffen.</string>
@@ -609,7 +609,7 @@
     <string name="kap13_gram_tem1_rz12">einem Caf&#233;</string>
     <string name="kap13_gram_tem1_rz13">einer Post</string>
     <string name="kap13_gram_tem1_rz14">- Banken</string>
-    <string name="kap13_gram_tem1_rz15">auch so: auf, an, vor, hinter, zwischen, ueber, unter, in</string>
+    <string name="kap13_gram_tem1_rz15">auch so: auf, an, vor, hinter, zwischen, &#252;ber, unter, in</string>
     <string name="kap13_gram_tem1_rz16">! in dem = im ; an dem = am</string>
     <string name="kap13_kom_tem1">jemanden um Hilfe bitten</string>
     <string name="kap13_kom_tem1_rz1">Entschuldigung!</string>
@@ -675,7 +675,7 @@
     <string name="kap14_kom_tem2">H&#228;user und Wohnungen bewerten</string>
     <string name="kap14_kom_tem2_rz1">Ich finde &#8230; interessant / langweilig / &#8230;</string>
     <string name="kap14_kom_tem2_rz2">&#8230; mag ich besonders / gar nicht / nicht so.</string>
-    <string name="kap14_kom_tem2_rz3">Aber / Und &#8230; sieht toll / &#8230; nicht so schoen aus.</string>
+    <string name="kap14_kom_tem2_rz3">Aber / Und &#8230; sieht toll / &#8230; nicht so sch&#246;n aus.</string>
 
 
     <string name="er_es">er /es</string>
@@ -764,7 +764,7 @@
     <string name="kap17_kom_tem1">W&#252;nsche &#228;u&#223;ern / &#252;ber Pl&#228;ne sprechen</string>
     <string name="kap17_kom_tem1_rz1">Ich will unbedingt noch / vielleicht / auf keinen Fall.</string>
     <string name="kap17_kom_tem1_rz2">Ich will &#8230; werden.</string>
-    <string name="kap17_kom_tem1_rz3">Ich moechte (bald) &#8230; .</string>
+    <string name="kap17_kom_tem1_rz3">Ich m&#246;chte (bald) &#8230; .</string>
     <string name="kap17_kom_tem1_rz4">F&#252;r mich sind &#8230; und &#8230; besonders wichtig.</string>
 
 
@@ -1025,7 +1025,7 @@
     <string name="kap24_gram_tem1_rz1">Heute ist der achte Januar.</string>
     <string name="kap24_gram_tem1_rz2">1.-19.: + -te:</string>
     <string name="kap24_gram_tem1_rz3">
-        der erste\nder zweite\nder dritte\nder vierte\nder fuenfte\nder sechste\nder siebte\nder achte\nder neunte\n&#8230;
+        der erste\nder zweite\nder dritte\nder vierte\nder f&#252;nfte\nder sechste\nder siebte\nder achte\nder neunte\n&#8230;
     </string>
     <string name="kap24_gram_tem1_rz4">ab 20.: + ste:</string>
     <string name="kap24_gram_tem1_rz5">der zwanzigste\nder einundzwanzigste\n&#8230;</string>
@@ -1180,7 +1180,7 @@
     <string name="a21_kap03_gram_tem1_rz3">auch so: vermieten, mieten, fahren, surfen &#8230;</string>
     <string name="a21_kap03_gram_tem2">Verb + -ung -> Nomen</string>
     <string name="a21_kap03_gram_tem2_rz1">erfahr-en + -ung -> die Erfahrung</string>
-    <string name="a21_kap03_gram_tem2_rz2">auch so: ordnen, erholen, entspannen, anstrengen, ausr&#252;sten, uebernachten, wardern, anmelden, beraten &#8230;</string>
+    <string name="a21_kap03_gram_tem2_rz2">auch so: ordnen, erholen, entspannen, anstrengen, ausr&#252;sten, &#252;bernachten, wardern, anmelden, beraten &#8230;</string>
     <string name="a21_kap03_kom_tem1">etwas bewerten</string>
     <string name="a21_kap03_kom_tem1_rz1">Welche Idee gef&#228;llt Ihnen am besten?</string>
     <string name="a21_kap03_kom_tem1_rz2">Also ich finde / denke / mag &#8230;</string>
@@ -1591,36 +1591,36 @@
     <string name="a22_kap16_kom_tem3_rz4">Die Sauna liegt / ist gegen&#252;ber vom Schwimmbad / neben &#8230; / zwischen &#8230; und &#8230; .</string>
 
 
-    <string name="a22_kap17_gram_tem1">lokale Praepositionen</string>
+    <string name="a22_kap17_gram_tem1">lokale Pr&#228;positionen</string>
     <string name="a22_kap17_gram_tem1_rz1">Wohin? + Akkusativ</string>
     <string name="a22_kap17_gram_tem1_rz2">ans Meer</string>
-    <string name="a22_kap17_gram_tem1_rz3">an die Kueste</string>
+    <string name="a22_kap17_gram_tem1_rz3">an die K&#252;ste</string>
     <string name="a22_kap17_gram_tem1_rz4">an den Bodensee / Strand</string>
     <string name="a22_kap17_gram_tem1_rz5">auf eine Insel</string>
     <string name="a22_kap17_gram_tem1_rz6">aufs Land</string>
-    <string name="a22_kap17_gram_tem1_rz7">in die Wueste / die Berge / den Sueden / Wald</string>
+    <string name="a22_kap17_gram_tem1_rz7">in die W&#252;ste / die Berge / den S&#252;den / Wald</string>
     <string name="a22_kap17_gram_tem1_rz8">ins Gebirge</string>
-    <string name="a22_kap17_gram_tem1_rz9">nach Rumaenien / Berlin</string>
+    <string name="a22_kap17_gram_tem1_rz9">nach Rum&#228;nien / Berlin</string>
     <string name="a22_kap17_gram_tem1_rz10">! in die Schweiz</string>
     <string name="a22_kap17_gram_tem1_rz11">Wo? + Dativ</string>
     <string name="a22_kap17_gram_tem1_rz12">am Meer</string>
-    <string name="a22_kap17_gram_tem1_rz13">an der Kueste</string>
+    <string name="a22_kap17_gram_tem1_rz13">an der K&#252;ste</string>
     <string name="a22_kap17_gram_tem1_rz14">am Bodensee / Strand</string>
     <string name="a22_kap17_gram_tem1_rz15">auf einer Insel</string>
     <string name="a22_kap17_gram_tem1_rz16">auf dem Land</string>
-    <string name="a22_kap17_gram_tem1_rz17">in der Wueste / den Bergen</string>
-    <string name="a22_kap17_gram_tem1_rz18">im Wald / Gebirge / Sueden</string>
-    <string name="a22_kap17_gram_tem1_rz19">in Rumaenien / Berlin</string>
+    <string name="a22_kap17_gram_tem1_rz17">in der W&#252;ste / den Bergen</string>
+    <string name="a22_kap17_gram_tem1_rz18">im Wald / Gebirge / S&#252;den</string>
+    <string name="a22_kap17_gram_tem1_rz19">in Rum&#228;nien / Berlin</string>
     <string name="a22_kap17_gram_tem1_rz20">! in der Schweiz</string>
     <string name="a22_kap17_kom_tem1">etwas kommentieren</string>
-    <string name="a22_kap17_kom_tem1_rz1">Nicht zu glauben! Es gibt noch Sandstrassen in Europa / ...</string>
-    <string name="a22_kap17_kom_tem1_rz2">So ein Zufall! Ich war auch schon einmal auf dem Friedhof / in ...</string>
-    <string name="a22_kap17_kom_tem1_rz3">Die Strassen / Der Markt ... sehen / sieht schrecklich / toll / interessant / ... aus.</string>
-    <string name="a22_kap17_kom_tem1_rz4">Ist das nicht schoen / spannend / langweilig / unangenehm / ... ?</string>
-    <string name="a22_kap17_kom_tem1_rz5">Ich finde das toll / prima / schlimm / ... .</string>
-    <string name="a22_kap17_kom_tem1_rz6">Das hat sicher Spass gemacht.</string>
-    <string name="a22_kap17_kom_tem1_rz7">Das war sicher / bestimmt anstrengend / interessant / ...</string>
-    <string name="a22_kap17_kom_tem1_rz8">So ein Pech! Das ist wirklich aergerlich!</string>
+    <string name="a22_kap17_kom_tem1_rz1">Nicht zu glauben! Es gibt noch Sandstra&#223;en in Europa / &#8230;</string>
+    <string name="a22_kap17_kom_tem1_rz2">So ein Zufall! Ich war auch schon einmal auf dem Friedhof / in &#8230;</string>
+    <string name="a22_kap17_kom_tem1_rz3">Die Stra&#223;en / Der Markt &#8230; sehen / sieht schrecklich / toll / interessant / &#8230; aus.</string>
+    <string name="a22_kap17_kom_tem1_rz4">Ist das nicht sch&#246;n / spannend / langweilig / unangenehm / &#8230; ?</string>
+    <string name="a22_kap17_kom_tem1_rz5">Ich finde das toll / prima / schlimm / &#8230; .</string>
+    <string name="a22_kap17_kom_tem1_rz6">Das hat sicher Spa&#223; gemacht.</string>
+    <string name="a22_kap17_kom_tem1_rz7">Das war sicher / bestimmt anstrengend / interessant / &#8230;</string>
+    <string name="a22_kap17_kom_tem1_rz8">So ein Pech! Das ist wirklich &#228;rgerlich!</string>
 
 
 </resources>
