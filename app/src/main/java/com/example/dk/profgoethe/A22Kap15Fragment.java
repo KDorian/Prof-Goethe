@@ -31,7 +31,7 @@ public class A22Kap15Fragment extends Fragment {
 
         // Set the Text to try this out
         TextView t = (TextView) myInflatedView.findViewById(R.id.textView2559);
-        String first = "<font color='#00FF00'>Wem? (Person)</font>.";
+        String first = "<font color='#00FF00'>Wem? (Person)</font>";
         t.setText(Html.fromHtml(first));
 
         TextView t1 = (TextView) myInflatedView.findViewById(R.id.textView2560);
@@ -47,11 +47,11 @@ public class A22Kap15Fragment extends Fragment {
         t3.setText(Html.fromHtml(first3));
 
         TextView t4 = (TextView) myInflatedView.findViewById(R.id.textView2572);
-        String first4 = "<font color='#00FF00'>Wem? (Person) Dativ</font>.";
+        String first4 = "<font color='#00FF00'>Wem? (Person) Dativ</font>";
         t4.setText(Html.fromHtml(first4));
 
         TextView t5 = (TextView) myInflatedView.findViewById(R.id.textView2573);
-        String first5 = "<font color='#00FF00'>den Zuschauern / ihnen</font>.";
+        String first5 = "<font color='#00FF00'>den Zuschauern / ihnen</font>";
         t5.setText(Html.fromHtml(first5));
 
         TextView t6 = (TextView) myInflatedView.findViewById(R.id.textView2576);
@@ -71,11 +71,11 @@ public class A22Kap15Fragment extends Fragment {
         t9.setText(Html.fromHtml(first9));
 
         TextView t10 = (TextView) myInflatedView.findViewById(R.id.textView2578);
-        String first10 = "<font color='#00FF00'>Wem? (Person) Dativ</font>.";
+        String first10 = "<font color='#00FF00'>Wem? (Person) Dativ</font>";
         t10.setText(Html.fromHtml(first10));
 
         TextView t11 = (TextView) myInflatedView.findViewById(R.id.textView2579);
-        String first11 = "<font color='#00FF00'>den Zuschauern. / ihnen.</font>.";
+        String first11 = "<font color='#00FF00'>den Zuschauern. / ihnen.</font>";
         t11.setText(Html.fromHtml(first11));
 
         return myInflatedView;
