@@ -78,6 +78,9 @@ public class A22Activity extends ActionBarActivity {
                     case 5:  //A2.2. Kapitel17
                         fragment = new A22Kap17Fragment();
                         break;
+                    case 6:  //A2.2. Kapitel18
+                        fragment = new A22Kap18Fragment();
+                        break;
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
                 setTitle(mDrawerOptionLabels[position]);
