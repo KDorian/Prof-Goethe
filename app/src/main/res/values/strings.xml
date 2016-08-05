@@ -1591,4 +1591,36 @@
     <string name="a22_kap16_kom_tem3_rz4">Die Sauna liegt / ist gegen&#252;ber vom Schwimmbad / neben &#8230; / zwischen &#8230; und &#8230; .</string>
 
 
+    <string name="a22_kap17_gram_tem1">lokale Praepositionen</string>
+    <string name="a22_kap17_gram_tem1_rz1">Wohin? + Akkusativ</string>
+    <string name="a22_kap17_gram_tem1_rz2">ans Meer</string>
+    <string name="a22_kap17_gram_tem1_rz3">an die Kueste</string>
+    <string name="a22_kap17_gram_tem1_rz4">an den Bodensee / Strand</string>
+    <string name="a22_kap17_gram_tem1_rz5">auf eine Insel</string>
+    <string name="a22_kap17_gram_tem1_rz6">aufs Land</string>
+    <string name="a22_kap17_gram_tem1_rz7">in die Wueste / die Berge / den Sueden / Wald</string>
+    <string name="a22_kap17_gram_tem1_rz8">ins Gebirge</string>
+    <string name="a22_kap17_gram_tem1_rz9">nach Rumaenien / Berlin</string>
+    <string name="a22_kap17_gram_tem1_rz10">! in die Schweiz</string>
+    <string name="a22_kap17_gram_tem1_rz11">Wo? + Dativ</string>
+    <string name="a22_kap17_gram_tem1_rz12">am Meer</string>
+    <string name="a22_kap17_gram_tem1_rz13">an der Kueste</string>
+    <string name="a22_kap17_gram_tem1_rz14">am Bodensee / Strand</string>
+    <string name="a22_kap17_gram_tem1_rz15">auf einer Insel</string>
+    <string name="a22_kap17_gram_tem1_rz16">auf dem Land</string>
+    <string name="a22_kap17_gram_tem1_rz17">in der Wueste / den Bergen</string>
+    <string name="a22_kap17_gram_tem1_rz18">im Wald / Gebirge / Sueden</string>
+    <string name="a22_kap17_gram_tem1_rz19">in Rumaenien / Berlin</string>
+    <string name="a22_kap17_gram_tem1_rz20">! in der Schweiz</string>
+    <string name="a22_kap17_kom_tem1">etwas kommentieren</string>
+    <string name="a22_kap17_kom_tem1_rz1">Nicht zu glauben! Es gibt noch Sandstrassen in Europa / ...</string>
+    <string name="a22_kap17_kom_tem1_rz2">So ein Zufall! Ich war auch schon einmal auf dem Friedhof / in ...</string>
+    <string name="a22_kap17_kom_tem1_rz3">Die Strassen / Der Markt ... sehen / sieht schrecklich / toll / interessant / ... aus.</string>
+    <string name="a22_kap17_kom_tem1_rz4">Ist das nicht schoen / spannend / langweilig / unangenehm / ... ?</string>
+    <string name="a22_kap17_kom_tem1_rz5">Ich finde das toll / prima / schlimm / ... .</string>
+    <string name="a22_kap17_kom_tem1_rz6">Das hat sicher Spass gemacht.</string>
+    <string name="a22_kap17_kom_tem1_rz7">Das war sicher / bestimmt anstrengend / interessant / ...</string>
+    <string name="a22_kap17_kom_tem1_rz8">So ein Pech! Das ist wirklich aergerlich!</string>
+
+
 </resources>
