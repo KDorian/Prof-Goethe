@@ -1664,4 +1664,37 @@
     <string name="a22_kap18_gram_tem2_rz22">* bei Pr&#228;positionen mit Vokal: auf, &#252;ber</string>
 
 
+    <string name="a22_kap19_gram_tem1">lokale Praepositionen</string>
+    <string name="a22_kap19_gram_tem1_rz1">Orte</string>
+    <string name="a22_kap19_gram_tem1_rz2">Aktivitaeten</string>
+    <string name="a22_kap19_gram_tem1_rz3">Personen</string>
+    <string name="a22_kap19_gram_tem1_rz4">Woher?</string>
+    <string name="a22_kap19_gram_tem1_rz5">aus dem Kino / Cafe\'</string>
+    <string name="a22_kap19_gram_tem1_rz6">vom Sport / Essen</string>
+    <string name="a22_kap19_gram_tem1_rz7">vom Arzt / von Jana</string>
+    <string name="a22_kap19_gram_tem1_rz8">Wo?</string>
+    <string name="a22_kap19_gram_tem1_rz9">im Kino / Cafe\'</string>
+    <string name="a22_kap19_gram_tem1_rz10">beim Sport / Essen</string>
+    <string name="a22_kap19_gram_tem1_rz11">beim Arzt / bei Jana</string>
+    <string name="a22_kap19_gram_tem1_rz12">Wohin?</string>
+    <string name="a22_kap19_gram_tem1_rz13">ins Kino / Cafe\'</string>
+    <string name="a22_kap19_gram_tem1_rz14">zum Sport / Essen</string>
+    <string name="a22_kap19_gram_tem1_rz15">zum Arzt / zu Jana</string>
+    <string name="a22_kap19_kom_tem1">auf Vorschlaege zoegernd reagieren</string>
+    <string name="a22_kap19_kom_tem1_rz1">Und das ist gut?</string>
+    <string name="a22_kap19_kom_tem1_rz2">Also, ich weiss nicht. Das hoert sich ja nicht so toll an.</string>
+    <string name="a22_kap19_kom_tem1_rz3">Ist das nicht eher langweilig / uninteressant /  ... ?</string>
+    <string name="a22_kap19_kom_tem2">jemanden ueberzeugen / begeistern</string>
+    <string name="a22_kap19_kom_tem2_rz1">Glaub mir. Das ist mal etwas anderes / Neues / Besonderes.</string>
+    <string name="a22_kap19_kom_tem2_rz2">Unsinn!</string>
+    <string name="a22_kap19_kom_tem2_rz3">Probier / Versuch das doch mal.</string>
+    <string name="a22_kap19_kom_tem2_rz4">Sieh das doch positiv / nicht so negativ.</string>
+    <string name="a22_kap19_kom_tem2_rz5">Bist du denn gar nicht neugierig?</string>
+    <string name="a22_kap19_kom_tem2_rz6">Das lohnt sich bestimmt.</string>
+    <string name="a22_kap19_kom_tem3">sich ueberzeugen lassen</string>
+    <string name="a22_kap19_kom_tem3_rz1">Du hast recht. / Das ist wahr. / Schon gut.</string>
+    <string name="a22_kap19_kom_tem3_rz2">Ein Poetry Slam / ... ist doch / ja wirklich mal etwas anderes / Neues / Besonderes.</string>
+    <string name="a22_kap19_kom_tem3_rz3">Lass uns da hingehen.</string>
+
+
 </resources>
