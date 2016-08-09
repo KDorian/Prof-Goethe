@@ -1697,8 +1697,8 @@
     <string name="a22_kap19_kom_tem3_rz3">Lass uns da hingehen.</string>
 
 
-    <string name="a22_kap20_gram_tem1">Modalverben: Praeteritum</string>
-    <string name="a22_kap20_gram_tem1_rz1">koennen</string>
+    <string name="a22_kap20_gram_tem1">Modalverben: Pr&#228;teritum</string>
+    <string name="a22_kap20_gram_tem1_rz1">k&#246;nnen</string>
     <string name="a22_kap20_gram_tem1_rz2">konnte</string>
     <string name="a22_kap20_gram_tem1_rz3">konntest</string>
     <string name="a22_kap20_gram_tem1_rz4">konnte</string>
@@ -1719,41 +1719,41 @@
     <string name="a22_kap20_gram_tem1_rz19">sollten</string>
     <string name="a22_kap20_gram_tem1_rz20">solltet</string>
     <string name="a22_kap20_gram_tem1_rz21">sollten</string>
-    <string name="a22_kap20_gram_tem1_rz22">duerfen</string>
+    <string name="a22_kap20_gram_tem1_rz22">d&#252;rfen</string>
     <string name="a22_kap20_gram_tem1_rz23">durfte</string>
     <string name="a22_kap20_gram_tem1_rz24">durftest</string>
     <string name="a22_kap20_gram_tem1_rz25">durfte</string>
     <string name="a22_kap20_gram_tem1_rz26">durften</string>
     <string name="a22_kap20_gram_tem1_rz27">durftet</string>
     <string name="a22_kap20_gram_tem1_rz28">durften</string>
-    <string name="a22_kap20_gram_tem1_rz29">muessen</string>
+    <string name="a22_kap20_gram_tem1_rz29">m&#252;ssen</string>
     <string name="a22_kap20_gram_tem1_rz30">musste</string>
     <string name="a22_kap20_gram_tem1_rz31">musstest</string>
     <string name="a22_kap20_gram_tem1_rz32">musste</string>
     <string name="a22_kap20_gram_tem1_rz33">mussten</string>
     <string name="a22_kap20_gram_tem1_rz34">musstet</string>
     <string name="a22_kap20_gram_tem1_rz35">mussten</string>
-    <string name="a22_kap20_gram_tem1_rz36">moegen</string>
+    <string name="a22_kap20_gram_tem1_rz36">m&#246;gen</string>
     <string name="a22_kap20_gram_tem1_rz37">mochte</string>
     <string name="a22_kap20_gram_tem1_rz38">mochtest</string>
     <string name="a22_kap20_gram_tem1_rz39">mochte</string>
     <string name="a22_kap20_gram_tem1_rz40">mochten</string>
     <string name="a22_kap20_gram_tem1_rz41">mochtet</string>
     <string name="a22_kap20_gram_tem1_rz42">mochten</string>
-    <string name="a22_kap20_kom_tem1">Interesse / Desinteresse ausdruecken</string>
-    <string name="a22_kap20_kom_tem1_rz1">Liest du gern Romane / ... ?</string>
-    <string name="a22_kap20_kom_tem1_rz2">Interessierst du dich fuer ... ?</string>
+    <string name="a22_kap20_kom_tem1">Interesse / Desinteresse ausdr&#252;cken</string>
+    <string name="a22_kap20_kom_tem1_rz1">Liest du gern Romane / &#8230; ?</string>
+    <string name="a22_kap20_kom_tem1_rz2">Interessierst du dich f&#252;r &#8230; ?</string>
     <string name="a22_kap20_kom_tem1_rz3">Interessiert dich das denn nicht?</string>
-    <string name="a22_kap20_kom_tem1_rz4">Hast du ueberhaupt kein Interesse daran?</string>
+    <string name="a22_kap20_kom_tem1_rz4">Hast du &#252;berhaupt kein Interesse daran?</string>
     <string name="a22_kap20_kom_tem1_rz5">Ja, und wie!</string>
     <string name="a22_kap20_kom_tem1_rz6">Das interessiert mich sehr.</string>
-    <string name="a22_kap20_kom_tem1_rz7">Doch, ich habe grosses Interesse daran.</string>
+    <string name="a22_kap20_kom_tem1_rz7">Doch, ich habe gro&#223;es Interesse daran.</string>
     <string name="a22_kap20_kom_tem1_rz8">Na ja, es geht.</string>
     <string name="a22_kap20_kom_tem1_rz9">Nicht so.</string>
     <string name="a22_kap20_kom_tem1_rz10">Nicht besonders.</string>
-    <string name="a22_kap20_kom_tem1_rz11">Nein, lieber ...</string>
-    <string name="a22_kap20_kom_tem1_rz12">Das interessiert mich ueberhaupt nicht.</string>
-    <string name="a22_kap20_kom_tem1_rz13">Nein, ... finde ich ehrlich gesagt langweilig.</string>
+    <string name="a22_kap20_kom_tem1_rz11">Nein, lieber &#8230;</string>
+    <string name="a22_kap20_kom_tem1_rz12">Das interessiert mich &#252;berhaupt nicht.</string>
+    <string name="a22_kap20_kom_tem1_rz13">Nein, &#8230; finde ich ehrlich gesagt langweilig.</string>
 
 
 </resources>
