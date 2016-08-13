@@ -1754,7 +1754,9 @@
     <string name="a22_kap20_kom_tem1_rz11">Nein, lieber &#8230;</string>
     <string name="a22_kap20_kom_tem1_rz12">Das interessiert mich &#252;berhaupt nicht.</string>
     <string name="a22_kap20_kom_tem1_rz13">Nein, &#8230; finde ich ehrlich gesagt langweilig.</string>
-    <string name="a22_kap21_gram_tem1">Frageartikel welch-? - Demonstrativpronomen dieser, der</string>
+
+
+    <string name="a22_kap21_gram_tem1">Frageartikel welch-? und Demonstrativpronomen dieser, der</string>
     <string name="a22_kap21_gram_tem1_rz1">Welcher?</string>
     <string name="a22_kap21_gram_tem1_rz2">Welches?</string>
     <string name="a22_kap21_gram_tem1_rz3">Welche?</string>
@@ -1780,8 +1782,8 @@
     <string name="a22_kap21_gram_tem1_rz23">Dieser. / Der da.</string>
     <string name="a22_kap21_gram_tem1_rz24">Diesen. / Denen dort.</string>
     <string name="a22_kap21_gram_tem2_rz1">lasse</string>
-    <string name="a22_kap21_gram_tem2_rz2">laesst</string>
-    <string name="a22_kap21_gram_tem2_rz3">laesst</string>
+    <string name="a22_kap21_gram_tem2_rz2">l&#228;sst</string>
+    <string name="a22_kap21_gram_tem2_rz3">l&#228;sst</string>
     <string name="a22_kap21_gram_tem2_rz4">lassen</string>
     <string name="a22_kap21_gram_tem2_rz5">lasst</string>
     <string name="a22_kap21_gram_tem2_rz6">lassen</string>
@@ -1789,13 +1791,13 @@
     <string name="a22_kap21_kom_tem1">um einen Bericht / eine Beschreibung bitten</string>
     <string name="a22_kap21_kom_tem1_rz1">Wo waren Sie?</string>
     <string name="a22_kap21_kom_tem1_rz2">Was haben Sie gemacht?</string>
-    <string name="a22_kap21_kom_tem1_rz3">Gibt es dafuer Zeugen?</string>
-    <string name="a22_kap21_kom_tem1_rz4">Koennen Sie das / ihn / sie naeher beschreiben?</string>
-    <string name="a22_kap21_kom_tem1_rz5">Worueber haben Sie gesprochen?</string>
-    <string name="a22_kap21_kom_tem1_rz6">Erzaehlen Sie doch mal!</string>
+    <string name="a22_kap21_kom_tem1_rz3">Gibt es daf&#252;r Zeugen?</string>
+    <string name="a22_kap21_kom_tem1_rz4">K&#246;nnen Sie das / ihn / sie n&#228;her beschreiben?</string>
+    <string name="a22_kap21_kom_tem1_rz5">Wor&#252;ber haben Sie gesprochen?</string>
+    <string name="a22_kap21_kom_tem1_rz6">Erz&#228;hlen Sie doch mal!</string>
     <string name="a22_kap21_kom_tem2">etwas berichten / beschreiben</string>
-    <string name="a22_kap21_kom_tem2_rz1">Wir haben ueber ... gesprochen.</string>
-    <string name="a22_kap21_kom_tem2_rz2">Ich kann dazu nur sagen, dass ... .</string>
+    <string name="a22_kap21_kom_tem2_rz1">Wir haben &#252;ber &#8230; gesprochen.</string>
+    <string name="a22_kap21_kom_tem2_rz2">Ich kann dazu nur sagen, dass &#8230; .</string>
     <string name="a22_kap21_kom_tem2_rz3">Daran kann ich mich nicht mehr erinnern.</string>
     <string name="a22_kap21_gram_tem2">Verb lassen</string>
 
