@@ -1815,13 +1815,13 @@
     <string name="a22_kap22_gram_tem1_rz6">Ich bin sehr viel unterwegs,</string>
     <string name="a22_kap22_gram_tem1_rz7">bis ich gemerkt habe: Das lohnt sich nicht.</string>
     <string name="a22_kap22_gram_tem1_rz8">seit(dem) ich als Firmenberaterin arbeite.</string>
-    <string name="a22_kap22_kom_tem1">etwas erklaeren</string>
-    <string name="a22_kap22_kom_tem1_rz1">Wie geht das? Koennen Sie mir das erklaeren?</string>
-    <string name="a22_kap22_kom_tem1_rz2">Koennen Sie mir sagen, wie das funktioniert?</string>
+    <string name="a22_kap22_kom_tem1">etwas erkl&#228;ren</string>
+    <string name="a22_kap22_kom_tem1_rz1">Wie geht das? K&#246;nnen Sie mir das erkl&#228;ren?</string>
+    <string name="a22_kap22_kom_tem1_rz2">K&#246;nnen Sie mir sagen, wie das funktioniert?</string>
     <string name="a22_kap22_kom_tem1_rz3">Kein Problem! Gern. / Na klar! Das ist ganz einfach.</string>
-    <string name="a22_kap22_kom_tem1_rz4">Zuerst muessen Sie ... .</string>
-    <string name="a22_kap22_kom_tem1_rz5">Dann / Danach Und dann ... .</string>
-    <string name="a22_kap22_kom_tem1_rz6">Zuletzt muessen Sie ... .</string>
+    <string name="a22_kap22_kom_tem1_rz4">Zuerst m&#252;ssen Sie &#8230; .</string>
+    <string name="a22_kap22_kom_tem1_rz5">Dann / Danach Und dann &#8230; .</string>
+    <string name="a22_kap22_kom_tem1_rz6">Zuletzt m&#252;ssen Sie &#8230; .</string>
 
 
 </resources>
