@@ -1820,8 +1820,10 @@
     <string name="a22_kap22_kom_tem1_rz2">K&#246;nnen Sie mir sagen, wie das funktioniert?</string>
     <string name="a22_kap22_kom_tem1_rz3">Kein Problem! Gern. / Na klar! Das ist ganz einfach.</string>
     <string name="a22_kap22_kom_tem1_rz4">Zuerst m&#252;ssen Sie &#8230; .</string>
-    <string name="a22_kap22_kom_tem1_rz5">Dann / Danach Und dann &#8230; .</string>
+    <string name="a22_kap22_kom_tem1_rz5">Dann / Danach und dann &#8230; .</string>
     <string name="a22_kap22_kom_tem1_rz6">Zuletzt m&#252;ssen Sie &#8230; .</string>
+
+
     <string name="a22_kap23_gram_tem1">Relativpronomen und Relativsatz</string>
     <string name="a22_kap23_gram_tem1_rz1">Das ist der Beruf,</string>
     <string name="a22_kap23_gram_tem1_rz2">Das ist das Buch,</string>
@@ -1834,20 +1836,20 @@
     <string name="a22_kap23_gram_tem1_rz9">den ich liebe.</string>
     <string name="a22_kap23_gram_tem1_rz10">das ich so gern gelesen habe.</string>
     <string name="a22_kap23_gram_tem1_rz11">die ich liebe.</string>
-    <string name="a22_kap23_gram_tem1_rz12">die ich machen koennte.</string>
-    <string name="a22_kap23_kom_tem1">Zufriedenheit / Unzufriedenheit ausdruecken</string>
+    <string name="a22_kap23_gram_tem1_rz12">die ich machen k&#246;nnte.</string>
+    <string name="a22_kap23_kom_tem1">Zufriedenheit / Unzufriedenheit ausdr&#252;cken</string>
     <string name="a22_kap23_kom_tem1_rz1">Bist du mit deinem Beruf / deiner Ausbildung / deinem Job zufrieden?</string>
     <string name="a22_kap23_kom_tem1_rz2">Ja, ich bin (sehr) zufrieden damit.</string>
-    <string name="a22_kap23_kom_tem1_rz3">Mein Job / ... ist sehr interessant / ... .</string>
-    <string name="a22_kap23_kom_tem1_rz4">Ich finde meinen Beruf / ... prima / gut / schoen.</string>
-    <string name="a22_kap23_kom_tem1_rz5">Mein Beruf / ... macht mir grossen Spass.</string>
+    <string name="a22_kap23_kom_tem1_rz3">Mein Job / &#8230; ist sehr interessant / &#8230; .</string>
+    <string name="a22_kap23_kom_tem1_rz4">Ich finde meinen Beruf / &#8230; prima / gut / sch&#246;n.</string>
+    <string name="a22_kap23_kom_tem1_rz5">Mein Beruf / &#8230; macht mir gro&#223;en Spa&#223;.</string>
     <string name="a22_kap23_kom_tem1_rz6">Na ja, es geht.</string>
     <string name="a22_kap23_kom_tem1_rz7">Der Job ist okay.</string>
     <string name="a22_kap23_kom_tem1_rz8">Nein, ich bin (sehr) unzufrieden damit.</string>
-    <string name="a22_kap23_kom_tem1_rz9">Nien, ueberhaupt nicht.</string>
+    <string name="a22_kap23_kom_tem1_rz9">Nien, &#252;berhaupt nicht.</string>
     <string name="a22_kap23_kom_tem1_rz10">Ich habe keine Lust mehr.</string>
     <string name="a22_kap23_kom_tem1_rz11">Ich habe genug.</string>
-    <string name="a22_kap23_kom_tem1_rz12">Immer muss ich ... . Das aergert mich. / Das stoert mich. Deshelb moechte ich ... . Das habe ich fest vor.</string>
+    <string name="a22_kap23_kom_tem1_rz12">Immer muss ich &#8230; . Das &#228;rgert mich. / Das st&#246;rt mich. Deshelb m&#246;chte ich &#8230; . Das habe ich fest vor.</string>
 
 
 </resources>
