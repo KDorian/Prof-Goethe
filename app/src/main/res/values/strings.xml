@@ -1850,8 +1850,10 @@
     <string name="a22_kap23_kom_tem1_rz10">Ich habe keine Lust mehr.</string>
     <string name="a22_kap23_kom_tem1_rz11">Ich habe genug.</string>
     <string name="a22_kap23_kom_tem1_rz12">Immer muss ich &#8230; . Das &#228;rgert mich. / Das st&#246;rt mich. Deshelb m&#246;chte ich &#8230; . Das habe ich fest vor.</string>
-    <string name="a22_kap24_gram_tem1">Praeteritum</string>
-    <string name="a22_kap24_gram_tem1_rz1">regelmaessige Verben</string>
+
+
+    <string name="a22_kap24_gram_tem1">Pr&#228;teritum</string>
+    <string name="a22_kap24_gram_tem1_rz1">regelm&#228;&#223;ige Verben</string>
     <string name="a22_kap24_gram_tem1_rz2">sagen</string>
     <string name="a22_kap24_gram_tem1_rz3">sagte</string>
     <string name="a22_kap24_gram_tem1_rz4">sagtest</string>
@@ -1859,7 +1861,7 @@
     <string name="a22_kap24_gram_tem1_rz6">sagten</string>
     <string name="a22_kap24_gram_tem1_rz7">sagtet</string>
     <string name="a22_kap24_gram_tem1_rz8">sagten</string>
-    <string name="a22_kap24_gram_tem1_rz9">unregelmaessige Verben</string>
+    <string name="a22_kap24_gram_tem1_rz9">unregelm&#228;&#223;ige Verben</string>
     <string name="a22_kap24_gram_tem1_rz10">kommen</string>
     <string name="a22_kap24_gram_tem1_rz11">kam</string>
     <string name="a22_kap24_gram_tem1_rz12">kamst</string>
@@ -1867,16 +1869,16 @@
     <string name="a22_kap24_gram_tem1_rz14">kamen</string>
     <string name="a22_kap24_gram_tem1_rz15">kamt</string>
     <string name="a22_kap24_gram_tem1_rz16">kamen</string>
-    <string name="a22_kap24_kom_tem1">Begeisterung ausdruecken</string>
-    <string name="a22_kap24_kom_tem1_rz1">Das war eine tolle Zeit mit vielen Schoenen Erlebnissen / Erfahrungen.</string>
-    <string name="a22_kap24_kom_tem1_rz2">Ich konnte viele neue / schoene / ... Erfahrungen machen.</string>
-    <string name="a22_kap24_kom_tem1_rz3">Es hat mir super / ... gefallen, dass ... .</string>
-    <string name="a22_kap24_kom_tem1_rz4">Das wuerde ich jedem empfehlen.</string>
-    <string name="a22_kap24_kom_tem2">Enttaeuschung ausdruecken</string>
-    <string name="a22_kap24_kom_tem2_rz1">Ich fand es traurig, dass ... .</string>
-    <string name="a22_kap24_kom_tem2_rz2">Leider hat ... nicht (so gut) geklappt.</string>
-    <string name="a22_kap24_kom_tem2_rz3">Ich musste immer ... . Das hat mir nicht so gut gefallen.</string>
-    <string name="a22_kap24_kom_tem2_rz4">Es war keine schoene Zeit. Das wuerde ich niemandem empfehlen.</string>
+    <string name="a22_kap24_kom_tem1">Begeisterung ausdr&#252;cken</string>
+    <string name="a22_kap24_kom_tem1_rz1">Das war eine tolle Zeit mit vielen sch&#246;nen Erlebnissen / Erfahrungen.</string>
+    <string name="a22_kap24_kom_tem1_rz2">Ich konnte viele neue / sch&#246;ne / &#8230; Erfahrungen machen.</string>
+    <string name="a22_kap24_kom_tem1_rz3">Es hat mir super / &#8230; gefallen, dass &#8230; .</string>
+    <string name="a22_kap24_kom_tem1_rz4">Das w&#252;rde ich jedem empfehlen.</string>
+    <string name="a22_kap24_kom_tem2">Entt&#228;uschung ausdr&#252;cken</string>
+    <string name="a22_kap24_kom_tem2_rz1">Ich fand es traurig, dass &#8230; .</string>
+    <string name="a22_kap24_kom_tem2_rz2">Leider hat &#8230; nicht (so gut) geklappt.</string>
+    <string name="a22_kap24_kom_tem2_rz3">Ich musste immer &#8230; . Das hat mir nicht so gut gefallen.</string>
+    <string name="a22_kap24_kom_tem2_rz4">Es war keine schoene Zeit. Das w&#252;rde ich niemandem empfehlen.</string>
 
 
 </resources>
