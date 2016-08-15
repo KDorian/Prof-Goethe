@@ -40,6 +40,9 @@ public class MainActivity extends Activity {
                     case 3:
                         startActivity(new Intent(MainActivity.this, A22Activity.class));
                         break;
+                    case 4:
+                        startActivity(new Intent(MainActivity.this, B11Activity.class));
+                        break;
                 }
 
             }
