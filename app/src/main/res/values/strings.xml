@@ -1907,7 +1907,9 @@
     <string name="a22_kap24_kom_tem2_rz2">Leider hat &#8230; nicht (so gut) geklappt.</string>
     <string name="a22_kap24_kom_tem2_rz3">Ich musste immer &#8230; . Das hat mir nicht so gut gefallen.</string>
     <string name="a22_kap24_kom_tem2_rz4">Es war keine schoene Zeit. Das w&#252;rde ich niemandem empfehlen.</string>
-    <string name="b11_kap01_gram_tem1"><![CDATA[Adjektive als Nomen: huebsch -> die Huebsche]]></string>
+
+    
+    <string name="b11_kap01_gram_tem1">Adjektive als Nomen: huebsch -> die Huebsche</string>
     <string name="b11_kap01_gram_tem1_rz1">der Huebsche ein Huebscher</string>
     <string name="b11_kap01_gram_tem1_rz2">die Huebsche eine Huebsche</string>
     <string name="b11_kap01_gram_tem1_rz3">die Huebschen - Huebsche</string>
