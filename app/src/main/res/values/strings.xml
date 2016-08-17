@@ -1942,16 +1942,16 @@
     <string name="b11_kap01_kom_tem1_rz11">Besonders wichtig ist mir / f&#252;r mich, dass &#8230; .</string>
 
 
-    <string name="b11_kap02_gram_tem1">Praeteritum</string>
-    <string name="b11_kap02_gram_tem1_rz1">Typ1 regelmaessige Verben (-te)</string>
-    <string name="b11_kap02_gram_tem1_rz2">fuehren</string>
-    <string name="b11_kap02_gram_tem1_rz3">fuehrte</string>
-    <string name="b11_kap02_gram_tem1_rz4">fuehrtest</string>
-    <string name="b11_kap02_gram_tem1_rz5">fuehrte</string>
-    <string name="b11_kap02_gram_tem1_rz6">fuehrten</string>
-    <string name="b11_kap02_gram_tem1_rz7">fuehrtet</string>
-    <string name="b11_kap02_gram_tem1_rz8">fuehrten</string>
-    <string name="b11_kap02_gram_tem1_rz9">Typ 2 unregelmaessige Verben (Vokalwechsel)</string>
+    <string name="b11_kap02_gram_tem1">Pr&#228;teritum</string>
+    <string name="b11_kap02_gram_tem1_rz1">Typ1 regelm&#228;&#223;ige Verben (-te)</string>
+    <string name="b11_kap02_gram_tem1_rz2">f&#252;hren</string>
+    <string name="b11_kap02_gram_tem1_rz3">f&#252;hrte</string>
+    <string name="b11_kap02_gram_tem1_rz4">f&#252;hrtest</string>
+    <string name="b11_kap02_gram_tem1_rz5">f&#252;hrte</string>
+    <string name="b11_kap02_gram_tem1_rz6">f&#252;hrten</string>
+    <string name="b11_kap02_gram_tem1_rz7">f&#252;hrtet</string>
+    <string name="b11_kap02_gram_tem1_rz8">f&#252;hrten</string>
+    <string name="b11_kap02_gram_tem1_rz9">Typ 2 unregelm&#228;&#223;ige Verben (Vokalwechsel)</string>
     <string name="b11_kap02_gram_tem1_rz10">geben</string>
     <string name="b11_kap02_gram_tem1_rz11">gab</string>
     <string name="b11_kap02_gram_tem1_rz12">gabst</string>
@@ -1969,20 +1969,20 @@
     <string name="b11_kap02_gram_tem1_rz24">brachten</string>
     <string name="b11_kap02_kom_tem1">etwas Vergangenes bewerten</string>
     <string name="b11_kap02_kom_tem1_rz1">Der erste Tag ist mir in guter / schlechter Erinnerung gebleiben.</string>
-    <string name="b11_kap02_kom_tem1_rz2">Schon der erste Tag machte mir (keinen) Spass / (nicht so) viel Freunde.</string>
+    <string name="b11_kap02_kom_tem1_rz2">Schon der erste Tag machte mir (keinen) Spa&#223; / (nicht so) viel Freunde.</string>
     <string name="b11_kap02_kom_tem1_rz3">Erst habe ich zwar nicht so viel erwartet, aber dann gefiel es mir total gut.</string>
-    <string name="b11_kap02_kom_tem1_rz4">Besonders gut / Nicht so gut gefiel mir das Betriebsklima / der Chef ... .</string>
-    <string name="b11_kap02_kom_tem1_rz5">Das fand ich sehr angenehm / enttaeuschend / ... .</string>
-    <string name="b11_kap02_kom_tem1_rz6">Nur von dem Essen / den Kollegen / den anderen Auszubildenden / ... war ich sehr enttaeuscht.</string>
-    <string name="b11_kap02_kom_tem1_rz7">Etwas merkwuerdig war, dass ... .</string>
-    <string name="b11_kap02_kom_tem1_rz8">Der erste Tag war zwar anstrengend, aber ... .</string>
-    <string name="b11_kap02_kom_tem1_rz9">Insgesamt fuehlte ich mich sehr wohl / nicht besonders wohl.</string>
+    <string name="b11_kap02_kom_tem1_rz4">Besonders gut / Nicht so gut gefiel mir das Betriebsklima / der Chef &#8230; .</string>
+    <string name="b11_kap02_kom_tem1_rz5">Das fand ich sehr angenehm / entt&#228;uschend / &#8230; .</string>
+    <string name="b11_kap02_kom_tem1_rz6">Nur von dem Essen / den Kollegen / den anderen Auszubildenden / &#8230; war ich sehr entt&#228;uscht.</string>
+    <string name="b11_kap02_kom_tem1_rz7">Etwas merkw&#252;rdig war, dass &#8230; .</string>
+    <string name="b11_kap02_kom_tem1_rz8">Der erste Tag war zwar anstrengend, aber &#8230; .</string>
+    <string name="b11_kap02_kom_tem1_rz9">Insgesamt f&#252;hlte ich mich sehr wohl / nicht besonders wohl.</string>
     <string name="b11_kap02_kom_tem1_rz10">Insgesamt gefiel mir der erste Tag sehr gut / nicht so gut.</string>
     <string name="b11_kap02_kom_tem2">einen Bericht struktrieren</string>
-    <string name="b11_kap02_kom_tem2_rz1">Gleich am Morgen ...</string>
-    <string name="b11_kap02_kom_tem2_rz2">Dann / Danach / Anschliessend ... ..</string>
-    <string name="b11_kap02_kom_tem2_rz3">Gegen Mittag / Abend / zehn Uhr ...</string>
-    <string name="b11_kap02_kom_tem2_rz4">(Erst) Am fruehen / spaeten Vormittag / Nachmittag ...</string>
+    <string name="b11_kap02_kom_tem2_rz1">Gleich am Morgen &#8230;</string>
+    <string name="b11_kap02_kom_tem2_rz2">Dann / Danach / Anschlie&#223;end &#8230; </string>
+    <string name="b11_kap02_kom_tem2_rz3">Gegen Mittag / Abend / zehn Uhr &#8230;</string>
+    <string name="b11_kap02_kom_tem2_rz4">(Erst) Am fr&#252;hen / sp&#228;ten Vormittag / Nachmittag &#8230;</string>
 
 
 </resources>
