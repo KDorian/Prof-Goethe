@@ -1920,14 +1920,14 @@
     <string name="b11_kap01_gram_tem1_rz5">die H&#252;bsche\neine H&#252;bsche</string>
     <string name="b11_kap01_gram_tem1_rz6">die H&#252;bsche\n- H&#252;bsche</string>
     <string name="b11_kap01_gram_tem1_rz10">auch so: der / die Kluge, Erwachsene, Gl&#252;ckliche</string>
-    <string name="b11_kap02_gram_tem1">n-Deklination</string>
-    <string name="b11_kap02_gram_tem1_rz1">der / ein Kollege</string>
-    <string name="b11_kap02_gram_tem1_rz2">die / - Kollegen</string>
-    <string name="b11_kap02_gram_tem1_rz3">den / einen Kollegen</string>
-    <string name="b11_kap02_gram_tem1_rz4">die / - Kollegen</string>
-    <string name="b11_kap02_gram_tem1_rz5">dem / einem Kollegen</string>
-    <string name="b11_kap02_gram_tem1_rz6">den / - Kollegen</string>
-    <string name="b11_kap02_gram_tem1_rz7">auch so: maskuline Nomen auf: -e, -ent, -ant, Mensch, Nachbar, Herr</string>
+    <string name="b11_kap01_gram_tem2">n-Deklination</string>
+    <string name="b11_kap01_gram_tem2_rz1">der / ein Kollege</string>
+    <string name="b11_kap01_gram_tem2_rz2">die / - Kollegen</string>
+    <string name="b11_kap01_gram_tem2_rz3">den / einen Kollegen</string>
+    <string name="b11_kap01_gram_tem2_rz4">die / - Kollegen</string>
+    <string name="b11_kap01_gram_tem2_rz5">dem / einem Kollegen</string>
+    <string name="b11_kap01_gram_tem2_rz6">den / - Kollegen</string>
+    <string name="b11_kap01_gram_tem2_rz7">auch so: maskuline Nomen auf: -e, -ent, -ant, Mensch, Nachbar, Herr</string>
     <string name="b11_kap01_kom_tem1">Personen beschreiben</string>
     <string name="b11_kap01_kom_tem1_rz1">Das ist Sabine / &#8230; , meine Mitbewohnerin / &#8230; .</string>
     <string name="b11_kap01_kom_tem1_rz2">Und das ist Sabine. Wer sie noch nicht kennt: Sabine ist meine &#8230; .</string>
@@ -1940,6 +1940,49 @@
     <string name="b11_kap01_kom_tem1_rz9">Ich kenne niemanden, der so &#8230; wie &#8230; .</string>
     <string name="b11_kap01_kom_tem1_rz10">Besonders grossen Respekt habe ich vor ihrer / seiner / &#8230; .</string>
     <string name="b11_kap01_kom_tem1_rz11">Besonders wichtig ist mir / f&#252;r mich, dass &#8230; .</string>
+
+
+    <string name="b11_kap02_gram_tem1">Praeteritum</string>
+    <string name="b11_kap02_gram_tem1_rz1">Typ1 regelmaessige Verben (-te)</string>
+    <string name="b11_kap02_gram_tem1_rz2">fuehren</string>
+    <string name="b11_kap02_gram_tem1_rz3">fuehrte</string>
+    <string name="b11_kap02_gram_tem1_rz4">fuehrtest</string>
+    <string name="b11_kap02_gram_tem1_rz5">fuehrte</string>
+    <string name="b11_kap02_gram_tem1_rz6">fuehrten</string>
+    <string name="b11_kap02_gram_tem1_rz7">fuehrtet</string>
+    <string name="b11_kap02_gram_tem1_rz8">fuehrten</string>
+    <string name="b11_kap02_gram_tem1_rz9">Typ 2 unregelmaessige Verben (Vokalwechsel)</string>
+    <string name="b11_kap02_gram_tem1_rz10">geben</string>
+    <string name="b11_kap02_gram_tem1_rz11">gab</string>
+    <string name="b11_kap02_gram_tem1_rz12">gabst</string>
+    <string name="b11_kap02_gram_tem1_rz13">gab</string>
+    <string name="b11_kap02_gram_tem1_rz14">gaben</string>
+    <string name="b11_kap02_gram_tem1_rz15">gabt</string>
+    <string name="b11_kap02_gram_tem1_rz16">gaben</string>
+    <string name="b11_kap02_gram_tem1_rz17">Typ 3 Mischverben (-te + Vokalwchsel)</string>
+    <string name="b11_kap02_gram_tem1_rz18">bringen</string>
+    <string name="b11_kap02_gram_tem1_rz19">brachte</string>
+    <string name="b11_kap02_gram_tem1_rz20">brachtest</string>
+    <string name="b11_kap02_gram_tem1_rz21">brachte</string>
+    <string name="b11_kap02_gram_tem1_rz22">brachten</string>
+    <string name="b11_kap02_gram_tem1_rz23">brachtet</string>
+    <string name="b11_kap02_gram_tem1_rz24">brachten</string>
+    <string name="b11_kap02_kom_tem1">etwas Vergangenes bewerten</string>
+    <string name="b11_kap02_kom_tem1_rz1">Der erste Tag ist mir in guter / schlechter Erinnerung gebleiben.</string>
+    <string name="b11_kap02_kom_tem1_rz2">Schon der erste Tag machte mir (keinen) Spass / (nicht so) viel Freunde.</string>
+    <string name="b11_kap02_kom_tem1_rz3">Erst habe ich zwar nicht so viel erwartet, aber dann gefiel es mir total gut.</string>
+    <string name="b11_kap02_kom_tem1_rz4">Besonders gut / Nicht so gut gefiel mir das Betriebsklima / der Chef ... .</string>
+    <string name="b11_kap02_kom_tem1_rz5">Das fand ich sehr angenehm / enttaeuschend / ... .</string>
+    <string name="b11_kap02_kom_tem1_rz6">Nur von dem Essen / den Kollegen / den anderen Auszubildenden / ... war ich sehr enttaeuscht.</string>
+    <string name="b11_kap02_kom_tem1_rz7">Etwas merkwuerdig war, dass ... .</string>
+    <string name="b11_kap02_kom_tem1_rz8">Der erste Tag war zwar anstrengend, aber ... .</string>
+    <string name="b11_kap02_kom_tem1_rz9">Insgesamt fuehlte ich mich sehr wohl / nicht besonders wohl.</string>
+    <string name="b11_kap02_kom_tem1_rz10">Insgesamt gefiel mir der erste Tag sehr gut / nicht so gut.</string>
+    <string name="b11_kap02_kom_tem2">einen Bericht struktrieren</string>
+    <string name="b11_kap02_kom_tem2_rz1">Gleich am Morgen ...</string>
+    <string name="b11_kap02_kom_tem2_rz2">Dann / Danach / Anschliessend ... ..</string>
+    <string name="b11_kap02_kom_tem2_rz3">Gegen Mittag / Abend / zehn Uhr ...</string>
+    <string name="b11_kap02_kom_tem2_rz4">(Erst) Am fruehen / spaeten Vormittag / Nachmittag ...</string>
 
 
 </resources>
