@@ -1943,7 +1943,7 @@
 
 
     <string name="b11_kap02_gram_tem1">Pr&#228;teritum</string>
-    <string name="b11_kap02_gram_tem1_rz1">Typ1 regelm&#228;&#223;ige Verben (-te)</string>
+    <string name="b11_kap02_gram_tem1_rz1">Typ1\nregelm&#228;&#223;ige Verben (-te)</string>
     <string name="b11_kap02_gram_tem1_rz2">f&#252;hren</string>
     <string name="b11_kap02_gram_tem1_rz3">f&#252;hrte</string>
     <string name="b11_kap02_gram_tem1_rz4">f&#252;hrtest</string>
@@ -1951,7 +1951,7 @@
     <string name="b11_kap02_gram_tem1_rz6">f&#252;hrten</string>
     <string name="b11_kap02_gram_tem1_rz7">f&#252;hrtet</string>
     <string name="b11_kap02_gram_tem1_rz8">f&#252;hrten</string>
-    <string name="b11_kap02_gram_tem1_rz9">Typ 2 unregelm&#228;&#223;ige Verben (Vokalwechsel)</string>
+    <string name="b11_kap02_gram_tem1_rz9">Typ 2\nunregelm&#228;&#223;ige Verben (Vokalwechsel)</string>
     <string name="b11_kap02_gram_tem1_rz10">geben</string>
     <string name="b11_kap02_gram_tem1_rz11">gab</string>
     <string name="b11_kap02_gram_tem1_rz12">gabst</string>
@@ -1959,7 +1959,7 @@
     <string name="b11_kap02_gram_tem1_rz14">gaben</string>
     <string name="b11_kap02_gram_tem1_rz15">gabt</string>
     <string name="b11_kap02_gram_tem1_rz16">gaben</string>
-    <string name="b11_kap02_gram_tem1_rz17">Typ 3 Mischverben (-te + Vokalwchsel)</string>
+    <string name="b11_kap02_gram_tem1_rz17">Typ 3\nMischverben (-te + Vokalwchsel)</string>
     <string name="b11_kap02_gram_tem1_rz18">bringen</string>
     <string name="b11_kap02_gram_tem1_rz19">brachte</string>
     <string name="b11_kap02_gram_tem1_rz20">brachtest</string>
