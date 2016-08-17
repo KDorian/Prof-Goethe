@@ -1908,18 +1908,18 @@
     <string name="a22_kap24_kom_tem2_rz3">Ich musste immer &#8230; . Das hat mir nicht so gut gefallen.</string>
     <string name="a22_kap24_kom_tem2_rz4">Es war keine schoene Zeit. Das w&#252;rde ich niemandem empfehlen.</string>
 
-    
-    <string name="b11_kap01_gram_tem1">Adjektive als Nomen: huebsch -> die Huebsche</string>
-    <string name="b11_kap01_gram_tem1_rz1">der Huebsche ein Huebscher</string>
-    <string name="b11_kap01_gram_tem1_rz2">die Huebsche eine Huebsche</string>
-    <string name="b11_kap01_gram_tem1_rz3">die Huebschen - Huebsche</string>
-    <string name="b11_kap01_gram_tem1_rz7">dem Huebschen eienm Huebschen</string>
-    <string name="b11_kap01_gram_tem1_rz8">der Huebschen einer Huebschen</string>
-    <string name="b11_kap01_gram_tem1_rz9">den Huebschen - Huebschen</string>
-    <string name="b11_kap01_gram_tem1_rz4">den Huebschen einen Huebschen</string>
-    <string name="b11_kap01_gram_tem1_rz5">die Huebsche eine Huebsche</string>
-    <string name="b11_kap01_gram_tem1_rz6">die Huebsche - Huebsche</string>
-    <string name="b11_kap01_gram_tem1_rz10">auch so: der / die Kluge, Erwachsene, Glueckliche</string>
+
+    <string name="b11_kap01_gram_tem1">Adjektive als Nomen: h&#252;bsch -> die H&#252;bsche</string>
+    <string name="b11_kap01_gram_tem1_rz1">der H&#252;bsche\nein H&#252;bscher</string>
+    <string name="b11_kap01_gram_tem1_rz2">die H&#252;bsche\neine H&#252;bsche</string>
+    <string name="b11_kap01_gram_tem1_rz3">die H&#252;bschen\n- H&#252;bsche</string>
+    <string name="b11_kap01_gram_tem1_rz7">dem H&#252;bschen\neinem H&#252;bschen</string>
+    <string name="b11_kap01_gram_tem1_rz8">der H&#252;bschen\neiner H&#252;bschen</string>
+    <string name="b11_kap01_gram_tem1_rz9">den H&#252;bschen\n- H&#252;bschen</string>
+    <string name="b11_kap01_gram_tem1_rz4">den H&#252;bschen\neinen H&#252;bschen</string>
+    <string name="b11_kap01_gram_tem1_rz5">die H&#252;bsche\neine H&#252;bsche</string>
+    <string name="b11_kap01_gram_tem1_rz6">die H&#252;bsche\n- H&#252;bsche</string>
+    <string name="b11_kap01_gram_tem1_rz10">auch so: der / die Kluge, Erwachsene, Gl&#252;ckliche</string>
     <string name="b11_kap02_gram_tem1">n-Deklination</string>
     <string name="b11_kap02_gram_tem1_rz1">der / ein Kollege</string>
     <string name="b11_kap02_gram_tem1_rz2">die / - Kollegen</string>
@@ -1929,17 +1929,17 @@
     <string name="b11_kap02_gram_tem1_rz6">den / - Kollegen</string>
     <string name="b11_kap02_gram_tem1_rz7">auch so: maskuline Nomen auf: -e, -ent, -ant, Mensch, Nachbar, Herr</string>
     <string name="b11_kap01_kom_tem1">Personen beschreiben</string>
-    <string name="b11_kap01_kom_tem1_rz1">Das ist Sabine / ... , meine Mitbewohnerin / ... .</string>
-    <string name="b11_kap01_kom_tem1_rz2">Und das ist Sabine. Wer sie noch nicht kennt: Sabine ist meine ... .</string>
-    <string name="b11_kap01_kom_tem1_rz3">Kennt ihr meine beste Freudin? Sie heisst ... .</string>
-    <string name="b11_kap01_kom_tem1_rz4">Das ist ... . Sie / Er ist meine / mein ... und man kann sich keine bessere / keinen besseren wuenschen.</string>
-    <string name="b11_kap01_kom_tem1_rz5">Ich habe sie / ihn vor ... Jahren kennengelernt.</string>
-    <string name="b11_kap01_kom_tem1_rz6">Wir waren / ... drei Jahre lang ... .</string>
-    <string name="b11_kap01_kom_tem1_rz7">Sie / Er ist sehr vernuenftig / ... .</string>
-    <string name="b11_kap01_kom_tem1_rz8">... ist die / der Ordentlichste / ... , die / den ich kenne.</string>
-    <string name="b11_kap01_kom_tem1_rz9">Ich kenne niemanden, der so ... wie ... .</string>
-    <string name="b11_kap01_kom_tem1_rz10">Besonders grossen Respekt habe ich vor ihrer/seiner/... .</string>
-    <string name="b11_kap01_kom_tem1_rz11">Besonders wichtig ist mir / fuer mich, dass ... .</string>
+    <string name="b11_kap01_kom_tem1_rz1">Das ist Sabine / &#8230; , meine Mitbewohnerin / &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz2">Und das ist Sabine. Wer sie noch nicht kennt: Sabine ist meine &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz3">Kennt ihr meine beste Freudin? Sie hei&#223;t &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz4">Das ist &#8230; . Sie / Er ist meine / mein &#8230; und man kann sich keine bessere / keinen besseren w&#252;nschen.</string>
+    <string name="b11_kap01_kom_tem1_rz5">Ich habe sie / ihn vor &#8230; Jahren kennengelernt.</string>
+    <string name="b11_kap01_kom_tem1_rz6">Wir waren / &#8230; drei Jahre lang &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz7">Sie / Er ist sehr vern&#252;nftig / &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz8">&#8230; ist die / der Ordentlichste / &#8230; , die / den ich kenne.</string>
+    <string name="b11_kap01_kom_tem1_rz9">Ich kenne niemanden, der so &#8230; wie &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz10">Besonders grossen Respekt habe ich vor ihrer / seiner / &#8230; .</string>
+    <string name="b11_kap01_kom_tem1_rz11">Besonders wichtig ist mir / f&#252;r mich, dass &#8230; .</string>
 
 
 </resources>
