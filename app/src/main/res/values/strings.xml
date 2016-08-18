@@ -1985,4 +1985,25 @@
     <string name="b11_kap02_kom_tem2_rz4">(Erst) Am fr&#252;hen / sp&#228;ten Vormittag / Nachmittag &#8230;</string>
 
 
+    <string name="b11_kap03_gram_tem1">Relativpronomen und Relativsatz im Dativ</string>
+    <string name="b11_kap03_gram_tem1_rz1">Das ist der Mann, dem ich geholfen habe.</string>
+    <string name="b11_kap03_gram_tem1_rz2">Das ist das Maedchen, dem ich geholfen habe.</string>
+    <string name="b11_kap03_gram_tem1_rz3">Das ist die Dame, der ich geholfen habe.</string>
+    <string name="b11_kap03_gram_tem1_rz4">Das sind die Kunden, denen ich geholfen habe.</string>
+    <string name="b11_kap03_gram_tem2">Relativsaetze im Akkusativ und Dativ mit Praepositionen</string>
+    <string name="b11_kap03_gram_tem2_rz1">Durch die Fenster blickt man ins Gruene.</string>
+    <string name="b11_kap03_gram_tem2_rz2">Hier sind die Fenster, durch die man ins Gruene blickt.</string>
+    <string name="b11_kap03_gram_tem2_rz3">auch so: sich freuen auf, sich aergern ueber, sprechen ueber, Lust haben auf, sich interessieren fuer, ...</string>
+    <string name="b11_kap03_gram_tem2_rz4">Ich sass an dem Ofen.</string>
+    <string name="b11_kap03_gram_tem2_rz5">Das ist der Ofen, an dem ich sass.</string>
+    <string name="b11_kap03_gram_tem2_rz6">auch so: traeumen von, sprechen mit, zufrieden sein mit, sitzen an, ...</string>
+    <string name="b11_kap03_kom_tem1">ueber eine Statistik sprechen</string>
+    <string name="b11_kap03_kom_tem1_rz1">Mehr mals / Gut / Rund / Etwa die Haelfte von uns wohnt ... .</string>
+    <string name="b11_kap03_kom_tem1_rz6">Die meisten von uns / Fast alle haben einen Balkon. / Keiner hat ... .</string>
+    <string name="b11_kap03_kom_tem1_rz5">Fast 80 Prozent / drei Viertel von uns wohnen auf ... Wohnflaeche.</string>
+    <string name="b11_kap03_kom_tem1_rz4">Nur / Knapp ein Viertel von uns wohnt ... .</string>
+    <string name="b11_kap03_kom_tem1_rz3">In unserem Kurs gibt es fuenf Personen, die in einer Eigentumswohnung leben. Das sind ... Prozent.</string>
+    <string name="b11_kap03_kom_tem1_rz2">Jeder zweite Teilnehmer wohnt ... .</string>
+
+
 </resources>

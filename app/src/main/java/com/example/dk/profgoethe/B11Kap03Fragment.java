@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 public class B11Kap03Fragment extends Fragment {
 
 
-    public RedFragment() {
+    public B11Kap03Fragment() {
     }
 
     @Override
