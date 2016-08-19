@@ -2006,4 +2006,29 @@
     <string name="b11_kap03_kom_tem1_rz2">Jeder zweite Teilnehmer wohnt &#8230; .</string>
 
 
+    <string name="b11_kap04_gram_tem1">Konjunktionen: unerwartete Gegensaetze</string>
+    <string name="b11_kap04_gram_tem1_rz1">Hauptsatz + Nebensatz: obwohl</string>
+    <string name="b11_kap04_gram_tem1_rz2">Es hat sich bis heute nichts geaendert, obwohl ich Ihnen das mehrfach erklaert habe.</string>
+    <string name="b11_kap04_gram_tem1_rz3">Hauptsatz + Hauptsatz: trotzdem</string>
+    <string name="b11_kap04_gram_tem1_rz4">Ich habe Ihnen das mehrfach erklaert. Troztdem hat sich bis heute nichts geaendert.</string>
+    <string name="b11_kap04_kom_tem1">Gespraechsstrategien am Telefon</string>
+    <string name="b11_kap04_kom_tem1_rz1">Guten Tag, Sie sind verbunden mit ... .</string>
+    <string name="b11_kap04_kom_tem1_rz2">Firma ... , mein Name ist ... , wie kann ich Ihnen helfen?</string>
+    <string name="b11_kap04_kom_tem1_rz3">Firma ... , womit koennen wir Ihnen helfen?</string>
+    <string name="b11_kap04_kom_tem1_rz4">Fuer Reklamationen / Bestellungen / Produktinformationen muss ich Sie mit der Abteilung ... verbinden. Einen Moment bitte! Ich stelle Sie durch.</string>
+    <string name="b11_kap04_kom_tem1_rz5">Oh, das tut mir leid, da sind Sie hier leider falsch. Moment, ich verbinde Sie mit meiner Kollegin / meinem Kollegen. Bleiben Sie bitte am Apparat.</string>
+    <string name="b11_kap04_kom_tem1_rz6">Hoeren Sie, Frau / Herr ... , es tut mir sehr leid, aber die Kollegin / der Kollege ist gerade zu Tisch / ausser Haus / in einer Sitzung.</string>
+    <string name="b11_kap04_kom_tem1_rz7">Frau / Herr ... spricht gerade. / Ihr / Sein Anschluss ist besetzt.</string>
+    <string name="b11_kap04_kom_tem1_rz8">Koennten Sie bitte spaeter noch einmal anrufen?</string>
+    <string name="b11_kap04_kom_tem1_rz9">Kann sie / er Sie zurueckrufen?</string>
+    <string name="b11_kap04_kom_tem1_rz10">Kann ich ihr / ihm etwas ausrichten?</string>
+    <string name="b11_kap04_kom_tem2">schriftlich reklamieren</string>
+    <string name="b11_kap04_kom_tem2_rz1">Obwohl ich Ihnen schon zwei E-mails geschickt habe, habe ich noch keine Antwort erhalten.</string>
+    <string name="b11_kap04_kom_tem2_rz2">Das ist wirklich sehr aergerlich.</string>
+    <string name="b11_kap04_kom_tem2_rz3">Ich moechte Sie auffordern, dass Sie mir ab sofort ... .</string>
+    <string name="b11_kap04_kom_tem2_rz4">Bitte bestaetigen Sie mir schriftlich, dass ... .</string>
+    <string name="b11_kap04_kom_tem2_rz5">Ich muss leider sagen, dass ... .</string>
+    <string name="b11_kap04_kom_tem2_rz6">Ihr Service / ... hat mich sehr enttaeuscht. Trotzdem ... .</string>
+
+
 </resources>
