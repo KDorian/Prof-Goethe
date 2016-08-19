@@ -18,11 +18,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/gramatyka"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -44,37 +46,100 @@
             </TableRow>
         </TableLayout>
 
-        <TextView
-            android:id="@+id/textView3336"
-            android:layout_width="wrap_content"
+        <TableLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem1_rz1"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp">
 
-        <TextView
-            android:id="@+id/textView3337"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem1_rz2"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/textView3338"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem1_rz3"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+                <TextView
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3365"
+                    android:layout_column="0" />
 
-        <TextView
-            android:id="@+id/textView3339"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem1_rz4"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+                <TextView
+                    android:id="@+id/textView3336"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem1_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3366"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3337"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem1_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3367"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3338"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem1_rz3"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3368"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3339"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem1_rz4"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+        </TableLayout>
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -102,28 +167,77 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="@string/akkus"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginBottom="5dp" />
 
-        <TextView
-            android:id="@+id/textView3343"
-            android:layout_width="wrap_content"
+        <TableLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz1"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp">
 
-        <TextView
-            android:id="@+id/textView3344"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz2"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/textView3345"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz3"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+                <TextView
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3369"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3343"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz1"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3370"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3344"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz2"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3371"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3345"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz3"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+        </TableLayout>
 
         <TextView
             android:id="@+id/textView3346"
@@ -131,39 +245,90 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="@string/dativ"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginBottom="5dp" />
 
-        <TextView
-            android:id="@+id/textView3347"
-            android:layout_width="wrap_content"
+        <TableLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz4"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp">
 
-        <TextView
-            android:id="@+id/textView3348"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz5"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/textView3349"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/b11_kap03_gram_tem2_rz6"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+                <TextView
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3372"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3347"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz4"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3373"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3348"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz5"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="@string/punkt"
+                    android:id="@+id/textView3374"
+                    android:layout_column="0" />
+
+                <TextView
+                    android:id="@+id/textView3349"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/b11_kap03_gram_tem2_rz6"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_column="1" />
+            </TableRow>
+        </TableLayout>
 
         <TextView
             android:id="@+id/textView3350"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/komunikacja"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="5dp" />
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp">
 
             <TableRow
                 android:layout_width="match_parent"
@@ -187,7 +352,10 @@
 
         <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp">
 
             <TableRow
                 android:layout_width="match_parent"
