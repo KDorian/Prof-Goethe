@@ -75,6 +75,9 @@ public class B11Activity extends ActionBarActivity {
                     case 4:  //B1.1. Kapitel04
                         fragment = new B11Kap04Fragment();
                         break;
+                    case 5:  //B1.1. Kapitel05
+                        fragment = new B11Kap05Fragment();
+                        break;
                 }
                 fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
                 setTitle(mDrawerOptionLabels[position]);
