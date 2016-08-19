@@ -1906,7 +1906,7 @@
     <string name="a22_kap24_kom_tem2_rz1">Ich fand es traurig, dass &#8230; .</string>
     <string name="a22_kap24_kom_tem2_rz2">Leider hat &#8230; nicht (so gut) geklappt.</string>
     <string name="a22_kap24_kom_tem2_rz3">Ich musste immer &#8230; . Das hat mir nicht so gut gefallen.</string>
-    <string name="a22_kap24_kom_tem2_rz4">Es war keine schoene Zeit. Das w&#252;rde ich niemandem empfehlen.</string>
+    <string name="a22_kap24_kom_tem2_rz4">Es war keine sch&#246;ne Zeit. Das w&#252;rde ich niemandem empfehlen.</string>
 
 
     <string name="b11_kap01_gram_tem1">Adjektive als Nomen: h&#252;bsch -> die H&#252;bsche</string>
@@ -1993,7 +1993,7 @@
     <string name="b11_kap03_gram_tem2">Relativs&#228;tze im Akkusativ und Dativ mit Pr&#228;positionen</string>
     <string name="b11_kap03_gram_tem2_rz1">Durch die Fenster blickt man ins Gr&#252;ne.</string>
     <string name="b11_kap03_gram_tem2_rz2">Hier sind die Fenster, durch die man ins Gr&#252;ne blickt.</string>
-    <string name="b11_kap03_gram_tem2_rz3">auch so: sich freuen auf, sich &#228;rgern ueber, sprechen &#252;ber, Lust haben auf, sich interessieren f&#252;r, &#8230;</string>
+    <string name="b11_kap03_gram_tem2_rz3">auch so: sich freuen auf, sich &#228;rgern &#252;ber, sprechen &#252;ber, Lust haben auf, sich interessieren f&#252;r, &#8230;</string>
     <string name="b11_kap03_gram_tem2_rz4">Ich sa&#223; an dem Ofen.</string>
     <string name="b11_kap03_gram_tem2_rz5">Das ist der Ofen, an dem ich sa&#223;.</string>
     <string name="b11_kap03_gram_tem2_rz6">auch so: tr&#228;umen von, sprechen mit, zufrieden sein mit, sitzen an, &#8230;</string>
@@ -2006,29 +2006,29 @@
     <string name="b11_kap03_kom_tem1_rz2">Jeder zweite Teilnehmer wohnt &#8230; .</string>
 
 
-    <string name="b11_kap04_gram_tem1">Konjunktionen: unerwartete Gegensaetze</string>
+    <string name="b11_kap04_gram_tem1">Konjunktionen: unerwartete Gegens&#228;tze</string>
     <string name="b11_kap04_gram_tem1_rz1">Hauptsatz + Nebensatz: obwohl</string>
-    <string name="b11_kap04_gram_tem1_rz2">Es hat sich bis heute nichts geaendert, obwohl ich Ihnen das mehrfach erklaert habe.</string>
+    <string name="b11_kap04_gram_tem1_rz2">Es hat sich bis heute nichts ge&#228;ndert, obwohl ich Ihnen das mehrfach erkl&#228;rt habe.</string>
     <string name="b11_kap04_gram_tem1_rz3">Hauptsatz + Hauptsatz: trotzdem</string>
-    <string name="b11_kap04_gram_tem1_rz4">Ich habe Ihnen das mehrfach erklaert. Troztdem hat sich bis heute nichts geaendert.</string>
-    <string name="b11_kap04_kom_tem1">Gespraechsstrategien am Telefon</string>
-    <string name="b11_kap04_kom_tem1_rz1">Guten Tag, Sie sind verbunden mit ... .</string>
-    <string name="b11_kap04_kom_tem1_rz2">Firma ... , mein Name ist ... , wie kann ich Ihnen helfen?</string>
-    <string name="b11_kap04_kom_tem1_rz3">Firma ... , womit koennen wir Ihnen helfen?</string>
-    <string name="b11_kap04_kom_tem1_rz4">Fuer Reklamationen / Bestellungen / Produktinformationen muss ich Sie mit der Abteilung ... verbinden. Einen Moment bitte! Ich stelle Sie durch.</string>
+    <string name="b11_kap04_gram_tem1_rz4">Ich habe Ihnen das mehrfach erkl&#228;rt. Troztdem hat sich bis heute nichts ge&#228;ndert.</string>
+    <string name="b11_kap04_kom_tem1">Gespr&#228;chsstrategien am Telefon</string>
+    <string name="b11_kap04_kom_tem1_rz1">Guten Tag, Sie sind verbunden mit &#8230; .</string>
+    <string name="b11_kap04_kom_tem1_rz2">Firma &#8230; , mein Name ist &#8230; , wie kann ich Ihnen helfen?</string>
+    <string name="b11_kap04_kom_tem1_rz3">Firma &#8230; , womit k&#246;nnen wir Ihnen helfen?</string>
+    <string name="b11_kap04_kom_tem1_rz4">F&#252;r Reklamationen / Bestellungen / Produktinformationen muss ich Sie mit der Abteilung &#8230; verbinden. Einen Moment bitte! Ich stelle Sie durch.</string>
     <string name="b11_kap04_kom_tem1_rz5">Oh, das tut mir leid, da sind Sie hier leider falsch. Moment, ich verbinde Sie mit meiner Kollegin / meinem Kollegen. Bleiben Sie bitte am Apparat.</string>
-    <string name="b11_kap04_kom_tem1_rz6">Hoeren Sie, Frau / Herr ... , es tut mir sehr leid, aber die Kollegin / der Kollege ist gerade zu Tisch / ausser Haus / in einer Sitzung.</string>
-    <string name="b11_kap04_kom_tem1_rz7">Frau / Herr ... spricht gerade. / Ihr / Sein Anschluss ist besetzt.</string>
-    <string name="b11_kap04_kom_tem1_rz8">Koennten Sie bitte spaeter noch einmal anrufen?</string>
-    <string name="b11_kap04_kom_tem1_rz9">Kann sie / er Sie zurueckrufen?</string>
+    <string name="b11_kap04_kom_tem1_rz6">H&#246;ren Sie, Frau / Herr &#8230; , es tut mir sehr leid, aber die Kollegin / der Kollege ist gerade zu Tisch / ausser Haus / in einer Sitzung.</string>
+    <string name="b11_kap04_kom_tem1_rz7">Frau / Herr &#8230; spricht gerade. / Ihr / Sein Anschluss ist besetzt.</string>
+    <string name="b11_kap04_kom_tem1_rz8">K&#246;nnten Sie bitte sp&#228;ter noch einmal anrufen?</string>
+    <string name="b11_kap04_kom_tem1_rz9">Kann sie / er Sie zur&#252;ckrufen?</string>
     <string name="b11_kap04_kom_tem1_rz10">Kann ich ihr / ihm etwas ausrichten?</string>
     <string name="b11_kap04_kom_tem2">schriftlich reklamieren</string>
     <string name="b11_kap04_kom_tem2_rz1">Obwohl ich Ihnen schon zwei E-mails geschickt habe, habe ich noch keine Antwort erhalten.</string>
-    <string name="b11_kap04_kom_tem2_rz2">Das ist wirklich sehr aergerlich.</string>
-    <string name="b11_kap04_kom_tem2_rz3">Ich moechte Sie auffordern, dass Sie mir ab sofort ... .</string>
-    <string name="b11_kap04_kom_tem2_rz4">Bitte bestaetigen Sie mir schriftlich, dass ... .</string>
-    <string name="b11_kap04_kom_tem2_rz5">Ich muss leider sagen, dass ... .</string>
-    <string name="b11_kap04_kom_tem2_rz6">Ihr Service / ... hat mich sehr enttaeuscht. Trotzdem ... .</string>
+    <string name="b11_kap04_kom_tem2_rz2">Das ist wirklich sehr &#228;rgerlich.</string>
+    <string name="b11_kap04_kom_tem2_rz3">Ich m&#246;chte Sie auffordern, dass Sie mir ab sofort &#8230; .</string>
+    <string name="b11_kap04_kom_tem2_rz4">Bitte best&#228;tigen Sie mir schriftlich, dass &#8230; .</string>
+    <string name="b11_kap04_kom_tem2_rz5">Ich muss leider sagen, dass &#8230; .</string>
+    <string name="b11_kap04_kom_tem2_rz6">Ihr Service / &#8230; hat mich sehr entt&#228;uscht. Trotzdem &#8230; .</string>
 
 
 </resources>
