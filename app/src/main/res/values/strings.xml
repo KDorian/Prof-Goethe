@@ -2087,4 +2087,35 @@
     <string name="b11_kap06_kom_tem2_rz9">Oh, wie schade! Dann kann ich Ihnen leider nichts anbieten. / Dann kann ich Ihnen nur &#8230; anbieten.</string>
 
 
+    <string name="b11_kap07_gram_tem1">Infinitiv mit zu</string>
+    <string name="b11_kap07_gram_tem1_rz1">Habt ihr Lust, jeden Tag die Kaninchen zu fuettern?</string>
+    <string name="b11_kap07_gram_tem1_rz2"><![CDATA[nachdenken -> Ich rate Ihnen, noch einmal nachzudenken.]]></string>
+    <string name="b11_kap07_gram_tem2">Den Infinitiv mit zu verwendet man nach:</string>
+    <string name="b11_kap07_gram_tem2_rz1">bestimmen Verben:</string>
+    <string name="b11_kap07_gram_tem2_rz2">Ich empfehle Ihnen, die Kaninchen frei laufen zu lassen.</string>
+    <string name="b11_kap07_gram_tem2_rz3">auch so: sich vorstellen, raten, anfragen, aufhoeren, vergessen, ...</string>
+    <string name="b11_kap07_gram_tem2_rz4">Nomen + haben:</string>
+    <string name="b11_kap07_gram_tem2_rz5">Ich habe keine Zeit, das alles zu uebernahmen.</string>
+    <string name="b11_kap07_gram_tem2_rz6">auch so: Lust / Angst / Interesse haben, ...</string>
+    <string name="b11_kap07_gram_tem2_rz7">Konstruktionen mit es:</string>
+    <string name="b11_kap07_gram_tem2_rz8">Es ist nicht leicht, eine Entscheidung zu treffen.</string>
+    <string name="b11_kap07_gram_tem2_rz9">auch so: es ist toll / interessant / anstrengend / unsere Pflicht, ... / es macht Spass, ...</string>
+    <string name="b11_kap07_kom_tem1">Kundenberatungsgespraeche</string>
+    <string name="b11_kap07_kom_tem1_rz1">Kann ich etwas fuer Sie tun? / Kann ich Ihnen helfen?</string>
+    <string name="b11_kap07_kom_tem1_rz2">Ich moechte mich mal bei Ihnen umsehen und informieren.</string>
+    <string name="b11_kap07_kom_tem1_rz3">Ich suche ... . Koennen Sie mir einen / eines / eine empfehlen?</string>
+    <string name="b11_kap07_kom_tem1_rz4">Ich moechte mir ... anschaffen. Und da brauche ich jetzt Ihren Rat.</string>
+    <string name="b11_kap07_kom_tem1_rz5">Hier haben wir ... im Angebot.</string>
+    <string name="b11_kap07_kom_tem1_rz6">Zunaechst muss ich Ihnen sagen, dass es bei ... grosse Unterschiede gibt.</string>
+    <string name="b11_kap07_kom_tem1_rz7">Ausserdem sollten / muessen Sie bedenken, dass ... .</string>
+    <string name="b11_kap07_kom_tem1_rz8">Und Sie sollten auch noch beruecksichtigen, dass ... .</string>
+    <string name="b11_kap07_kom_tem1_rz9">Deneken Sie daran, ... . / Vergessen Sie nicht, ... .</string>
+    <string name="b11_kap07_kom_tem1_rz10">Danke, das ist ein guter Hinweis. Dann kommt das Angebot fuer mich nicht infrage. Ja, Sie haben recht.</string>
+    <string name="b11_kap07_kom_tem1_rz11">Ich rate Ihnen (also), ... . Dann wuerde ich Ihnen ... empfehlen.</string>
+    <string name="b11_kap07_kom_tem1_rz12">Das muss ich mir zu Hause noch gut ueberlegen.</string>
+    <string name="b11_kap07_kom_tem1_rz13">Da muss man ja wirklich einiges beachten.</string>
+    <string name="b11_kap07_kom_tem1_rz14">Dann wuerde ich diesen / dieses / diese gern einmal anprobieren.</string>
+    <string name="b11_kap07_kom_tem1_rz15">Ach, ich habe mich schon entschieden. Ich nehme ... .</string>
+
+
 </resources>
