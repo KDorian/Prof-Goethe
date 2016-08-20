@@ -2052,6 +2052,39 @@
     <string name="b11_kap05_kom_tem1_rz5">Es wird wohl &#8230; .</string>
     <string name="b11_kap05_kom_tem1_rz6">Vermutlich wird &#8230; .</string>
     <string name="b11_kap05_kom_tem1_rz7">Ich kann mir gut / nicht vorstellen, dass &#8230; .</string>
+    <string name="b11_kap06_gram_tem1">Konjunktion falls (Bedingung)</string>
+    <string name="b11_kap06_gram_tem1_rz1">Falls Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.</string>
+    <string name="b11_kap06_gram_tem1_rz2">Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet haben.</string>
+
+
+    <string name="b11_kap06_kom_tem1">Halboffizielle Einladungen</string>
+    <string name="b11_kap06_kom_tem1_rz1">Herzlich willkommen, Frau / Herr ... ! Kommen Sie rein. Schoen, dass es geklappt hat.</string>
+    <string name="b11_kap06_kom_tem1_rz2">Darf ich Ihnen meien Frau / meinen Mann vorstellen?</string>
+    <string name="b11_kap06_kom_tem1_rz3">Guten Tag Frau / Herr ... . Sehr erfreut.</string>
+    <string name="b11_kap06_kom_tem1_rz4">Oh! Das ist aber ein schoener Blumenstrauss. Vielen Dank!</string>
+    <string name="b11_kap06_kom_tem1_rz5">Setzen Sie sich! / Fuehlen Sie sich wie zu Hause! Darf ich Ihnen ein Glas Sekt anbieten?</string>
+    <string name="b11_kap06_kom_tem1_rz6">Vielen Dank! Das freut uns / mich.</string>
+    <string name="b11_kap06_kom_tem1_rz7">Moechten Sie noch etwas ... / Darf ich Ihnen ... anbieten?</string>
+    <string name="b11_kap06_kom_tem1_rz8">Darf ich Ihnen noch etwas Kaffee nachschenken?</string>
+    <string name="b11_kap06_kom_tem1_rz9">Schon? Bleiben Sie doch noch ein bisschen? / Sie haben recht. Kommen Sie gut nach Hause.</string>
+    <string name="b11_kap06_kom_tem1_rz10">Gern geschehen.</string>
+    <string name="b11_kap06_kom_tem1_rz11">Vielen Dank fuer Ihre Gastfreundschaft, Frau / Herr ... .</string>
+    <string name="b11_kap06_kom_tem1_rz12">Ganz meinerseits. Die sind fuer Sie!</string>
+    <string name="b11_kap06_kom_tem1_rz13">Ja, gern. Danke.</string>
+    <string name="b11_kap06_kom_tem1_rz14">Hm, das sieht aber lecker aus. Und es riecht so gut. / Es hat wirklich ausgezeichnet geschmeckt.</string>
+    <string name="b11_kap06_kom_tem1_rz15">Ja, gern. / Nein danke. Ich bin leider schon satt.</string>
+    <string name="b11_kap06_kom_tem1_rz16">Nein, danke. Es ist schon spaet. Ich muss langsam gehen.</string>
+    <string name="b11_kap06_kom_tem1_rz17">Noch einmal herzlichen Dank fuer die Einladung! Ich habe lange nicht so gut gegessen.</string>
+    <string name="b11_kap06_kom_tem2">Sonderwuensche aeussern und darauf reagieren</string>
+    <string name="b11_kap06_kom_tem2_rz1">Ich wollte eigentlich noch ... , aber ... .</string>
+    <string name="b11_kap06_kom_tem2_rz2">Es tut mir leid. Aber ich habe eine ...allergie. / Ich bin allergisch gegen ... .</string>
+    <string name="b11_kap06_kom_tem2_rz3">Wenn es Sie nicht stoert, wuerde ich lieber ... .</string>
+    <string name="b11_kap06_kom_tem2_rz4">Wenn es keine Umstaende macht, haette ich lieber ... .</string>
+    <string name="b11_kap06_kom_tem2_rz5">Ach, das macht doch nichts.</string>
+    <string name="b11_kap06_kom_tem2_rz6">Das ist kein Problem.</string>
+    <string name="b11_kap06_kom_tem2_rz7">Das macht gar keine Umstaende.</string>
+    <string name="b11_kap06_kom_tem2_rz8">Oh, das tut mir leid! Aber da kann man leider nichts machen.</string>
+    <string name="b11_kap06_kom_tem2_rz9">Oh, wie schade! Dann kann ich Ihnen leider nichts anbieten. / Dann kann ich Ihnen nur ... anbieten.</string>
 
 
 </resources>
