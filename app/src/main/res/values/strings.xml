@@ -2030,6 +2030,26 @@
     <string name="b11_kap04_kom_tem2_rz5">Ich muss leider sagen, dass &#8230; .</string>
     <string name="b11_kap04_kom_tem2_rz6">Ihr Service / &#8230; hat mich sehr entt&#228;uscht. Trotzdem &#8230; .</string>
     <string name="b11_kap04_kom_tem2_rz7">Wenn ich bis ... keine Zeitung bekomme / nichts von Ihnen hoere, (dann) ... .</string>
+    <string name="b11_kap05_gram_tem1">Zukunft</string>
+    <string name="b11_kap05_gram_tem1_rz1">1) etwas ist sicher:</string>
+    <string name="b11_kap05_gram_tem1_rz2">2) bei Vorhersagen / Vermutungen:</string>
+    <string name="b11_kap05_gram_tem1_rz3">Praesens + Zeitangabe\nMorgen kaufe ich einen neuen PC.</string>
+    <string name="b11_kap05_gram_tem1_rz4">Futur I\nBald wird in jedem Haushalt ein PC stehen.</string>
+    <string name="b11_kap05_gram_tem2">Futur I: werden + Infinitv</string>
+    <string name="b11_kap05_gram_tem2_rz1">Vorhersage / Vermutung:</string>
+    <string name="b11_kap05_gram_tem2_rz2">Bald wird in fast jedem Haushalt ein PC stehen.</string>
+    <string name="b11_kap05_gram_tem2_rz3">Warnung / Aufforderung:</string>
+    <string name="b11_kap05_gram_tem2_rz4">Du wirst jetzt bitte die Musik leiser machen!</string>
+    <string name="b11_kap05_gram_tem2_rz5">Versprechen / Vorsatz / Plan:</string>
+    <string name="b11_kap05_gram_tem2_rz6">Ich werde morgen mit dem Rauchen aufhoeren.</string>
+    <string name="b11_kap05_kom_tem1">Vermutungen ueber Zukuenftiges aeussern</string>
+    <string name="b11_kap05_kom_tem1_rz1">Ich glaube, in 20 Jahren wird ... .</string>
+    <string name="b11_kap05_kom_tem1_rz2">Das halte ich fuer unmoeglich.</string>
+    <string name="b11_kap05_kom_tem1_rz3">Dazu gibt es wohl keine Alternative.</string>
+    <string name="b11_kap05_kom_tem1_rz4">Ich vermute, dass ... .</string>
+    <string name="b11_kap05_kom_tem1_rz5">Es wird wohl ... .</string>
+    <string name="b11_kap05_kom_tem1_rz6">Vermutlich wird ... .</string>
+    <string name="b11_kap05_kom_tem1_rz7">Ich kann mir gut/nicht vorstellen, dass ... .</string>
 
 
 </resources>
