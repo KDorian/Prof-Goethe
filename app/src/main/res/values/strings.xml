@@ -2029,7 +2029,7 @@
     <string name="b11_kap04_kom_tem2_rz4">Bitte best&#228;tigen Sie mir schriftlich, dass &#8230; .</string>
     <string name="b11_kap04_kom_tem2_rz5">Ich muss leider sagen, dass &#8230; .</string>
     <string name="b11_kap04_kom_tem2_rz6">Ihr Service / &#8230; hat mich sehr entt&#228;uscht. Trotzdem &#8230; .</string>
-    <string name="b11_kap04_kom_tem2_rz7">Wenn ich bis &#8230; keine Zeitung bekomme / nichts von Ihnen hoere, (dann) &#8230; .</string>
+    <string name="b11_kap04_kom_tem2_rz7">Wenn ich bis &#8230; keine Zeitung bekomme / nichts von Ihnen h&#246;re, (dann) &#8230; .</string>
 
 
     <string name="b11_kap05_gram_tem1">Zukunft</string>
@@ -2088,34 +2088,34 @@
 
 
     <string name="b11_kap07_gram_tem1">Infinitiv mit zu</string>
-    <string name="b11_kap07_gram_tem1_rz1">Habt ihr Lust, jeden Tag die Kaninchen zu fuettern?</string>
-    <string name="b11_kap07_gram_tem1_rz2"><![CDATA[nachdenken -> Ich rate Ihnen, noch einmal nachzudenken.]]></string>
+    <string name="b11_kap07_gram_tem1_rz1">Habt ihr Lust, jeden Tag die Kaninchen zu f&#252;ttern?</string>
+    <string name="b11_kap07_gram_tem1_rz2">nachdenken -> Ich rate Ihnen, noch einmal nachzudenken.</string>
     <string name="b11_kap07_gram_tem2">Den Infinitiv mit zu verwendet man nach:</string>
     <string name="b11_kap07_gram_tem2_rz1">bestimmen Verben:</string>
     <string name="b11_kap07_gram_tem2_rz2">Ich empfehle Ihnen, die Kaninchen frei laufen zu lassen.</string>
-    <string name="b11_kap07_gram_tem2_rz3">auch so: sich vorstellen, raten, anfragen, aufhoeren, vergessen, ...</string>
+    <string name="b11_kap07_gram_tem2_rz3">auch so: sich vorstellen, raten, anfragen, aufh&#246;ren, vergessen, &#8230;</string>
     <string name="b11_kap07_gram_tem2_rz4">Nomen + haben:</string>
-    <string name="b11_kap07_gram_tem2_rz5">Ich habe keine Zeit, das alles zu uebernahmen.</string>
-    <string name="b11_kap07_gram_tem2_rz6">auch so: Lust / Angst / Interesse haben, ...</string>
+    <string name="b11_kap07_gram_tem2_rz5">Ich habe keine Zeit, das alles zu &#252;bernahmen.</string>
+    <string name="b11_kap07_gram_tem2_rz6">auch so: Lust / Angst / Interesse haben, &#8230;</string>
     <string name="b11_kap07_gram_tem2_rz7">Konstruktionen mit es:</string>
     <string name="b11_kap07_gram_tem2_rz8">Es ist nicht leicht, eine Entscheidung zu treffen.</string>
-    <string name="b11_kap07_gram_tem2_rz9">auch so: es ist toll / interessant / anstrengend / unsere Pflicht, ... / es macht Spass, ...</string>
-    <string name="b11_kap07_kom_tem1">Kundenberatungsgespraeche</string>
-    <string name="b11_kap07_kom_tem1_rz1">Kann ich etwas fuer Sie tun? / Kann ich Ihnen helfen?</string>
-    <string name="b11_kap07_kom_tem1_rz2">Ich moechte mich mal bei Ihnen umsehen und informieren.</string>
-    <string name="b11_kap07_kom_tem1_rz3">Ich suche ... . Koennen Sie mir einen / eines / eine empfehlen?</string>
-    <string name="b11_kap07_kom_tem1_rz4">Ich moechte mir ... anschaffen. Und da brauche ich jetzt Ihren Rat.</string>
-    <string name="b11_kap07_kom_tem1_rz5">Hier haben wir ... im Angebot.</string>
-    <string name="b11_kap07_kom_tem1_rz6">Zunaechst muss ich Ihnen sagen, dass es bei ... grosse Unterschiede gibt.</string>
-    <string name="b11_kap07_kom_tem1_rz7">Ausserdem sollten / muessen Sie bedenken, dass ... .</string>
-    <string name="b11_kap07_kom_tem1_rz8">Und Sie sollten auch noch beruecksichtigen, dass ... .</string>
-    <string name="b11_kap07_kom_tem1_rz9">Deneken Sie daran, ... . / Vergessen Sie nicht, ... .</string>
-    <string name="b11_kap07_kom_tem1_rz10">Danke, das ist ein guter Hinweis. Dann kommt das Angebot fuer mich nicht infrage. Ja, Sie haben recht.</string>
-    <string name="b11_kap07_kom_tem1_rz11">Ich rate Ihnen (also), ... . Dann wuerde ich Ihnen ... empfehlen.</string>
-    <string name="b11_kap07_kom_tem1_rz12">Das muss ich mir zu Hause noch gut ueberlegen.</string>
+    <string name="b11_kap07_gram_tem2_rz9">auch so: es ist toll / interessant / anstrengend / unsere Pflicht, &#8230; / es macht Spa&#223;, &#8230;</string>
+    <string name="b11_kap07_kom_tem1">Kundenberatungsgespr&#228;che</string>
+    <string name="b11_kap07_kom_tem1_rz1">Kann ich etwas f&#252;r Sie tun? / Kann ich Ihnen helfen?</string>
+    <string name="b11_kap07_kom_tem1_rz2">Ich m&#246;chte mich mal bei Ihnen umsehen und informieren.</string>
+    <string name="b11_kap07_kom_tem1_rz3">Ich suche &#8230; . K&#246;nnen Sie mir einen / eines / eine empfehlen?</string>
+    <string name="b11_kap07_kom_tem1_rz4">Ich m&#246;chte mir &#8230; anschaffen. Und da brauche ich jetzt Ihren Rat.</string>
+    <string name="b11_kap07_kom_tem1_rz5">Hier haben wir &#8230; im Angebot.</string>
+    <string name="b11_kap07_kom_tem1_rz6">Zun&#228;chst muss ich Ihnen sagen, dass es bei &#8230; gro&#223;e Unterschiede gibt.</string>
+    <string name="b11_kap07_kom_tem1_rz7">Ausserdem sollten / m&#252;ssen Sie bedenken, dass &#8230; .</string>
+    <string name="b11_kap07_kom_tem1_rz8">Und Sie sollten auch noch ber&#252;cksichtigen, dass &#8230; .</string>
+    <string name="b11_kap07_kom_tem1_rz9">Deneken Sie daran, &#8230; . / Vergessen Sie nicht, &#8230; .</string>
+    <string name="b11_kap07_kom_tem1_rz10">Danke, das ist ein guter Hinweis. Dann kommt das Angebot f&#252;r mich nicht infrage. Ja, Sie haben recht.</string>
+    <string name="b11_kap07_kom_tem1_rz11">Ich rate Ihnen (also), &#8230; . Dann w&#252;rde ich Ihnen &#8230; empfehlen.</string>
+    <string name="b11_kap07_kom_tem1_rz12">Das muss ich mir zu Hause noch gut &#252;berlegen.</string>
     <string name="b11_kap07_kom_tem1_rz13">Da muss man ja wirklich einiges beachten.</string>
-    <string name="b11_kap07_kom_tem1_rz14">Dann wuerde ich diesen / dieses / diese gern einmal anprobieren.</string>
-    <string name="b11_kap07_kom_tem1_rz15">Ach, ich habe mich schon entschieden. Ich nehme ... .</string>
+    <string name="b11_kap07_kom_tem1_rz14">Dann w&#252;rde ich diesen / dieses / diese gern einmal anprobieren.</string>
+    <string name="b11_kap07_kom_tem1_rz15">Ach, ich habe mich schon entschieden. Ich nehme &#8230; .</string>
 
 
 </resources>
