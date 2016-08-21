@@ -2118,4 +2118,31 @@
     <string name="b11_kap07_kom_tem1_rz15">Ach, ich habe mich schon entschieden. Ich nehme &#8230; .</string>
 
 
+    <string name="b11_kap08_gram_tem1">Konjunktion da</string>
+    <string name="b11_kap08_gram_tem1_rz4">sitzen.</string>
+    <string name="b11_kap08_gram_tem1_rz2">Grund</string>
+    <string name="b11_kap08_gram_tem1_rz">da Sie nicht gern am Schreibtisch</string>
+    <string name="b11_kap08_gram_tem1_rz1">Fuer Sie ist ein Ausbildungsberuf besser als ein Studium,</string>
+    <string name="b11_kap08_gram_tem2">Konjunktionen bevor und waehrend</string>
+    <string name="b11_kap08_gram_tem2_rz1">Handlung A findet vor Handlung B statt.</string>
+    <string name="b11_kap08_gram_tem2_rz2">Die Handlungen A und B finden gleichzeitig statt.</string>
+    <string name="b11_kap08_gram_tem2_rz3">Handlung A</string>
+    <string name="b11_kap08_gram_tem2_rz4">Ich fruehstuecke,</string>
+    <string name="b11_kap08_gram_tem2_rz5">Ich fruehstuecke,</string>
+    <string name="b11_kap08_gram_tem2_rz6">Handlung B</string>
+    <string name="b11_kap08_gram_tem2_rz7">bevor ich zur Arbeit</string>
+    <string name="b11_kap08_gram_tem2_rz8">waehrend ich zur Arbeit</string>
+    <string name="b11_kap08_gram_tem2_rz9">fahre.</string>
+    <string name="b11_kap08_gram_tem2_rz10">fahre.</string>
+    <string name="b11_kap08_kom_tem1">Stellung nehmen</string>
+    <string name="b11_kap08_kom_tem1_rz1">Das Ergebnis / Der Test sagt, dass ich ein ... Typ bin.</string>
+    <string name="b11_kap08_kom_tem1_rz2">Das kann ich mir gar nicht / gut vorstellen.</string>
+    <string name="b11_kap08_kom_tem1_rz3">Das haette ich nicht erwartet.</string>
+    <string name="b11_kap08_kom_tem1_rz4">Das passt sehr gut / ueberhaupt nicht.</string>
+    <string name="b11_kap08_kom_tem1_rz5">Das entspricht meinen Faehigkeiten / mir (nicht).</string>
+    <string name="b11_kap08_kom_tem1_rz6">Fuer technische / soziale / ... Berufe bin ich sehr gut / eher nicht geeignet.</string>
+    <string name="b11_kap08_kom_tem1_rz7">Da ich gern mit meinen Haenden arbeite, passt das Ergebnis ueberhapt nicht / gut zu mir.</string>
+    <string name="b11_kap08_kom_tem1_rz8">Ich denke eher, dass ich technisch / handwerklich / ... begabt bin.</string>
+
+
 </resources>
