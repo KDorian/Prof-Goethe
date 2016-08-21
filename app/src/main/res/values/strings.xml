@@ -2145,4 +2145,39 @@
     <string name="b11_kap08_kom_tem1_rz8">Ich denke eher, dass ich technisch / handwerklich / &#8230; begabt bin.</string>
 
 
+    <string name="b11_kap09_gram_tem1">Adjektivdeklination: Komparativ (++) und Superlativ (+++)</string>
+    <string name="b11_kap09_gram_tem1_rz1">der kleinere / kleinste ein kleinerer</string>
+    <string name="b11_kap09_gram_tem1_rz2">das kleinere / kleinste ein kleineres</string>
+    <string name="b11_kap09_gram_tem1_rz3">die kleinere / kleinste eine kleinere</string>
+    <string name="b11_kap09_gram_tem1_rz4">die kleineren / kleinsten - kleinere / kleinste</string>
+    <string name="b11_kap09_gram_tem1_rz5">den kleineren / kleinsten einen kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz6">das kleinere / kleinste ein kleineres</string>
+    <string name="b11_kap09_gram_tem1_rz7">die kleinere / kleinste eine kleinere</string>
+    <string name="b11_kap09_gram_tem1_rz8">die klei eren / kleinsten - kleinere / kleinste</string>
+    <string name="b11_kap09_gram_tem1_rz9">dem kleineren / kleinsten einem kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz10">dem kleineren / kleinsten einem kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz11">der kleineren / kleinsten einer kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz12">den kleineren / kleinsten - kleineren / kleinsten</string>
+    <string name="b11_kap09_gram_tem1_rz13">Stuhl</string>
+    <string name="b11_kap09_gram_tem1_rz14">Haus</string>
+    <string name="b11_kap09_gram_tem1_rz15">Hand</string>
+    <string name="b11_kap09_gram_tem1_rz16">Stuehle(n)</string>
+    <string name="b11_kap09_kom_tem1">eine Praesentation halten</string>
+    <string name="b11_kap09_kom_tem1_rz1">Einleitung</string>
+    <string name="b11_kap09_kom_tem1_rz2">In meiner Praesentation geht es um das Thema ... .</string>
+    <string name="b11_kap09_kom_tem1_rz3">Zum Inhalt meiner Praesentation:</string>
+    <string name="b11_kap09_kom_tem1_rz4">Zunaechst / Zuerst moechte ich Ihnen erlaeutern, ... .</string>
+    <string name="b11_kap09_kom_tem1_rz5">Danach zeige ich Ihnen ...</string>
+    <string name="b11_kap09_kom_tem1_rz6">Anschliessend moechte ich auf ... eingehen.</string>
+    <string name="b11_kap09_kom_tem1_rz7">Anschliessend koennen Sie Fragen stellen.</string>
+    <string name="b11_kap09_kom_tem1_rz8">Uebergaenge</string>
+    <string name="b11_kap09_kom_tem1_rz9">Und damit / nun komme ich zum naechsten / letzten Punkt / zu meinen persoenlichen Erfahrungen / zur Situation in meinem  Heimatland / zu den Vor- und Nachteilen.</string>
+    <string name="b11_kap09_kom_tem1_rz10">Als ich das letzte Mal ... , habe ich Folgendes erlebt: ... .</string>
+    <string name="b11_kap09_kom_tem1_rz11">Ich habe die Erfahrung gemacht, dass ... speilt eine grosse Rolle / keine Rolle in meinem Heimatland.</string>
+    <string name="b11_kap09_kom_tem1_rz12">Meiner Ansicht / Meinung nach ... .</string>
+    <string name="b11_kap09_kom_tem1_rz13">Abschluss</string>
+    <string name="b11_kap09_kom_tem1_rz14">Ich bin nun mit meinem Vortrag am Ende. Haben Sie noch Fragen?</string>
+    <string name="b11_kap09_kom_tem1_rz15">Ich danke Ihnen fuers Zuhoeren! / Besten Dank fuer Ihre Aufmerksamkeit. / Ihr Interesse.</string>
+
+
 </resources>
