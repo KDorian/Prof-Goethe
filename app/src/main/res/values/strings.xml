@@ -2146,18 +2146,18 @@
 
 
     <string name="b11_kap09_gram_tem1">Adjektivdeklination: Komparativ (++) und Superlativ (+++)</string>
-    <string name="b11_kap09_gram_tem1_rz1">der kleinere / kleinste ein kleinerer</string>
-    <string name="b11_kap09_gram_tem1_rz2">das kleinere / kleinste ein kleineres</string>
-    <string name="b11_kap09_gram_tem1_rz3">die kleinere / kleinste eine kleinere</string>
-    <string name="b11_kap09_gram_tem1_rz4">die kleineren / kleinsten - kleinere / kleinste</string>
-    <string name="b11_kap09_gram_tem1_rz5">den kleineren / kleinsten einen kleineren</string>
-    <string name="b11_kap09_gram_tem1_rz6">das kleinere / kleinste ein kleineres</string>
-    <string name="b11_kap09_gram_tem1_rz7">die kleinere / kleinste eine kleinere</string>
-    <string name="b11_kap09_gram_tem1_rz8">die klei eren / kleinsten - kleinere / kleinste</string>
-    <string name="b11_kap09_gram_tem1_rz9">dem kleineren / kleinsten einem kleineren</string>
-    <string name="b11_kap09_gram_tem1_rz10">dem kleineren / kleinsten einem kleineren</string>
-    <string name="b11_kap09_gram_tem1_rz11">der kleineren / kleinsten einer kleineren</string>
-    <string name="b11_kap09_gram_tem1_rz12">den kleineren / kleinsten - kleineren / kleinsten</string>
+    <string name="b11_kap09_gram_tem1_rz1">der kleinere / kleinste\nein kleinerer</string>
+    <string name="b11_kap09_gram_tem1_rz2">das kleinere / kleinste\nein kleineres</string>
+    <string name="b11_kap09_gram_tem1_rz3">die kleinere / kleinste\neine kleinere</string>
+    <string name="b11_kap09_gram_tem1_rz4">die kleineren / kleinsten\n- kleinere / kleinste</string>
+    <string name="b11_kap09_gram_tem1_rz5">den kleineren / kleinsten\neinen kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz6">das kleinere / kleinste\nein kleineres</string>
+    <string name="b11_kap09_gram_tem1_rz7">die kleinere / kleinste\neine kleinere</string>
+    <string name="b11_kap09_gram_tem1_rz8">die klei eren / kleinsten\n- kleinere / kleinste</string>
+    <string name="b11_kap09_gram_tem1_rz9">dem kleineren / kleinsten\neinem kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz10">dem kleineren / kleinsten\neinem kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz11">der kleineren / kleinsten\neiner kleineren</string>
+    <string name="b11_kap09_gram_tem1_rz12">den kleineren / kleinsten\n- kleineren / kleinsten</string>
     <string name="b11_kap09_gram_tem1_rz13">Stuhl</string>
     <string name="b11_kap09_gram_tem1_rz14">Haus</string>
     <string name="b11_kap09_gram_tem1_rz15">Hand</string>
@@ -2170,7 +2170,7 @@
     <string name="b11_kap09_kom_tem1_rz5">Danach zeige ich Ihnen &#8230;</string>
     <string name="b11_kap09_kom_tem1_rz6">Anschlie&#223;end m&#246;chte ich auf &#8230; eingehen.</string>
     <string name="b11_kap09_kom_tem1_rz7">Anschlie&#223;end k&#246;nnen Sie Fragen stellen.</string>
-    <string name="b11_kap09_kom_tem1_rz8">&#252;berg&#228;nge</string>
+    <string name="b11_kap09_kom_tem1_rz8">&#220;berg&#228;nge</string>
     <string name="b11_kap09_kom_tem1_rz9">Und damit / nun komme ich zum n&#228;chsten / letzten Punkt / zu meinen pers&#246;nlichen Erfahrungen / zur Situation in meinem  Heimatland / zu den Vor- und Nachteilen.</string>
     <string name="b11_kap09_kom_tem1_rz10">Als ich das letzte Mal &#8230; , habe ich Folgendes erlebt: &#8230; .</string>
     <string name="b11_kap09_kom_tem1_rz11">Ich habe die Erfahrung gemacht, dass &#8230; speilt eine gro&#223;e Rolle / keine Rolle in meinem Heimatland.</string>
