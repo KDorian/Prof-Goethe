@@ -2211,6 +2211,29 @@
     <string name="b11_kap10_kom_tem2_rz7">Aber da kann man wohl nichts mehr machen.</string>
     <string name="b11_kap10_kom_tem2_rz8">Alles im Leben hat einen Sinn.</string>
     <string name="b11_kap10_kom_tem2_rz9">Man wei&#223; nie, ob es nicht sogar besser ist, wie es ist.</string>
+    <string name="b11_kap11_gram_tem1">Plusquamperfekt mit haben und sein</string>
+    <string name="b11_kap11_gram_tem1_rz1">hatte / war</string>
+    <string name="b11_kap11_gram_tem1_rz2">hatte</string>
+    <string name="b11_kap11_gram_tem1_rz3">war</string>
+    <string name="b11_kap11_gram_tem1_rz4">Partizip</string>
+    <string name="b11_kap11_gram_tem1_rz5">gesammelt</string>
+    <string name="b11_kap11_gram_tem1_rz6">gelaufen</string>
+    <string name="b11_kap11_gram_tem1_rz7">Wir hatten tatsaechlich sechs Kilo Pilze gesammelt.</string>
+    <string name="b11_kap11_gram_tem2">Konjunktion nachdem</string>
+    <string name="handlungA">Handlung A</string>
+    <string name="handlungB">Handlung B</string>
+    <string name="b11_kap11_gram_tem2_rz1">Nachdem mir mein Chef das erzaehlt hatte,</string>
+    <string name="b11_kap11_gram_tem2_rz2">rannte ich laut singend nach Hause.</string>
+    <string name="b11_kap11_gram_tem2_rz3">Ich rannte laut singend nach Hause,</string>
+    <string name="b11_kap11_gram_tem2_rz4">nachdem mir mein Chef das erzaehlt hatte.</string>
+    <string name="b11_kap11_kom_tem1">etwas emotional kommentieren</string>
+    <string name="b11_kap11_kom_tem1_rz1">So etwas habe ich auch schon einmal erlebt.</string>
+    <string name="b11_kap11_kom_tem1_rz2">Das ist mir auch schon passiert.</string>
+    <string name="b11_kap11_kom_tem1_rz3">Das finde ich sehr beruehrend.</string>
+    <string name="b11_kap11_kom_tem1_rz4">Das beruehrt mich sehr.</string>
+    <string name="b11_kap11_kom_tem1_rz5">Das kann ich gut nachempfinden.</string>
+    <string name="b11_kap11_kom_tem1_rz6">Darueber haette ich mich auch sehr gefreut.</string>
+    <string name="b11_kap11_kom_tem1_rz7">Dieses Erlebnis finde ich besonders schoen.</string>
 
 
 </resources>
