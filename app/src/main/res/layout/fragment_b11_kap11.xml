@@ -119,7 +119,8 @@
                     android:gravity="center"
                     android:text="@string/b11_kap11_gram_tem1_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textColor="#ff0000" />
 
                 <TextView
                     android:id="@+id/textView3733"
@@ -131,7 +132,8 @@
                     android:gravity="center"
                     android:text="@string/b11_kap11_gram_tem1_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textColor="#ff0000" />
             </TableRow>
 
             <TableRow
@@ -160,7 +162,8 @@
                     android:gravity="center"
                     android:text="@string/b11_kap11_gram_tem1_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textColor="#ff0000" />
 
                 <TextView
                     android:id="@+id/textView3734"
@@ -172,7 +175,8 @@
                     android:gravity="center"
                     android:text="@string/b11_kap11_gram_tem1_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textColor="#ff0000" />
             </TableRow>
         </TableLayout>
 
