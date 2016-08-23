@@ -2240,4 +2240,44 @@
     <string name="b11_kap11_kom_tem1_rz7">Dieses Erlebnis finde ich besonders schoen.</string>
 
 
+    <string name="b11_kap12_gram_tem1">Genitiv</string>
+    <string name="b11_kap12_gram_tem1_rz1">mit definitem Artikel / Demonstartivartikel</string>
+    <string name="b11_kap12_gram_tem1_rz2">des / dieses Betriebsrats</string>
+    <string name="b11_kap12_gram_tem1_rz3">des / dieses Jahres</string>
+    <string name="b11_kap12_gram_tem1_rz4">der / dieser Betriebsvereinbarung</string>
+    <string name="b11_kap12_gram_tem1_rz5">der / dieser Umbauarbeiten</string>
+    <string name="b11_kap12_gram_tem1_rz6">mit indefinitem Artikel / Possessivartikel</string>
+    <string name="b11_kap12_gram_tem1_rz7">eines / unseres Betriebsrats</string>
+    <string name="b11_kap12_gram_tem1_rz8">eines / unseres Jahres</string>
+    <string name="b11_kap12_gram_tem1_rz9">einer / unserer Betriebsvereinbarung</string>
+    <string name="b11_kap12_gram_tem1_rz10">von Umbauarbeiten / unserer Umbauarbeiten</string>
+    <string name="b11_kap12_gram_tem1_rz11">auch so: mein-, dein-, ... ! Plural: meiner/deiner/...</string>
+    <string name="b11_kap12_gram_tem2">Praeposition trotz + Adjektivdeklination im Genitiv</string>
+    <string name="b11_kap12_gram_tem2_rz1">trotz</string>
+    <string name="b11_kap12_gram_tem2_rz2">def. / indef. Artikel</string>
+    <string name="b11_kap12_gram_tem2_rz3">des / eines geplanten</string>
+    <string name="b11_kap12_gram_tem2_rz4">des / eines schlechten</string>
+    <string name="b11_kap12_gram_tem2_rz5">der / einer guten</string>
+    <string name="b11_kap12_gram_tem2_rz6">der geplanten</string>
+    <string name="b11_kap12_gram_tem2_rz7">Nullartikel</string>
+    <string name="b11_kap12_gram_tem2_rz8">geplanten</string>
+    <string name="b11_kap12_gram_tem2_rz10">guter</string>
+    <string name="b11_kap12_gram_tem2_rz9">schlachten</string>
+    <string name="b11_kap12_gram_tem2_rz11">geplanter</string>
+    <string name="b11_kap12_gram_tem2_rz12">Ausflugs</string>
+    <string name="b11_kap12_gram_tem2_rz13">Wetters</string>
+    <string name="b11_kap12_gram_tem2_rz14">Zusammenarbeit</string>
+    <string name="b11_kap12_gram_tem2_rz15">Umbauarbeiten</string>
+    <string name="b11_kap12_kom_tem1">Briefe und E-mails: Einleitung</string>
+    <string name="b11_kap12_kom_tem1_rz1">Vielen Dank fuer Ihren Brief / ... . Ich habe mich sehr ueber ... gefreut.</string>
+    <string name="b11_kap12_kom_tem1_rz2">Ich habe mich sehr ueber ... gefreut. Vielen Dank!</string>
+    <string name="b11_kap12_kom_tem1_rz3">Vielen / Herzlichen Dank fuer Ihre Einladung. Gern ... / Leider ... .</string>
+    <string name="b11_kap12_kom_tem2_rz5">Gruessen Sie bitte ... ganz herzlich von mir.</string>
+    <string name="b11_kap12_kom_tem2_rz4">Herzlichen Dank im Voraus.</string>
+    <string name="b11_kap12_kom_tem2_rz3">Im Voraus vielen Dank fuer Ihre Muehe.</string>
+    <string name="b11_kap12_kom_tem2_rz2">Ueber eine schnelle Antwort wuerde ich mich sehr freuen.</string>
+    <string name="b11_kap12_kom_tem2_rz1">Ich wuerde mich freuen, bald von Ihnen zu hoeren.</string>
+    <string name="b11_kap12_kom_tem2">Briefe uns E-mails: Abschluss</string>
+
+
 </resources>
