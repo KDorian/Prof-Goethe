@@ -2251,8 +2251,8 @@
     <string name="b11_kap12_gram_tem1_rz8">eines / unseres Jahres</string>
     <string name="b11_kap12_gram_tem1_rz9">einer / unserer Betriebsvereinbarung</string>
     <string name="b11_kap12_gram_tem1_rz10">von Umbauarbeiten / unserer Umbauarbeiten</string>
-    <string name="b11_kap12_gram_tem1_rz11">auch so: mein-, dein-, ... ! Plural: meiner/deiner/...</string>
-    <string name="b11_kap12_gram_tem2">Praeposition trotz + Adjektivdeklination im Genitiv</string>
+    <string name="b11_kap12_gram_tem1_rz11">auch so: mein-, dein-, &#8230; ! Plural: meiner/deiner/&#8230;</string>
+    <string name="b11_kap12_gram_tem2">Pr&#228;position trotz + Adjektivdeklination im Genitiv</string>
     <string name="b11_kap12_gram_tem2_rz1">trotz</string>
     <string name="b11_kap12_gram_tem2_rz2">def. / indef. Artikel</string>
     <string name="b11_kap12_gram_tem2_rz3">des / eines geplanten</string>
@@ -2269,14 +2269,14 @@
     <string name="b11_kap12_gram_tem2_rz14">Zusammenarbeit</string>
     <string name="b11_kap12_gram_tem2_rz15">Umbauarbeiten</string>
     <string name="b11_kap12_kom_tem1">Briefe und E-mails: Einleitung</string>
-    <string name="b11_kap12_kom_tem1_rz1">Vielen Dank fuer Ihren Brief / ... . Ich habe mich sehr ueber ... gefreut.</string>
-    <string name="b11_kap12_kom_tem1_rz2">Ich habe mich sehr ueber ... gefreut. Vielen Dank!</string>
-    <string name="b11_kap12_kom_tem1_rz3">Vielen / Herzlichen Dank fuer Ihre Einladung. Gern ... / Leider ... .</string>
-    <string name="b11_kap12_kom_tem2_rz5">Gruessen Sie bitte ... ganz herzlich von mir.</string>
+    <string name="b11_kap12_kom_tem1_rz1">Vielen Dank f&#252;r Ihren Brief / &#8230; . Ich habe mich sehr &#252;ber &#8230; gefreut.</string>
+    <string name="b11_kap12_kom_tem1_rz2">Ich habe mich sehr &#252;ber &#8230; gefreut. Vielen Dank!</string>
+    <string name="b11_kap12_kom_tem1_rz3">Vielen / Herzlichen Dank f&#252;r Ihre Einladung. Gern &#8230; / Leider &#8230; .</string>
+    <string name="b11_kap12_kom_tem2_rz5">Gr&#252;&#223;en Sie bitte &#8230; ganz herzlich von mir.</string>
     <string name="b11_kap12_kom_tem2_rz4">Herzlichen Dank im Voraus.</string>
-    <string name="b11_kap12_kom_tem2_rz3">Im Voraus vielen Dank fuer Ihre Muehe.</string>
-    <string name="b11_kap12_kom_tem2_rz2">Ueber eine schnelle Antwort wuerde ich mich sehr freuen.</string>
-    <string name="b11_kap12_kom_tem2_rz1">Ich wuerde mich freuen, bald von Ihnen zu hoeren.</string>
+    <string name="b11_kap12_kom_tem2_rz3">Im Voraus vielen Dank f&#252;r Ihre M&#252;he.</string>
+    <string name="b11_kap12_kom_tem2_rz2">&#252;ber eine schnelle Antwort w&#252;rde ich mich sehr fre&#252;n.</string>
+    <string name="b11_kap12_kom_tem2_rz1">Ich w&#252;rde mich freuen, bald von Ihnen zu h&#246;ren.</string>
     <string name="b11_kap12_kom_tem2">Briefe uns E-mails: Abschluss</string>
 
 
