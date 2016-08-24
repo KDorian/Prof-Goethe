@@ -10,7 +10,7 @@
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <TextView
@@ -218,7 +218,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap2"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -417,7 +417,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap3"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -616,7 +616,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap4"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -815,7 +815,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap5"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -1014,7 +1014,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap6"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -1213,7 +1213,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap7"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -1412,7 +1412,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap8"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -1611,7 +1611,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap9"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -1810,7 +1810,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap10"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -2009,7 +2009,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap11"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -2208,7 +2208,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/b11_kom_kap1"
+            android:text="@string/b11_kom_kap12"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
