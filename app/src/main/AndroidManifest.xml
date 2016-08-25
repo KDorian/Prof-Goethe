@@ -56,6 +56,12 @@
             android:theme="@style/AppThemeAppCompat">
 
         </activity>
+        <activity
+            android:name=".B12Activity"
+            android:label="@string/title_activity_navigation_drawer_b12"
+            android:theme="@style/AppThemeAppCompat">
+
+        </activity>
     </application>
 
 </manifest>
