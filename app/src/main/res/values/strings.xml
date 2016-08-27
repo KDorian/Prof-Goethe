@@ -2322,39 +2322,41 @@
     <string name="b11_kap12_kom_tem2">Briefe uns E-mails: Abschluss</string>
 
 
-    <string name="b12_kap13_gram_tem1">Konjunktionen und Adverbien: Gruende und Folgen ausdruecken</string>
     <string name="grund">Grund</string>
     <string name="folge">Folge</string>
+
+
+    <string name="b12_kap13_gram_tem1">Konjunktionen und Adverbien: Gr&#252;nde und Folgen ausdr&#252;cken</string>
     <string name="b12_kap13_gram_tem1_rz1">Jennifer hat kurz vor dem Essen vom Tod ihres Onkels erfahren.</string>
     <string name="b12_kap13_gram_tem1_rz3">Deshalb / Darum / Deswegen / Aus diesem Grund / Daher hat sie das Essen abgesagt.</string>
-    <string name="b12_kap13_gram_tem1_rz4">Die mutter meinte naemlich nicht das Tier.</string>
-    <string name="b12_kap13_gram_tem1_rz2">Sie konnten das Missverstaendnis aufklaren:</string>
-    <string name="b12_kap13_gram_tem2">kausale Praeposition wegen + Genitiv</string>
+    <string name="b12_kap13_gram_tem1_rz4">Die mutter meinte n&#228;mlich nicht das Tier.</string>
+    <string name="b12_kap13_gram_tem1_rz2">Sie konnten das Missverst&#228;ndnis aufklaren:</string>
+    <string name="b12_kap13_gram_tem2">kausale Pr&#228;position wegen + Genitiv</string>
     <string name="b12_kap13_gram_tem2_rz1">wegen</string>
     <string name="b12_kap13_gram_tem2_rz2">des Dialekts</string>
-    <string name="b12_kap13_gram_tem2_rz3">des Missverstaendnisses</string>
+    <string name="b12_kap13_gram_tem2_rz3">des Missverst&#228;ndnisses</string>
     <string name="b12_kap13_gram_tem2_rz4">der Betonung</string>
     <string name="b12_kap13_gram_tem2_rz5">der Bedeutungen</string>
-    <string name="b12_kap13_kom_tem1">eine Geschichte erzaehlen</string>
-    <string name="b12_kap13_kom_tem1_rz1">Folgendes habe ich erlebt: Als ich ... ist mir Folgendes passiert: ...</string>
-    <string name="b12_kap13_kom_tem1_rz2">Einmal ... / Ich war einmal ... .</string>
-    <string name="b12_kap13_kom_tem1_rz3">Ich erzaehle euch von meinem Missverstaendniss. Also passt auf: ... .</string>
-    <string name="b12_kap13_kom_tem1_rz4">In meiner Sprache bedeutet ... naemlich ... .</string>
-    <string name="b12_kap13_kom_tem1_rz5">Aus diesem Grund / Daher / ... gab es ein Missverstaendnis.</string>
+    <string name="b12_kap13_kom_tem1">eine Geschichte erz&#228;hlen</string>
+    <string name="b12_kap13_kom_tem1_rz1">Folgendes habe ich erlebt: Als ich &#8230; ist mir Folgendes passiert: &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz2">Einmal &#8230; / Ich war einmal &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz3">Ich erz&#228;hle euch von meinem Missverst&#228;ndniss. Also passt auf: &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz4">In meiner Sprache bedeutet &#8230; n&#228;mlich &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz5">Aus diesem Grund / Daher / &#8230; gab es ein Missverst&#228;ndnis.</string>
     <string name="b12_kap13_kom_tem1_rz6">Wegen meiner falschen Aussprache haben die beiden mich missverstanden.</string>
-    <string name="b12_kap13_kom_tem1_rz7">Da habe ich gemerkt / bemerkt, dass ... .</string>
-    <string name="b12_kap13_kom_tem1_rz8">Als ich meinen Fehler bemerkt habe, ... .</string>
-    <string name="b12_kap13_kom_tem1_rz9">Das war so peinlich! Aber spaeter haben wir noch oft darueber gelacht.</string>
-    <string name="b12_kap13_kom_tem1_rz10">Da haben alle gelacht und das Missverstaendnis aufgeklaert.</string>
-    <string name="b12_kap13_kom_tem2">nachfragen und Verstaendnis sichern</string>
+    <string name="b12_kap13_kom_tem1_rz7">Da habe ich gemerkt / bemerkt, dass &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz8">Als ich meinen Fehler bemerkt habe, &#8230; .</string>
+    <string name="b12_kap13_kom_tem1_rz9">Das war so peinlich! Aber sp&#228;ter haben wir noch oft dar&#252;ber gelacht.</string>
+    <string name="b12_kap13_kom_tem1_rz10">Da haben alle gelacht und das Missverst&#228;ndnis aufgekl&#228;rt.</string>
+    <string name="b12_kap13_kom_tem2">nachfragen und Verst&#228;ndnis sichern</string>
     <string name="b12_kap13_kom_tem2_rz1">Sie sprechen leider sehr schnell. Daher kann ich SIe nur schlecht verstehen.</string>
     <string name="b12_kap13_kom_tem2_rz2">Ich glaube, das habe ich nicht richtig verstanden.</string>
-    <string name="b12_kap13_kom_tem2_rz3">Koennten Sie das bitte wiederholen / buchstabieren?</string>
-    <string name="b12_kap13_kom_tem2_rz4">Koennten Sie bitte etwas langsamer sprechen?</string>
-    <string name="b12_kap13_kom_tem2_rz5">Ich kenne das Wort nicht. Koennten Sie mir das bitte erklaeren?</string>
+    <string name="b12_kap13_kom_tem2_rz3">K&#246;nnten Sie das bitte wiederholen / buchstabieren?</string>
+    <string name="b12_kap13_kom_tem2_rz4">K&#246;nnten Sie bitte etwas langsamer sprechen?</string>
+    <string name="b12_kap13_kom_tem2_rz5">Ich kenne das Wort nicht. K&#246;nnten Sie mir das bitte erkl&#228;ren?</string>
     <string name="b12_kap13_kom_tem2_rz6">Habe ich Sie richtig verstanden?</string>
-    <string name="b12_kap13_kom_tem2_rz7">Meinten Sie damit, dass ... ?</string>
-    <string name="b12_kap13_kom_tem2_rz8">Bedeutet das, dass ... ?</string>
+    <string name="b12_kap13_kom_tem2_rz7">Meinten Sie damit, dass &#8230; ?</string>
+    <string name="b12_kap13_kom_tem2_rz8">Bedeutet das, dass &#8230; ?</string>
 
 
 </resources>
