@@ -2359,4 +2359,21 @@
     <string name="b12_kap13_kom_tem2_rz8">Bedeutet das, dass &#8230; ?</string>
 
 
+    <string name="b12_kap14_gram_tem1">Partizip Praesens als Adjektiv:\nInfinitiv + d + Adjektivendung</string>
+    <string name="b12_kap14_gram_tem1_rz1">faszinierende Einblicke = Einblicke, die faszinieren</string>
+    <string name="b12_kap14_gram_tem1_rz2">auch so: eine herausfordernde Sportart, die entscheidenden Grundlagen, die passende Strategie, ein ueberzeugendes Verhalten, duftende Gewuerze</string>
+    <string name="b12_kap14_gram_tem2">Partizip Perfekt als Adjektiv:\nPartizp Perfekt + Adjektivendung</string>
+    <string name="b12_kap14_gram_tem2_rz1">versteckte Talente = Talente, die versteckt sind</string>
+    <string name="b12_kap14_gram_tem2_rz2">auch so: ausgewaehlte Musikstuecke, selbst gemachte Sommerkleidung, ausgewaehlte Lieder</string>
+    <string name="b12_kap14_kom_tem1">etwas empfehlen</string>
+    <string name="b12_kap14_kom_tem1_rz1">Sie interessieren sich fuer ... / Sie brauchen / moechten / sind ... ?</string>
+    <string name="b12_kap14_kom_tem1_rz2">Dieser Kurs ist fuer alle, die ... .</string>
+    <string name="b12_kap14_kom_tem1_rz3">In unserem / dem Kurs haben Sie die Moeglichkeit, ... .</string>
+    <string name="b12_kap14_kom_tem1_rz4">In diesem Kurs werden wir ... .</string>
+    <string name="b12_kap14_kom_tem1_rz5">Im Kurs / Dabei / Beim ... lernen Sie / lernt man, ... .</string>
+    <string name="b12_kap14_kom_tem1_rz6">Ganz, praktisch ueben wir ... .</string>
+    <string name="b12_kap14_kom_tem1_rz7">Ausserdem machen wir ... .</string>
+    <string name="b12_kap14_kom_tem1_rz8">Erfahrungen / Vorkenntnisse sind notwendig / nicht notwendig.</string>
+
+
 </resources>
