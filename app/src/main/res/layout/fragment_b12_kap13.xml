@@ -202,7 +202,8 @@
             android:text="@string/b12_kap13_gram_tem2_rz1"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="5dp" />
+            android:layout_marginBottom="5dp"
+            android:textColor="#ff0000" />
 
         <TextView
             android:id="@+id/textView3868"
