@@ -17,7 +17,7 @@
             android:id="@+id/textView4009"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Large Text"
+            android:text="@string/gramatyka"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -31,7 +31,7 @@
                 <TextView
                     android:id="@+id/textView4010"
                     android:layout_column="0"
-                    android:text="Medium Text"
+                    android:text="@string/mys"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
 
                 <TextView
@@ -39,7 +39,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Medium Text"
+                    android:text="@string/b12_kap15_gram_tem1"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -48,28 +48,28 @@
             android:id="@+id/textView4012"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Small Text"
+            android:text="@string/b12_kap15_gram_tem1_rz1"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/textView4013"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Small Text"
+            android:text="@string/b12_kap15_gram_tem1_rz2"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/textView4014"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Small Text"
+            android:text="@string/b12_kap15_gram_tem1_rz3"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <TextView
             android:id="@+id/textView4015"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Large Text"
+            android:text="@string/komunikacja"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TableLayout
@@ -83,7 +83,7 @@
                 <TextView
                     android:id="@+id/textView4016"
                     android:layout_column="0"
-                    android:text="Medium Text"
+                    android:text="@string/mys"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
 
                 <TextView
@@ -91,7 +91,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Medium Text"
+                    android:text="@string/b12_kap15_kom_tem1"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -107,7 +107,7 @@
                 <TextView
                     android:id="@+id/textView4018"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -115,7 +115,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -128,7 +128,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -136,7 +136,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -149,7 +149,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -157,7 +157,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -170,7 +170,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -178,7 +178,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -191,7 +191,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -199,7 +199,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -212,7 +212,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -220,7 +220,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -233,7 +233,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -241,7 +241,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz7"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -254,7 +254,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -262,7 +262,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz8"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -275,7 +275,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -283,7 +283,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz9"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -296,7 +296,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -304,7 +304,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz10"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -317,7 +317,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -325,7 +325,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem1_rz11"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
         </TableLayout>
@@ -341,7 +341,7 @@
                 <TextView
                     android:id="@+id/textView4040"
                     android:layout_column="0"
-                    android:text="Medium Text"
+                    android:text="@string/mys"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
 
                 <TextView
@@ -349,7 +349,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Medium Text"
+                    android:text="@string/b12_kap15_kom_tem2"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </TableRow>
         </TableLayout>
@@ -365,7 +365,7 @@
                 <TextView
                     android:id="@+id/textView4042"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -373,7 +373,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -386,7 +386,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -394,7 +394,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz2"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -407,7 +407,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -415,7 +415,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz3"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -428,7 +428,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -436,7 +436,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -449,7 +449,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -457,7 +457,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz5"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -470,7 +470,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -478,7 +478,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz6"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -491,7 +491,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -499,7 +499,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz7"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -512,7 +512,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -520,7 +520,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz8"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -533,7 +533,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -541,7 +541,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz9"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -554,7 +554,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -562,7 +562,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz10"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -575,7 +575,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -583,7 +583,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz11"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -596,7 +596,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -604,7 +604,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz12"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -617,7 +617,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -625,7 +625,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz13"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
 
@@ -638,7 +638,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="0"
-                    android:text="Small Text"
+                    android:text="@string/punkt"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
@@ -646,7 +646,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_column="1"
-                    android:text="Small Text"
+                    android:text="@string/b12_kap15_kom_tem2_rz14"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
         </TableLayout>

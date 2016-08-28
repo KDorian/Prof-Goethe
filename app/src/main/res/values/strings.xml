@@ -2376,4 +2376,37 @@
     <string name="b12_kap14_kom_tem1_rz8">Erfahrungen / Vorkenntnisse sind notwendig / nicht notwendig.</string>
 
 
+    <string name="b12_kap15_gram_tem1">zweiteilige Konjunktionen sowohl &#8230; als auch / nicht nur &#8230; , sondern auch (Aufz&#228;hlungen)</string>
+    <string name="b12_kap15_gram_tem1_rz1">Ich spreche sowohl Deutsch als auch Spanisch.</string>
+    <string name="b12_kap15_gram_tem1_rz2">Ich spreche nicht nut Deutsch, sondern auch Spanisch.</string>
+    <string name="b12_kap15_gram_tem1_rz3">= Ich spreche Deutsch und auch Spanisch.</string>
+    <string name="b12_kap15_kom_tem1">sich schriftlich bewerben</string>
+    <string name="b12_kap15_kom_tem1_rz1">Mit gro&#223;em Interesse &#8230; .</string>
+    <string name="b12_kap15_kom_tem1_rz2">Daher bewerbe ich mich hiermit um &#8230; .</string>
+    <string name="b12_kap15_kom_tem1_rz3">Ich habe meine Ausbildung / mein Studium (mit der Note &#8230; ) abgeschlossen.</string>
+    <string name="b12_kap15_kom_tem1_rz4">Danach habe ich bei &#8230; gearbeitet und erste Erfahrungen gesammelt.</string>
+    <string name="b12_kap15_kom_tem1_rz5">Als &#8230; geh&#246;rte es zu meinen Aufgaben &#8230; .</string>
+    <string name="b12_kap15_kom_tem1_rz6">Dabei habe ich auch Erfahrungen mit &#8230; gesammelt / gemacht.</string>
+    <string name="b12_kap15_kom_tem1_rz7">Dort / Dabei habe ich gemerkt, dass ich sowohl &#8230; als auch &#8230; bin.</string>
+    <string name="b12_kap15_kom_tem1_rz8">Es hat mir Spa&#223; / Freude gemacht, &#8230; / Ich kann mir gut vorstellen, &#8230; / Es f&#228;llt mir leicht, &#8230; .</string>
+    <string name="b12_kap15_kom_tem1_rz9">Ich beherrsche &#8230; .</string>
+    <string name="b12_kap15_kom_tem1_rz10">Sollten Sie noch Fragen haben, rufen Sie mich gern an.</string>
+    <string name="b12_kap15_kom_tem1_rz11">&#220;ber eine Einladung zu einem pers&#246;nlichen Gesrp&#228;ch w&#252;rde ich mich sehr fre&#252;n.</string>
+    <string name="b12_kap15_kom_tem2">ein Bewerbungsgespr&#228;ch f&#252;hren</string>
+    <string name="b12_kap15_kom_tem2_rz1">Danke f&#252;r die Einladung zum Gespr&#228;ch.</string>
+    <string name="b12_kap15_kom_tem2_rz2">Sch&#246;n, dass Sie da sind.</string>
+    <string name="b12_kap15_kom_tem2_rz3">Setzen Sie sich doch!</string>
+    <string name="b12_kap15_kom_tem2_rz4">Ich konnte in verschiedenen Bereichen Erfahrungen sammeln. So war ich &#8230; . Dabei habe ich &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz5">Ich m&#246;chte gern etwas Ne&#252;s machen und mich weiterentwickeln.</string>
+    <string name="b12_kap15_kom_tem2_rz6">Ich habe mir Ihr Unternahmen im Internet angeschaut und gesehen, dass &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz7">Ich denke, dass ich bei Ihnen viele M&#246;glichkeiten habe und &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz8">Ich mache &#8230; (nicht so) gern.</string>
+    <string name="b12_kap15_kom_tem2_rz9">Ich erledige meine Aufgaben sowohl &#8230; als auch &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz10">Manchmal bin ich etwas &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz11">Es f&#228;llt mir leicht, &#8230; .</string>
+    <string name="b12_kap15_kom_tem2_rz12">Haben Sie denn noch eine Frage an mich?</string>
+    <string name="b12_kap15_kom_tem2_rz13">Gut, Frau / Herr &#8230; , wir melden uns dann in ein paar Tagen bei Ihnen.</string>
+    <string name="b12_kap15_kom_tem2_rz14">Vielen Dank, dass Sie hier waren.</string>
+
+
 </resources>
