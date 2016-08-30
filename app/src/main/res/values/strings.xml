@@ -2427,6 +2427,33 @@
     <string name="b12_kap16_kom_tem2_rz5">Ich konnte es kaum erwarten, bis &#8230; .</string>
     <string name="b12_kap16_kom_tem2_rz6">Ich legte gr&#246;&#223;ten Wert auf &#8230; .</string>
     <string name="b12_kap16_kom_tem2_rz7">Das war mir (nicht so) wichtig.</string>
+    <string name="b12_kap17_gram_tem1">Ausdruecke mit es</string>
+    <string name="b12_kap17_gram_tem1_rz1">es in festen Wendungen</string>
+    <string name="b12_kap17_gram_tem1_rz2">Es ist schwierig / nicht leicht / noch nicht moeglich, ...</string>
+    <string name="b12_kap17_gram_tem1_rz3">Es lohnt sich.</string>
+    <string name="b12_kap17_gram_tem1_rz4">Es gibt ... .</string>
+    <string name="b12_kap17_gram_tem1_rz5">Es faellt ihr schwer, zu ... .</string>
+    <string name="b12_kap17_gram_tem1_rz6">Tages- und Jahreszeiten</string>
+    <string name="b12_kap17_gram_tem1_rz7">Es ist schon Abend / Nacht.</string>
+    <string name="b12_kap17_gram_tem1_rz8">Es ist Sommer / Winter / ...</string>
+    <string name="b12_kap17_gram_tem1_rz9">Wetter</string>
+    <string name="b12_kap17_gram_tem1_rz10">Es schneit/regnet.</string>
+    <string name="b12_kap17_gram_tem1_rz11">Es ist sonnig / neblig /... .</string>
+    <string name="b12_kap17_gram_tem1_rz12">Es hat kurz vorher geregnet.</string>
+    <string name="b12_kap17_gram_tem1_rz13">Es war eher bewoelkt.</string>
+    <string name="b12_kap17_gram_tem1_rz14">Es donnert und blitzt.</string>
+    <string name="b12_kap17_gram_tem1_rz15">Befinden</string>
+    <string name="b12_kap17_gram_tem1_rz16">Wie geht es Ihnen?</string>
+    <string name="b12_kap17_gram_tem1_rz17">Es geht ihr nicht gut.</string>
+    <string name="b12_kap17_kom_tem1">eine Lebensgeschichte nacherzaehlen</string>
+    <string name="b12_kap17_kom_tem1_rz1">... kommt am ... zur Welt / wird am ... geboren.</string>
+    <string name="b12_kap17_kom_tem1_rz2">Nach dem Tod ihrer / seiner Eltern / Nach der Ausbildung / Nach dem Studium ... .</string>
+    <string name="b12_kap17_kom_tem1_rz3">Mit ... Jahren lebt / reist sie / er ... .</string>
+    <string name="b12_kap17_kom_tem1_rz4">Zu ihrem / seinem ... Geburtstag ... .</string>
+    <string name="b12_kap17_kom_tem1_rz5">Im Sommer 1903 ... .</string>
+    <string name="b12_kap17_kom_tem1_rz6">Waehrend des Ersten Weltkriegs / der Zeit des Nationalsozialismus ... .</string>
+    <string name="b12_kap17_kom_tem1_rz7">Nach der Trennung ... .</string>
+    <string name="b12_kap17_kom_tem1_rz8">... stirbt mit ... Jahren in ... .</string>
 
 
 </resources>
