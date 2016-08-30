@@ -2407,23 +2407,25 @@
     <string name="b12_kap15_kom_tem2_rz12">Haben Sie denn noch eine Frage an mich?</string>
     <string name="b12_kap15_kom_tem2_rz13">Gut, Frau / Herr &#8230; , wir melden uns dann in ein paar Tagen bei Ihnen.</string>
     <string name="b12_kap15_kom_tem2_rz14">Vielen Dank, dass Sie hier waren.</string>
+
+
     <string name="b12_kap16_gram_tem1">nicht / nur brauchen + Infinitv mit zu</string>
     <string name="b12_kap16_gram_tem1_rz1">Im Haushalt brauchte ich in den Jahren vor dem Abitur nicht zu helfen.</string>
     <string name="b12_kap16_gram_tem1_rz2">Ich brauchte nur mein Zimmer in Ordnung zu halten.</string>
-    <string name="b12_kap16_kom_tem1">auf Erzaehlungen reagieren</string>
+    <string name="b12_kap16_kom_tem1">auf Erz&#228;hlungen reagieren</string>
     <string name="b12_kap16_kom_tem1_rz1">Bei uns kam das nicht infrage.</string>
     <string name="b12_kap16_kom_tem1_rz2">Das war bei uns nicht vorstellbar / auch so.</string>
-    <string name="b12_kap16_kom_tem1_rz3">Das koennen wir uns heute gar nicht mehr / immer noch sehr gut vorstellen.</string>
+    <string name="b12_kap16_kom_tem1_rz3">Das k&#246;nnen wir uns heute gar nicht mehr / immer noch sehr gut vorstellen.</string>
     <string name="b12_kap16_kom_tem1_rz4">Das ist heute kaum mehr / gut vorstellbar.</string>
     <string name="b12_kap16_kom_tem1_rz5">Das ging mir genauso / ganz anders.</string>
     <string name="b12_kap16_kom_tem1_rz6">Das kann ich gut / erhlich gesagt nicht verstehen.</string>
-    <string name="b12_kap16_kom_tem2">Wichtigkeit ausdruecken</string>
-    <string name="b12_kap16_kom_tem2_rz1">Es kam mir darauf an, ... .</string>
-    <string name="b12_kap16_kom_tem2_rz2">Am wichtigsten war mir ... .</string>
-    <string name="b12_kap16_kom_tem2_rz3">Fuer mich war, es sehr wichtig, dass ... .</string>
-    <string name="b12_kap16_kom_tem2_rz4">Ich ging / war, so oft ich konnte, ... .</string>
-    <string name="b12_kap16_kom_tem2_rz5">Ich konnte es kaum erwarten, bis ... .</string>
-    <string name="b12_kap16_kom_tem2_rz6">Ich legte groessten Wert auf ... .</string>
+    <string name="b12_kap16_kom_tem2">Wichtigkeit ausdr&#252;cken</string>
+    <string name="b12_kap16_kom_tem2_rz1">Es kam mir darauf an, &#8230; .</string>
+    <string name="b12_kap16_kom_tem2_rz2">Am wichtigsten war mir &#8230; .</string>
+    <string name="b12_kap16_kom_tem2_rz3">F&#252;r mich war, es sehr wichtig, dass &#8230; .</string>
+    <string name="b12_kap16_kom_tem2_rz4">Ich ging / war, so oft ich konnte, &#8230; .</string>
+    <string name="b12_kap16_kom_tem2_rz5">Ich konnte es kaum erwarten, bis &#8230; .</string>
+    <string name="b12_kap16_kom_tem2_rz6">Ich legte gr&#246;&#223;ten Wert auf &#8230; .</string>
     <string name="b12_kap16_kom_tem2_rz7">Das war mir (nicht so) wichtig.</string>
 
 
