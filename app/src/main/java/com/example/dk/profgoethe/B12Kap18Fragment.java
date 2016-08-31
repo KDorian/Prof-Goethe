@@ -27,20 +27,20 @@ public class B12Kap18Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // -- inflate the layout for this fragment
-        View myInflatedView = inflater.inflate(R.layout.fragment_b12_kap16, container, false);
+        View myInflatedView = inflater.inflate(R.layout.fragment_b12_kap18, container, false);
 
         // Set the Text to try this out
-        TextView t = (TextView) myInflatedView.findViewById(R.id.textView4073);
+        TextView t = (TextView) myInflatedView.findViewById(R.id.textView4162);
         String first = "Die Gr&#252;nde waren <font color='#EE0000'>entweder</font> nicht eingehaltene Wahlversprechen <font color='#EE0000'>oder</font> die Skandale einiger Minister.";
         t.setText(Html.fromHtml(first));
 
-        TextView t = (TextView) myInflatedView.findViewById(R.id.textView4073);
-        String first = "<font color='#EE0000'>Weder</font> waren den jungen Leuten die Volksvertretervolksnah genug, <font color='#EE0000'>noch</font> konnten sie die Parteien gut genug voneinander unterscheiden.";
-        t.setText(Html.fromHtml(first));
+        TextView t1 = (TextView) myInflatedView.findViewById(R.id.textView4164);
+        String first1 = "<font color='#EE0000'>Weder</font> waren den jungen Leuten die Volksvertretervolksnah genug, <font color='#EE0000'>noch</font> konnten sie die Parteien gut genug voneinander unterscheiden.";
+        t1.setText(Html.fromHtml(first1));
 
-        TextView t = (TextView) myInflatedView.findViewById(R.id.textView4073);
-        String first = "<font color='#EE0000'>Zwar</font> h&#228;lt die Mehrheit der Jugendlichen die Demokratie f&#252;r die beste Staatsform, <font color='#EE0000'>aber</font> die etablierten Parteien profitieren kaum davon.";
-        t.setText(Html.fromHtml(first));
+        TextView t2 = (TextView) myInflatedView.findViewById(R.id.textView4166);
+        String first2 = "<font color='#EE0000'>Zwar</font> h&#228;lt die Mehrheit der Jugendlichen die Demokratie f&#252;r die beste Staatsform, <font color='#EE0000'>aber</font> die etablierten Parteien profitieren kaum davon.";
+        t2.setText(Html.fromHtml(first2));
 
         return myInflatedView;
     }
