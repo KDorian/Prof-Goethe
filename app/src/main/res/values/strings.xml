@@ -2456,6 +2456,39 @@
     <string name="b12_kap17_kom_tem1_rz6">W&#228;hrend des Ersten Weltkriegs / der Zeit des Nationalsozialismus &#8230; .</string>
     <string name="b12_kap17_kom_tem1_rz7">Nach der Trennung &#8230; .</string>
     <string name="b12_kap17_kom_tem1_rz8">&#8230; stirbt mit &#8230; Jahren in &#8230; .</string>
+    <string name="b12_kap18_gram_tem1">zweiteilige Konjunktionen</string>
+    <string name="b12_kap18_gram_tem1_rz1">entweder ... oder = oder</string>
+    <string name="b12_kap18_gram_tem1_rz2">Die Gruende waren entweder nicht eingehaltene Wahlversprechen oder die SKandale einiger Minister.</string>
+    <string name="b12_kap18_gram_tem1_rz3">weder ... noch = nicht ... und nicht ...</string>
+    <string name="b12_kap18_gram_tem1_rz4">Weder waren den jungen Leuten die Volksvertretervolksnah genug, noch konnten sie die Parteien gut genug voneinander unterscheiden.</string>
+    <string name="b12_kap18_gram_tem1_rz5">zwar ... aber = obwohl</string>
+    <string name="b12_kap18_gram_tem1_rz6">Zwar haelt die Mehrheit der Jugendlichen die Demokratie fuer die beste Staatsform, aber die etablierten Parteien profitieren kaum davon.</string>
+    <string name="b12_kap18_gram_tem2">Wortbildung</string>
+    <string name="b12_kap18_gram_tem2_rz1"><![CDATA[Adjektiv + heit / -keit -> Nomen]]></string>
+    <string name="b12_kap18_gram_tem2_rz2"><![CDATA[frei + -heit -> die Freiheit]]></string>
+    <string name="b12_kap18_gram_tem2_rz3"><![CDATA[dankbar + -keit -> die Dankbarkeit]]></string>
+    <string name="b12_kap18_gram_tem2_rz4">auch so: Froehligkeit, Zufriedenheit</string>
+    <string name="b12_kap18_gram_tem2_rz5"><![CDATA[Adjektiv + -ismus -> Nomen]]></string>
+    <string name="b12_kap18_gram_tem2_rz6"><![CDATA[tour-istisch + -ismus -> der Tourismus]]></string>
+    <string name="b12_kap18_gram_tem2_rz7">auch so: Aktivismus, Optimismus, Sozialismus</string>
+    <string name="b12_kap18_gram_tem2_rz8"><![CDATA[Nomen + -ler -> Nomen]]></string>
+    <string name="b12_kap18_gram_tem2_rz9"><![CDATA[Sport + -ler -> der Sportler]]></string>
+    <string name="b12_kap18_gram_tem2_rz10">auch so: Wissenschaftler</string>
+    <string name="b12_kap18_gram_tem2_rz11"><![CDATA[Verben auf -ieren + -ant/-ent -> Nomen]]></string>
+    <string name="b12_kap18_gram_tem2_rz12"><![CDATA[stud-ieren + -ent -> der Student]]></string>
+    <string name="b12_kap18_gram_tem2_rz13"><![CDATA[demonstr-ieren + -ant -> der Demonstrant]]></string>
+    <string name="b12_kap18_gram_tem2_rz14">auch so: Abonnent, Konkurrent, Assistent, Praktikant</string>
+    <string name="b12_kap18_kom_tem1">diskutieren: eine Meinung aeussern</string>
+    <string name="b12_kap18_kom_tem1_rz1">Da bin ich gleicher / (voellig) anderer Meinung.</string>
+    <string name="b12_kap18_kom_tem1_rz2">Das sehe ich auch so / nicht so.</string>
+    <string name="b12_kap18_kom_tem1_rz3">Dafuer / Dagegen spricht, dass ... .</string>
+    <string name="b12_kap18_kom_tem1_rz4">Meiner Meinung / Ansicht nach ... .</string>
+    <string name="b12_kap18_kom_tem1_rz5">Davon halte ich nicht viel, denn ... .</string>
+    <string name="b12_kap18_kom_tem2">diskutieren: auf Meinungsaeusserungen reagieren</string>
+    <string name="b12_kap18_kom_tem2_rz1">Nein, auf keinen Fall.</string>
+    <string name="b12_kap18_kom_tem2_rz2">Das ist doch Unsinn!</string>
+    <string name="b12_kap18_kom_tem2_rz3">Unbedingt!</string>
+    <string name="b12_kap18_kom_tem2_rz4">Ganz meine Meinung.</string>
 
 
 </resources>
