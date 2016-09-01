@@ -2493,7 +2493,7 @@
     <string name="b12_kap18_kom_tem2_rz4">Ganz meine Meinung.</string>
 
 
-    <string name="b12_kap19_gram_tem1">zweiteilige Konjunktion je ... desto / umso</string>
+    <string name="b12_kap19_gram_tem1">zweiteilige Konjunktion je &#8230; desto / umso</string>
     <string name="b12_kap19_gram_tem1_rz1">Je mehr Menschen sich engagieren,</string>
     <string name="b12_kap19_gram_tem1_rz2">desto / umso besser kann der Verein seine Arbeit machen.</string>
     <string name="b12_kap19_gram_tem2">Modalpartikeln denn, doch, eigentlich, ja</string>
@@ -2501,13 +2501,13 @@
     <string name="b12_kap19_gram_tem2_rz2">freundliche Bitten und Aufforderungen</string>
     <string name="b12_kap19_gram_tem2_rz3">Bezug auf gemeinsames Wissen</string>
     <string name="b12_kap19_gram_tem2_rz4">Gibt es denn / eigentlich auch ein Heimatmuseum?</string>
-    <string name="b12_kap19_gram_tem2_rz5">Auch Sie koennten doch zum Beispiel eine Petenschaft uebernehmen.</string>
-    <string name="b12_kap19_gram_tem2_rz6">Ich habe Ihnen ja vorhin vom Naturschutzverein erzaehlt.</string>
-    <string name="b12_kap19_kom_tem1">Fragen zu einer Praesentation stellen</string>
-    <string name="b12_kap19_kom_tem1_rz1">Ich wuerde gern wissen, ... .</string>
-    <string name="b12_kap19_kom_tem1_rz2">Ich wuerde Sie gern etwas fragen.</string>
-    <string name="b12_kap19_kom_tem1_rz3">Gibt es denn auch ... .</string>
-    <string name="b12_kap19_kom_tem1_rz4">Ich haette auch noch eine Frage: Wissen Sie eigentlich schon, ... .</string>
+    <string name="b12_kap19_gram_tem2_rz5">Auch Sie k&#246;nnten doch zum Beispiel eine Petenschaft &#252;bernehmen.</string>
+    <string name="b12_kap19_gram_tem2_rz6">Ich habe Ihnen ja vorhin vom Naturschutzverein erz&#228;hlt.</string>
+    <string name="b12_kap19_kom_tem1">Fragen zu einer Pr&#228;sentation stellen</string>
+    <string name="b12_kap19_kom_tem1_rz1">Ich w&#252;rde gern wissen, &#8230; .</string>
+    <string name="b12_kap19_kom_tem1_rz2">Ich w&#252;rde Sie gern etwas fragen.</string>
+    <string name="b12_kap19_kom_tem1_rz3">Gibt es denn auch &#8230; .</string>
+    <string name="b12_kap19_kom_tem1_rz4">Ich h&#228;tte auch noch eine Frage: Wissen Sie eigentlich schon, &#8230; .</string>
     <string name="b12_kap19_kom_tem1_rz5">Darf ich Sie etwas fragen?</string>
 
 
