@@ -2516,19 +2516,19 @@
     <string name="b12_kap20_gram_tem1_rz2">Indem du Route und Ziel deiner Bergtour notierst,</string>
     <string name="b12_kap20_gram_tem1_rz3">Notiere Route und Ziel deiner Bergtour,</string>
     <string name="b12_kap20_gram_tem1_rz4">Resultat</string>
-    <string name="b12_kap20_gram_tem1_rz5">kannst du gefunden werden, falls du verunglueckst.</string>
-    <string name="b12_kap20_gram_tem1_rz6">sodass du gefunden werden kannst, falls du verunglueckst.</string>
+    <string name="b12_kap20_gram_tem1_rz5">kannst du gefunden werden, falls du verungl&#252;ckst.</string>
+    <string name="b12_kap20_gram_tem1_rz6">sodass du gefunden werden kannst, falls du verungl&#252;ckst.</string>
     <string name="b12_kap20_kom_tem1">Regeln diskutieren</string>
     <string name="b12_kap20_kom_tem1_rz1">Davon halte ich (nicht) sehr viel.</string>
     <string name="b12_kap20_kom_tem1_rz2">Das lehne ich ab.</string>
-    <string name="b12_kap20_kom_tem1_rz3">Das waere fuer mich undenkbar.</string>
+    <string name="b12_kap20_kom_tem1_rz3">Das w&#228;re f&#252;r mich undenkbar.</string>
     <string name="b12_kap20_kom_tem1_rz4">Das finde ich fair / unfair.</string>
     <string name="b12_kap20_kom_tem1_rz5">Das finde ich unheimlich wichtig.</string>
-    <string name="b12_kap20_kom_tem1_rz6">Wesentlich wichtiger finde ich ... .</string>
+    <string name="b12_kap20_kom_tem1_rz6">Wesentlich wichtiger finde ich &#8230; .</string>
     <string name="b12_kap20_kom_tem1_rz7">Es kommt darauf an, wie man das sieht.</string>
-    <string name="b12_kap20_kom_tem1_rz8">Ich lege groessten Wert auf ... / darauf, dass ... .</string>
-    <string name="b12_kap20_kom_tem1_rz9">Die Hauptsache ist, dass ... .</string>
-    <string name="b12_kap20_kom_tem1_rz10">Man kann schon verlangen, dass ... .</string>
+    <string name="b12_kap20_kom_tem1_rz8">Ich lege gr&#246;&#223;ten Wert auf &#8230; / darauf, dass &#8230; .</string>
+    <string name="b12_kap20_kom_tem1_rz9">Die Hauptsache ist, dass &#8230; .</string>
+    <string name="b12_kap20_kom_tem1_rz10">Man kann schon verlangen, dass &#8230; .</string>
 
 
 </resources>
