@@ -66,7 +66,8 @@
                     android:layout_height="match_parent"
                     android:text="@string/b12_kap20_gram_tem1_rz1"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/textView4240"
@@ -78,7 +79,8 @@
                     android:gravity="center"
                     android:text="@string/b12_kap20_gram_tem1_rz4"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:textStyle="bold" />
             </TableRow>
 
             <TableRow
