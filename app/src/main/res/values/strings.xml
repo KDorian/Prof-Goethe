@@ -2571,6 +2571,8 @@
     <string name="b12_kap21_kom_tem1_rz17">Besonders empfehlenswert ist &#8230; .</string>
     <string name="b12_kap21_kom_tem1_rz18">&#8230; d&#252;rfen Sie auf keinen Fall verpassen / vers&#228;umen.</string>
     <string name="b12_kap21_kom_tem1_rz19">Wenn Sie neugierig geworden sind, dann &#8230; .</string>
+
+
     <string name="b12_kap22_gram_tem1">Passiv Perfekt</string>
     <string name="b12_kap22_gram_tem1_rz1">Der Westteil Berlins</string>
     <string name="b12_kap22_gram_tem1_rz2">In der BRD</string>
@@ -2579,8 +2581,8 @@
     <string name="b12_kap22_gram_tem1_rz5">von den sowjetischen Truppen</string>
     <string name="b12_kap22_gram_tem1_rz6">die Demokratie</string>
     <string name="b12_kap22_gram_tem1_rz7">besetzt worden.</string>
-    <string name="b12_kap22_gram_tem1_rz8">eingefuehrt worden.</string>
-    <string name="b12_kap22_gram_tem2">Passiv Praeteritum</string>
+    <string name="b12_kap22_gram_tem1_rz8">eingef&#252;hrt worden.</string>
+    <string name="b12_kap22_gram_tem2">Passiv Pr&#228;teritum</string>
     <string name="b12_kap22_gram_tem2_rz1">Der Westteil Berlins</string>
     <string name="b12_kap22_gram_tem2_rz2">In der BRD</string>
     <string name="b12_kap22_gram_tem2_rz3">wurde</string>
@@ -2588,14 +2590,14 @@
     <string name="b12_kap22_gram_tem2_rz5">von den sowjetischen Truppen</string>
     <string name="b12_kap22_gram_tem2_rz6">die Demokratie</string>
     <string name="b12_kap22_gram_tem2_rz7">besetzt.</string>
-    <string name="b12_kap22_gram_tem2_rz8">eingefuehrt.</string>
-    <string name="b12_kap22_kom_tem1">Wunschvorstellungen ausdruecken</string>
-    <string name="b12_kap22_kom_tem1_rz1">Ich waere gern bei ... dabei gewesen.</string>
-    <string name="b12_kap22_kom_tem1_rz2">Das haette ich gern gesehen / erlebt / ... .</string>
-    <string name="b12_kap22_kom_tem1_rz3">Das war bestimmt eine tolle / beeindruckende / interessante / ... Zeit / ... .</string>
+    <string name="b12_kap22_gram_tem2_rz8">eingef&#252;hrt.</string>
+    <string name="b12_kap22_kom_tem1">Wunschvorstellungen ausdr&#252;cken</string>
+    <string name="b12_kap22_kom_tem1_rz1">Ich w&#228;re gern bei &#8230; dabei gewesen.</string>
+    <string name="b12_kap22_kom_tem1_rz2">Das h&#228;tte ich gern gesehen / erlebt / &#8230; .</string>
+    <string name="b12_kap22_kom_tem1_rz3">Das war bestimmt eine tolle / beeindruckende / interessante / &#8230; Zeit / &#8230; .</string>
     <string name="b12_kap22_kom_tem1_rz4">Das muss sehr beeindruckend / interessant gewesen sein.</string>
-    <string name="b12_kap22_kom_tem1_rz5">Mich hat ... schon immer beeindruckt / interessiert / ... .</string>
-    <string name="b12_kap22_kom_tem1_rz6">Ich konnte mir noch nie / schon immer gut vorstellen, ... .</string>
+    <string name="b12_kap22_kom_tem1_rz5">Mich hat &#8230; schon immer beeindruckt / interessiert / &#8230; .</string>
+    <string name="b12_kap22_kom_tem1_rz6">Ich konnte mir noch nie / schon immer gut vorstellen, &#8230; .</string>
 
 
 </resources>
