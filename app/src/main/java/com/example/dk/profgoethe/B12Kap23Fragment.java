@@ -7,12 +7,12 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by DK on 04.09.2016.
+ * Created by DK on 05.09.2016.
  */
-public class B12Kap22Fragment extends Fragment {
+public class B12Kap23Fragment extends Fragment {
 
 
-    public B12Kap22Fragment() {
+    public B12Kap23Fragment() {
     }
 
     @Override
@@ -24,7 +24,7 @@ public class B12Kap22Fragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_b12_kap22, container, false);
+        return inflater.inflate(R.layout.fragment_red, container, false);
     }
 
 
