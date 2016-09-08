@@ -2606,6 +2606,20 @@
     <string name="b12_kap23_gram_tem1_rz5">statt dass ich im Stau stehe.</string>
     <string name="b12_kap23_gram_tem1_rz6">statt im Stau zu stehen.</string>
     <string name="b12_kap23_gram_tem1_rz7">Gibt es verschiedene Subjekte, verwendet man immer (an)statt / ohne dass: Die Buerger demonstrieren fuer bessere Radwege, ohne dass die Politik etwas aendert. Nur wenn das Subjekt in Haupt- und Nebensatz gleich ist, kann man auch (an)statt / ohne ... zu verwenden.</string>
+    <string name="b12_kap23_kom_tem1">Zustimmung / Ablehnung ausdruecken</string>
+    <string name="b12_kap23_kom_tem1_rz1">Doch, du hast recht.</string>
+    <string name="b12_kap23_kom_tem1_rz2">(Ganz) Genau.</string>
+    <string name="b12_kap23_kom_tem1_rz3">Ich bin voll und ganz deiner Meinung.</string>
+    <string name="b12_kap23_kom_tem1_rz4">Ich kann dir da nur / nicht zustimmen.</string>
+    <string name="b12_kap23_kom_tem1_rz5">Davon halte ich nicht viel.</string>
+    <string name="b12_kap23_kom_tem1_rz6">Ich bin voellig anderer Meinung. Mein Standpunkt ist, dass ... .</string>
+    <string name="b12_kap23_kom_tem2">rueckfragen und Gleichgueltigkeit ausdruecken</string>
+    <string name="b12_kap23_kom_tem2_rz1">Mecht ir das nichts aus?</string>
+    <string name="b12_kap23_kom_tem2_rz2">Aergerst du dich denn nicht darueber?</string>
+    <string name="b12_kap23_kom_tem2_rz3">Nein, das ist mir ganz egal / gleich.</string>
+    <string name="b12_kap23_kom_tem2_rz4">Das spietl keine Rolle.</string>
+    <string name="b12_kap23_kom_tem2_rz5">Das interessiert mich nicht.</string>
+    <string name="b12_kap23_kom_tem2_rz6">Meinetwegen kann jeder das so machen, wie er moechte.</string>
 
 
 </resources>
