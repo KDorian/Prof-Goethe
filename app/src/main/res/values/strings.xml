@@ -2598,28 +2598,30 @@
     <string name="b12_kap22_kom_tem1_rz4">Das muss sehr beeindruckend / interessant gewesen sein.</string>
     <string name="b12_kap22_kom_tem1_rz5">Mich hat &#8230; schon immer beeindruckt / interessiert / &#8230; .</string>
     <string name="b12_kap22_kom_tem1_rz6">Ich konnte mir noch nie / schon immer gut vorstellen, &#8230; .</string>
-    <string name="b12_kap23_gram_tem1">Konjunktionen (an)statt / ohne ... zu, (an)statt / ohne dass</string>
+
+
+    <string name="b12_kap23_gram_tem1">Konjunktionen (an)statt / ohne &#8230; zu, (an)statt / ohne dass</string>
     <string name="b12_kap23_gram_tem1_rz1">Ich lebe in einem attraktiven Umfeld,</string>
     <string name="b12_kap23_gram_tem1_rz2">Ich steigere Fitness und Kondition,</string>
     <string name="b12_kap23_gram_tem1_rz3">ohne dass ich auf Komfort verzichte.</string>
     <string name="b12_kap23_gram_tem1_rz4">ohne auf Komfort zu verzichten.</string>
     <string name="b12_kap23_gram_tem1_rz5">statt dass ich im Stau stehe.</string>
     <string name="b12_kap23_gram_tem1_rz6">statt im Stau zu stehen.</string>
-    <string name="b12_kap23_gram_tem1_rz7">Gibt es verschiedene Subjekte, verwendet man immer (an)statt / ohne dass: Die Buerger demonstrieren fuer bessere Radwege, ohne dass die Politik etwas aendert. Nur wenn das Subjekt in Haupt- und Nebensatz gleich ist, kann man auch (an)statt / ohne ... zu verwenden.</string>
-    <string name="b12_kap23_kom_tem1">Zustimmung / Ablehnung ausdruecken</string>
+    <string name="b12_kap23_gram_tem1_rz7">Gibt es verschiedene Subjekte, verwendet man immer (an)statt / ohne dass: Die B&#252;rger demonstrieren f&#252;r bessere Radwege, ohne dass die Politik etwas &#228;ndert. Nur wenn das Subjekt in Haupt- und Nebensatz gleich ist, kann man auch (an)statt / ohne &#8230; zu verwenden.</string>
+    <string name="b12_kap23_kom_tem1">Zustimmung / Ablehnung ausdr&#252;cken</string>
     <string name="b12_kap23_kom_tem1_rz1">Doch, du hast recht.</string>
     <string name="b12_kap23_kom_tem1_rz2">(Ganz) Genau.</string>
     <string name="b12_kap23_kom_tem1_rz3">Ich bin voll und ganz deiner Meinung.</string>
     <string name="b12_kap23_kom_tem1_rz4">Ich kann dir da nur / nicht zustimmen.</string>
     <string name="b12_kap23_kom_tem1_rz5">Davon halte ich nicht viel.</string>
-    <string name="b12_kap23_kom_tem1_rz6">Ich bin voellig anderer Meinung. Mein Standpunkt ist, dass ... .</string>
-    <string name="b12_kap23_kom_tem2">rueckfragen und Gleichgueltigkeit ausdruecken</string>
+    <string name="b12_kap23_kom_tem1_rz6">Ich bin v&#246;llig anderer Meinung. Mein Standpunkt ist, dass &#8230; .</string>
+    <string name="b12_kap23_kom_tem2">r&#252;ckfragen und Gleichg&#252;ltigkeit ausdr&#252;cken</string>
     <string name="b12_kap23_kom_tem2_rz1">Mecht ir das nichts aus?</string>
-    <string name="b12_kap23_kom_tem2_rz2">Aergerst du dich denn nicht darueber?</string>
+    <string name="b12_kap23_kom_tem2_rz2">&#196;rgerst du dich denn nicht dar&#252;ber?</string>
     <string name="b12_kap23_kom_tem2_rz3">Nein, das ist mir ganz egal / gleich.</string>
     <string name="b12_kap23_kom_tem2_rz4">Das spietl keine Rolle.</string>
     <string name="b12_kap23_kom_tem2_rz5">Das interessiert mich nicht.</string>
-    <string name="b12_kap23_kom_tem2_rz6">Meinetwegen kann jeder das so machen, wie er moechte.</string>
+    <string name="b12_kap23_kom_tem2_rz6">Meinetwegen kann jeder das so machen, wie er m&#246;chte.</string>
 
 
 </resources>
