@@ -2624,4 +2624,29 @@
     <string name="b12_kap23_kom_tem2_rz6">Meinetwegen kann jeder das so machen, wie er m&#246;chte.</string>
 
 
+    <string name="b12_kap24_gram_tem1">Konjunktionen damit / um &#8230; zu (Absichten ausdr&#252;cken)</string>
+    <string name="b12_kap24_gram_tem1_rz1">Drei Familien haben den Betrieb wieder aufgebaut, damit wir die Nachfrage nach Obst und Gem&#252;se bedienen k&#246;nnen.</string>
+    <string name="b12_kap24_gram_tem1_rz2">Wir hatten uns zusammengeschlossen, damit wir gemeinsam ein Dorf ba&#252;n.</string>
+    <string name="b12_kap24_gram_tem1_rz3">Wir hatten uns zusammengeschlossen, um gemeinsam ein Dorf zu ba&#252;n.</string>
+    <string name="b12_kap24_gram_tem1_rz4">Das Subjekt in Haupt- und Nebensatz ist gleich: Man kann damit oder um &#8230; zu verwenden.</string>
+    <string name="b12_kap24_gram_tem1_rz5">Die Subjekte in Haupt- und Nebensatz sind verschieden: Man kann nur damit vervenden.</string>
+    <string name="b12_kap24_gram_tem2">Konjunktion als ob + Konjunktiv II (irrealer Vergleich)</string>
+    <string name="b12_kap24_gram_tem2_rz1">Wir, tun so, als ob wir in Sachen Klimaschutz ewig Zeit f&#252;r Ver&#228;nderungen h&#228;tten.</string>
+    <string name="b12_kap24_kom_tem1">&#220;berzeugung ausdr&#252;cken</string>
+    <string name="b12_kap24_kom_tem1_rz1">Ich bin davon &#252;berzeugt, dass &#8230; eine / keine Rolle spielen wird.</string>
+    <string name="b12_kap24_kom_tem1_rz2">Bei der zunehmenden Globalisierung / Alterung der Gesellschaft / &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz3">Wir werden &#8230; tun m&#252;ssen, damit &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz4">Ist es realistisch, dass &#8230; ?</string>
+    <string name="b12_kap24_kom_tem1_rz5">Wir m&#252;ssen weiter intensiv &#8230; , sonst &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz6">Wenn &#8230; , dann haben wir keine andere Wahl.</string>
+    <string name="b12_kap24_kom_tem1_rz7">Wenn sich die Zahl der &#8230; weiter so erh&#246;ht / vergr&#246;ssert, dann &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz8">Die Sache ist ganz einfach: Wir m&#252;ssen &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz9">Wir k&#246;nnen nicht so tun, als ob &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz10">Das l&#246;st mehrere Probleme auf einmal.</string>
+    <string name="b12_kap24_kom_tem1_rz11">Es gibt keine Alternative zu &#8230; / Dazu gibt es keine Alternative.</string>
+    <string name="b12_kap24_kom_tem1_rz12">Meiner &#220;berzeugung nach &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz13">F&#252;r mich besteht kein Zweifel daran, dass &#8230; .</string>
+    <string name="b12_kap24_kom_tem1_rz14">Ich zweifle nicht daran, dass &#8230; .</string>
+
+
 </resources>
