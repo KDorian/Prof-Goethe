@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -7,7 +8,8 @@
         android:text="TextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView3837" />
+        android:id="@+id/textView3837"
+        tools:text="@string/gramatyka" />
 
     <TableLayout
         android:layout_width="match_parent"
@@ -21,13 +23,15 @@
                 android:text="TextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView4458" />
+                android:id="@+id/textView4458"
+                tools:text="@string/mys" />
 
             <TextView
                 android:text="TextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView4457" />
+                android:id="@+id/textView4457"
+                tools:text="@string/b13_kap01_gram_tem1" />
 
         </TableRow>
 
