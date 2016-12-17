@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <TextView
-        android:text="TextView"
+        android:text="@string/gramatyka"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView3837"
-        tools:text="@string/gramatyka" />
+        />
 
     <TableLayout
         android:layout_width="match_parent"
@@ -20,23 +21,28 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/mys"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4458"
-                tools:text="@string/mys" />
+                 />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView4457"
-                tools:text="@string/b13_kap01_gram_tem1" />
+                android:id="@+id/textView4457" />
 
         </TableRow>
 
     </TableLayout>
 
+    <TextView
+        android:text="@string/b13_kap01_gram_tem1_rz1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4557" />
+
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -46,19 +52,19 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4459" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4460" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4461" />
@@ -69,22 +75,26 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4462" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4463" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4464" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
         </TableRow>
 
         <TableRow
@@ -92,24 +102,48 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz8"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4465" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz9"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4466" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem1_rz10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4467" />
+
         </TableRow>
 
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+
+            <TextView
+                android:text="@string/b13_kap01_gram_tem1_rz11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4558" />
+
+            <TextView
+                android:text="@string/b13_kap01_gram_tem1_rz12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4559" />
+
+            <TextView
+                android:text="@string/b13_kap01_gram_tem1_rz13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4560" />
+        </TableRow>
     </TableLayout>
 
     <TableLayout
@@ -124,10 +158,11 @@
                 android:text="TextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/textView4490" />
+                android:id="@+id/textView4490"
+                tools:text="@string/mys" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/b13_kap01_gram_tem2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4489" />
@@ -136,10 +171,16 @@
     </TableLayout>
 
     <TextView
-        android:text="TextView"
+        android:text="@string/b13_kap01_gram_tem2_rz1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView4491" />
+
+    <TextView
+        android:text="@string/b13_kap01_gram_tem2_rz2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4561" />
 
     <TableLayout
         android:layout_width="match_parent"
@@ -150,25 +191,25 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/pusty"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4471" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/maskulin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4470" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/neutral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4469" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/feminin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4468" />
@@ -179,7 +220,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_nominativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4475" />
@@ -208,7 +249,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_akkusativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4479" />
@@ -237,7 +278,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_dativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4483" />
@@ -266,7 +307,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_genitiv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4487" />
@@ -306,25 +347,25 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/pusty"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4496" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/maskulin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4495" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/feminin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4494" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/neutral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4493" />
@@ -335,7 +376,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_nominativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4500" />
@@ -364,7 +405,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_akkusativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4504" />
@@ -393,7 +434,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_dativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4508" />
@@ -422,7 +463,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_genitiv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4512" />
@@ -462,25 +503,25 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/pusty"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4517" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/maskulin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4516" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/neutral"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4515" />
 
             <TextView
-                android:text="TextView"
+                android:text="@string/feminin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4514" />
@@ -491,7 +532,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_nominativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4521" />
@@ -520,7 +561,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_akkusativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4525" />
@@ -549,7 +590,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_dativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4529" />
@@ -578,7 +619,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_genitiv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4533" />
@@ -618,7 +659,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/pusty"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4538" />
@@ -647,7 +688,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_nominativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4542" />
@@ -676,7 +717,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_akkusativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4546" />
@@ -705,7 +746,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_dativ"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4550" />
@@ -734,7 +775,7 @@
             android:layout_height="match_parent" >
 
             <TextView
-                android:text="TextView"
+                android:text="@string/skrot_genitiv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView4554" />
