@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="b13_kap01_gram_tem1">Temporaladverbien</string>
+
+    <string name="b13_kap01_gram_tem1_rz1">Adverbien haben immer die gleiche Form, das heisst, man kann sie nicht deklinieren. Mit Temporaladverbien macht man Angaben zur Zeit.</string>
+    <string name="b13_kap01_gram_tem1_rz2">Temporaladverb</string>
+    <string name="b13_kap01_gram_tem1_rz3">Bedeutung</string>
+    <string name="b13_kap01_gram_tem1_rz4">Beispiel</string>
+    <string name="b13_kap01_gram_tem1_rz5">immer, oft, manchmal, selten, nie, ...</string>
+    <string name="b13_kap01_gram_tem1_rz6">Haeufigkeit</string>
+    <string name="b13_kap01_gram_tem1_rz7">Nuriye trifft oft Freunde auf Facebok.</string>
+    <string name="b13_kap01_gram_tem1_rz8">morens, vormittags, ... , montags, dienstas, ... , taeglich, monatlich, ...</string>
+    <string name="b13_kap01_gram_tem1_rz9">Wiederholung</string>
+    <string name="b13_kap01_gram_tem1_rz10">Sonntags telefoniere ich per Skype mit einer Freundin in Minnesota.</string>
+    <string name="b13_kap01_gram_tem1_rz11">zuerst, dann, danach, anschliessend, schliesslich, ...</string>
+    <string name="b13_kap01_gram_tem1_rz12">zeitliche Reihenfolge</string>
+    <string name="b13_kap01_gram_tem1_rz13">Zuerst gehen Sie auf die Webseite des Netzwerks.</string>
+
+    <string name="b13_kap01_gram_tem2">Adjektivdeklination</string>
+
+    <string name="b13_kap01_gram_tem2_rz1">Adjektive vor einem Nomen haben eine Endung. Die Adjektivendung richtet sich nach Genus (maskulin, feminin, neutral), Numerus (Singular, Plural) und Kasus (Nominativ, Akkusativ, Dativ, Genitiv) des Nomens.</string>
+    <string name="b13_kap01_gram_tem2_rz2">Adjektivdeklination im Singular: Definiter Artikel</string>
+    <string name="b13_kap01_gram_tem2_rz3">der schoene Satz</string>
+    <string name="b13_kap01_gram_tem2_rz4">das schoene Wort</string>
+    <string name="b13_kap01_gram_tem2_rz5">die schoene Sprache</string>
+    <string name="b13_kap01_gram_tem2_rz6">den schoenen Satz</string>
+    <string name="b13_kap01_gram_tem2_rz7">das schoene Wort</string>
+    <string name="b13_kap01_gram_tem2_rz8">die schoene Sprache</string>
+    <string name="b13_kap01_gram_tem2_rz9">dem schoenen Satz</string>
+    <string name="b13_kap01_gram_tem2_rz10">dem schoenen Wort</string>
+    <string name="b13_kap01_gram_tem2_rz11">der schoenen Sprache</string>
+    <string name="b13_kap01_gram_tem2_rz12">des schoenen Satzes</string>
+    <string name="b13_kap01_gram_tem2_rz13">des schoenen Wortes</string>
+    <string name="b13_kap01_gram_tem2_rz14">der schoenen Sprache</string>
+
+</resources>
