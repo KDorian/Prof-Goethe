@@ -132,6 +132,11 @@
         <item>Kapitel 12</item>
     </string-array>
 
+    <string name="skrot_nominativ">N</string>
+    <string name="skrot_genitiv">G</string>
+    <string name="skrot_dativ">D</string>
+    <string name="skrot_akkusativ">A</string>
+
     <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
     <string name="title_activity_navigation_drawer_a11">A1.1.</string>
     <string name="title_activity_navigation_drawer_a12">A1.2.</string>
